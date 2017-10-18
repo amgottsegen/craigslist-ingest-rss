@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/reb?format=rss">
+<title>craigslist philadelphia | real estate - by broker search </title>
+<link>https://philadelphia.craigslist.org/search/reb</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/reb?format=rss</dc:source>
+<dc:title>craigslist philadelphia | real estate - by broker search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:33-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/wow-lets-make-deal-easton/6327469033.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/reward-yourself-78-acres-farm/6322099166.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/look-no-further-this-updated/6351008386.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/the-cats-meow/6315283996.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/one-heck-of-kitchen-for-one/6341228954.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/dont-take-peek-unique-home/6341242932.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/check-out-where-the-green/6341258844.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/finally-affordable-room-for/6341276866.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/check-out-why-the-hills-are/6341296494.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/this-3-bed-15-bath-home-with/6350901689.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/this-newly-updated-3-bed-15/6350901433.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/investor-special-this/6350901152.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/owner-occupants-great-hud/6345111186.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/an-iconic-transformation-of/6350887058.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/the-court-at-moore-st-gated/6350886341.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/designer-ready-raw-penthouse/6350886282.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/beautiful-home-in-south-philly/6343536220.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/600-sf-of-retail-space-bella/6350868049.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/price-reduced-stunning-4br/6350846517.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/bailiwick-office-campus/6341609023.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/3000-sf-of-office-space-in/6341615759.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/revere-commonscottman-avenue/6341625348.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/2304-broad-street/6341631566.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/welcome-to-this-renovated/6350857860.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/reb/d/reduced-discover-cape-may/6346963758.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/wow-lets-make-deal-easton/6327469033.html">
+<title><![CDATA[WOW LETS MAKE A DEAL * EASTON PRIME WATER FRONT BARGAIN (EASTON) &#x0024;1450000 4bd]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/wow-lets-make-deal-easton/6327469033.html</link>
+<description><![CDATA[OPEN HOUSE SATURDAY 11:00 TO 4:00 drive on down and fall in Love 
+AMAZING location on Peach Blossom Creek well above the 100 year flood level across from the Talbot County Country Club. 
+Roomy 4 bedroom 3 1/2 bath home just waiting for you Imaginatio ...]]></description>
+<dc:date>2017-10-18T11:14:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/wow-lets-make-deal-easton/6327469033.html</dc:source>
+<dc:title><![CDATA[WOW LETS MAKE A DEAL * EASTON PRIME WATER FRONT BARGAIN (EASTON) &#x0024;1450000 4bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00H0H_fciK6Te3cnv_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:14:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/reward-yourself-78-acres-farm/6322099166.html">
+<title><![CDATA[REWARD YOURSELF * 78 ACRES FARM AMAZING HOME-SITE BROAD VIEWS (NEAR EASTON) &#x0024;725000]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/reward-yourself-78-acres-farm/6322099166.html</link>
+<description><![CDATA[History Abounds and Think How Special to Build your Eastern Shore Estate on this Special Property 
+REMAINING 78 ACRES OF A ONCE 1,100 PLANTATION AND THE FORMER HOME-SITE OF ONE OF THE COUNTIES MOST PROMINENT HOMES BUILT BY WILLIAM FRAZIER AND DAMAGED ...]]></description>
+<dc:date>2017-10-18T11:13:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/reward-yourself-78-acres-farm/6322099166.html</dc:source>
+<dc:title><![CDATA[REWARD YOURSELF * 78 ACRES FARM AMAZING HOME-SITE BROAD VIEWS (NEAR EASTON) &#x0024;725000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01010_e4KSlVqDsov_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:13:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/look-no-further-this-updated/6351008386.html">
+<title><![CDATA[Look no further! This updated home is a Pennsport gem.  Located on a g... 2 Beds (Philadelphia) &#x0024;254900 2bd 972ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/look-no-further-this-updated/6351008386.html</link>
+<description><![CDATA[$254,900 Philadelphia 2 beds, 1 baths, 972 sqr feet - Look no further! This updated home is a Pennsport gem. Located on a great block in South Philly. This property has been rehabbed tastefully throughout. Just a short walk to the bars and restaurant ...]]></description>
+<dc:date>2017-10-18T11:10:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/look-no-further-this-updated/6351008386.html</dc:source>
+<dc:title><![CDATA[Look no further! This updated home is a Pennsport gem.  Located on a g... 2 Beds (Philadelphia) &#x0024;254900 2bd 972ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00f0f_iQMms4CJuoz_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:10:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/the-cats-meow/6315283996.html">
+<title><![CDATA[The Cat's Meow (West Chester) &#x0024;545000]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/the-cats-meow/6315283996.html</link>
+<description><![CDATA[Welcome home to this beautiful end unit carriage home in Cherry Creek Conservation Community! This 3 bedroom, 3.5 bath home leaves nothing to be desired. Enjoy the open floor plan that begins with a gracious foyer that showcases this home's brilliant ...]]></description>
+<dc:date>2017-10-18T10:33:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/the-cats-meow/6315283996.html</dc:source>
+<dc:title><![CDATA[The Cat's Meow (West Chester) &#x0024;545000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00d0d_7FHYX9zmShi_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:33:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/one-heck-of-kitchen-for-one/6341228954.html">
+<title><![CDATA[One Heck Of A Kitchen For One Heck of A Cook! (Boothwyn) &#x0024;314900]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/one-heck-of-kitchen-for-one/6341228954.html</link>
+<description><![CDATA[Last End Unit! These 12 New Town Homes were built in the existing Creekside Village 55+ Community. These spacious 3BR 2.5 bath units, Featuring a first floor Master Bedroom, large Loft that overlooks the great room, Walkout basements on all units off ...]]></description>
+<dc:date>2017-10-18T10:33:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/one-heck-of-kitchen-for-one/6341228954.html</dc:source>
+<dc:title><![CDATA[One Heck Of A Kitchen For One Heck of A Cook! (Boothwyn) &#x0024;314900]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00d0d_9ewO5Z61LgQ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:33:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/dont-take-peek-unique-home/6341242932.html">
+<title><![CDATA[Don't take a peek, unique home, you probably want a cookie cutter home (Boothwyn) &#x0024;314900]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/dont-take-peek-unique-home/6341242932.html</link>
+<description><![CDATA[Last Phase! These 12 New Town Homes were built in the existing Creekside Village 55+ Community. These spacious 3BR 2.5 bath units, Featuring a first floor Master Bedroom, large Loft that overlooks the great room, Walkout basements on all units offeri ...]]></description>
+<dc:date>2017-10-18T10:33:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/dont-take-peek-unique-home/6341242932.html</dc:source>
+<dc:title><![CDATA[Don't take a peek, unique home, you probably want a cookie cutter home (Boothwyn) &#x0024;314900]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00V0V_2AZFnGTQP4x_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:33:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/check-out-where-the-green/6341258844.html">
+<title><![CDATA[Check out Where the Green Grass grows (West Chester) &#x0024;335000]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/check-out-where-the-green/6341258844.html</link>
+<description><![CDATA[SHOWINGS RESUME MONDAY 8.28.17. Location, Location, Location. The bones are here and the location can't be beat. Be part of North Hill, and be able to walk to Downtown West Chester. Be aware the home needs an Exterior overhaul and interior updating a ...]]></description>
+<dc:date>2017-10-18T10:32:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/check-out-where-the-green/6341258844.html</dc:source>
+<dc:title><![CDATA[Check out Where the Green Grass grows (West Chester) &#x0024;335000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01515_11LW1Uipm2U_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:32:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/finally-affordable-room-for/6341276866.html">
+<title><![CDATA[Finally, Affordable Room For the Whole Gang (West Grove) &#x0024;345000]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/finally-affordable-room-for/6341276866.html</link>
+<description><![CDATA[WELCOME HOME to this custom 3 bedroom, 2 bath log home on a cul-de-sac 1-acre lot. Hand crafted on-site, (Great Wood Log Homes)by Eagle Builders from Wisconsin. Lovingly constructed of Northern cedar logs, along with beautiful knotty pine ceilings th ...]]></description>
+<dc:date>2017-10-18T10:32:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/finally-affordable-room-for/6341276866.html</dc:source>
+<dc:title><![CDATA[Finally, Affordable Room For the Whole Gang (West Grove) &#x0024;345000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00505_6Hm1Mbhc8uj_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:32:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/check-out-why-the-hills-are/6341296494.html">
+<title><![CDATA[Check Out Why The Hills Are Alive With The Sound Of Music (West Chester) &#x0024;360000]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/check-out-why-the-hills-are/6341296494.html</link>
+<description><![CDATA[Beautifully updated and improved unit at the end of the cul-de-sac in Birmingham Hunt. First floor features a new kitchen with granite counters and stainless appliances. True eat in kitchen! There are newer hardwoods throughout the first floor and st ...]]></description>
+<dc:date>2017-10-18T10:32:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/check-out-why-the-hills-are/6341296494.html</dc:source>
+<dc:title><![CDATA[Check Out Why The Hills Are Alive With The Sound Of Music (West Chester) &#x0024;360000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00T0T_aGlUVICexpS_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:32:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/this-3-bed-15-bath-home-with/6350901689.html">
+<title><![CDATA[This 3 bed 1.5 bath home with over 1600 square feet is waiting for you... 3 Beds (Philadelphia) &#x0024;260000 3bd 1632ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/this-3-bed-15-bath-home-with/6350901689.html</link>
+<description><![CDATA[$260,000 Philadelphia 3 beds, 1 baths, 1,632 sqr feet - This 3 bed 1.5 bath home with over 1600 square feet is waiting for your finishing touch. Follow the hardwood floors through the living room and take note of the new trim moldings. The bright kit ...]]></description>
+<dc:date>2017-10-18T09:54:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/this-3-bed-15-bath-home-with/6350901689.html</dc:source>
+<dc:title><![CDATA[This 3 bed 1.5 bath home with over 1600 square feet is waiting for you... 3 Beds (Philadelphia) &#x0024;260000 3bd 1632ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01010_imzj78wByai_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:54:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/this-newly-updated-3-bed-15/6350901433.html">
+<title><![CDATA[This newly updated 3 bed 1.5 bath colonial is located in the Twin Vall... 3 Beds (Honey Brook) &#x0024;197000 3bd 1496ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/this-newly-updated-3-bed-15/6350901433.html</link>
+<description><![CDATA[$197,000 Honey Brook 3 beds, 1 baths, 1,496 sqr feet - This newly updated 3 bed 1.5 bath colonial is located in the Twin Valley school district and has a ton of charm. A covered front porch opens to a large living room and bright dining room. Through ...]]></description>
+<dc:date>2017-10-18T09:54:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/this-newly-updated-3-bed-15/6350901433.html</dc:source>
+<dc:title><![CDATA[This newly updated 3 bed 1.5 bath colonial is located in the Twin Vall... 3 Beds (Honey Brook) &#x0024;197000 3bd 1496ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00i0i_lQhhvARs0A4_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:54:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/investor-special-this/6350901152.html">
+<title><![CDATA[Investor Special! This property has potential to be a rehab or rental.... 4 Beds (Philadelphia) &#x0024;115000 4bd 1875ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/investor-special-this/6350901152.html</link>
+<description><![CDATA[$115,000 Philadelphia 4 beds, 2 baths, 1,875 sqr feet - Investor Special! This property has potential to be a rehab or rental. The main floor features the living room, laundry, and eat in kitchen with access to a large fenced in yard. There are two b ...]]></description>
+<dc:date>2017-10-18T09:53:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/investor-special-this/6350901152.html</dc:source>
+<dc:title><![CDATA[Investor Special! This property has potential to be a rehab or rental.... 4 Beds (Philadelphia) &#x0024;115000 4bd 1875ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01414_4KrcBOXmxAp_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:53:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/owner-occupants-great-hud/6345111186.html">
+<title><![CDATA[Owner Occupants:  Great HUD Home in Mt. Laurel! (Mt. Laurel) &#x0024;144000 3bd 1392ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/owner-occupants-great-hud/6345111186.html</link>
+<description><![CDATA[Owner/occupants, don't miss this home in Mt. Laurel! This home is HUD acquired. To encourage owners to buy, HUD will also pay up to 3% of your closing costs. You do not have to use FHA, but you will have to put down a down payment. 
+What is the catch ...]]></description>
+<dc:date>2017-10-18T09:50:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/owner-occupants-great-hud/6345111186.html</dc:source>
+<dc:title><![CDATA[Owner Occupants:  Great HUD Home in Mt. Laurel! (Mt. Laurel) &#x0024;144000 3bd 1392ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00E0E_5NYIcIoyb97_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:50:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/an-iconic-transformation-of/6350887058.html">
+<title><![CDATA[An iconic transformation of Northern Liberties living, The Condos at S... 1 Beds (Philadelphia) &#x0024;369000 1bd 705ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/an-iconic-transformation-of/6350887058.html</link>
+<description><![CDATA[$369,000 Philadelphia 1 beds, 1 baths, 705 sqr feet - An iconic transformation of Northern Liberties living, The Condos at Six20 N 3rd Street offer the ultimate experience in Luxury lifestyle. These nine luxury boutique-style residences provide a chi ...]]></description>
+<dc:date>2017-10-18T09:42:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/an-iconic-transformation-of/6350887058.html</dc:source>
+<dc:title><![CDATA[An iconic transformation of Northern Liberties living, The Condos at S... 1 Beds (Philadelphia) &#x0024;369000 1bd 705ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00000_fS0SMvHvO6t_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:42:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/the-court-at-moore-st-gated/6350886341.html">
+<title><![CDATA[The Court at Moore St. a gated community with RARE deeded parking for ... 4 Beds (Philadelphia) &#x0024;509900 4bd 2300ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/the-court-at-moore-st-gated/6350886341.html</link>
+<description><![CDATA[$509,900 Philadelphia 4 beds, 3 baths, 2,300 sqr feet - The Court at Moore St. a gated community with RARE deeded parking for each homeowner! Featuring custom high-quality NEW CONSTRUCTION homes made by a meticulous builder. Special attention was giv ...]]></description>
+<dc:date>2017-10-18T09:42:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/the-court-at-moore-st-gated/6350886341.html</dc:source>
+<dc:title><![CDATA[The Court at Moore St. a gated community with RARE deeded parking for ... 4 Beds (Philadelphia) &#x0024;509900 4bd 2300ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00H0H_exDeyG5UUr0_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:42:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/designer-ready-raw-penthouse/6350886282.html">
+<title><![CDATA[DESIGNER READY RAW PENTHOUSE! The only way to get exactly what you wan... 3 Beds (Philadelphia) &#x0024;950000 3bd 2436ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/designer-ready-raw-penthouse/6350886282.html</link>
+<description><![CDATA[$950,000 Philadelphia 3 beds, 3 baths, 2,436 sqr feet - DESIGNER READY RAW PENTHOUSE! The only way to get exactly what you want in a home is to create your own residence. The chance to work with your own architect and designer or perhaps we can make  ...]]></description>
+<dc:date>2017-10-18T09:42:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/designer-ready-raw-penthouse/6350886282.html</dc:source>
+<dc:title><![CDATA[DESIGNER READY RAW PENTHOUSE! The only way to get exactly what you wan... 3 Beds (Philadelphia) &#x0024;950000 3bd 2436ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00J0J_3tUd486qwrQ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:42:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/beautiful-home-in-south-philly/6343536220.html">
+<title><![CDATA[Beautiful Home in South Philly!!! (South Philly) &#x0024;239900 3bd 1036ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/beautiful-home-in-south-philly/6343536220.html</link>
+<description><![CDATA[Take a look at this Girard Estate beauty! Walk into an enclosed porch area with tile floors, with 2 windows over looking a beautiful &amp; Spacious living room, covered in hardwood flooring. Continue into the dining room with a conveniently located h ...]]></description>
+<dc:date>2017-10-18T09:36:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/beautiful-home-in-south-philly/6343536220.html</dc:source>
+<dc:title><![CDATA[Beautiful Home in South Philly!!! (South Philly) &#x0024;239900 3bd 1036ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00s0s_aIppxu0leEJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:36:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/600-sf-of-retail-space-bella/6350868049.html">
+<title><![CDATA[600 SF of Retail Space BELLA VISTA/QUEEN VILLAGE (Bainbridge Street) 600ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/600-sf-of-retail-space-bella/6350868049.html</link>
+<description><![CDATA[600 SF of RETAIL space available. 
+This property is a corner lot offering very prominent frontage and exposure. 
+Full usable basement. 
+Please call for more details!]]></description>
+<dc:date>2017-10-18T09:27:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/600-sf-of-retail-space-bella/6350868049.html</dc:source>
+<dc:title><![CDATA[600 SF of Retail Space BELLA VISTA/QUEEN VILLAGE (Bainbridge Street) 600ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00D0D_9pakhZPNuKc_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:27:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/price-reduced-stunning-4br/6350846517.html">
+<title><![CDATA[Price Reduced: Stunning 4BR/2.5BTH 1900SF New Everything (Phoenixville, PA) &#x0024;290000 4bd 1896ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/price-reduced-stunning-4br/6350846517.html</link>
+<description><![CDATA[Absolutely STUNNING 4 Bedroom 2.5 Bath 1900 SQ. FT. home in Phoenixville, PA! Featuring Brand New EVERYTHING! Stainless Steel Appliances, Granite Counter Tops, Gorgeous Flooring, and additional Ravishing Features you must enjoy viewing LIVE! New HVAC ...]]></description>
+<dc:date>2017-10-18T09:24:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/price-reduced-stunning-4br/6350846517.html</dc:source>
+<dc:title><![CDATA[Price Reduced: Stunning 4BR/2.5BTH 1900SF New Everything (Phoenixville, PA) &#x0024;290000 4bd 1896ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00404_4t1oI1d8yW5_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:24:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/bailiwick-office-campus/6341609023.html">
+<title><![CDATA[Bailiwick Office Campus, Doylestown, PA FOR SALE (252 W. Swamp Road) &#x0024;250000 1430ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/bailiwick-office-campus/6341609023.html</link>
+<description><![CDATA[For Sale 
+Bailiwick Office Campus 
+252 Swamp Road, Doylestown, PA Suite 56 
+1,430 SF two-story Office Condo 
+Features: 
+Located in Phase II of the Bailiwick Office Complex 
+Located on Route 313 near Route 611 Doylestown Bypass. 
+Approximately One Mil ...]]></description>
+<dc:date>2017-10-18T09:21:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/bailiwick-office-campus/6341609023.html</dc:source>
+<dc:title><![CDATA[Bailiwick Office Campus, Doylestown, PA FOR SALE (252 W. Swamp Road) &#x0024;250000 1430ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00B0B_9rKr2AWTAi6_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:21:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/3000-sf-of-office-space-in/6341615759.html">
+<title><![CDATA[3,000 SF of Office Space in Northeast Philadelphia (16 Old Ashton Road) &#x0024;14 3000ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/3000-sf-of-office-space-in/6341615759.html</link>
+<description><![CDATA[1-story retail/ office building. 
+Parking for 19 cars 
+Located on Old Ashton Rd and Ashton Road at Holme Circle. 
+West on Holme Ave is Nazareth Hospital. 
+The immediate area is made up of residential, business properties. Easy acces to Route 1 ( Roos ...]]></description>
+<dc:date>2017-10-18T09:21:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/3000-sf-of-office-space-in/6341615759.html</dc:source>
+<dc:title><![CDATA[3,000 SF of Office Space in Northeast Philadelphia (16 Old Ashton Road) &#x0024;14 3000ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00N0N_8uAxBJvtdxM_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:21:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/revere-commonscottman-avenue/6341625348.html">
+<title><![CDATA[Revere Commons- 2824-38 Cottman Avenue  Office Space (2824-38 Cottman Ave) &#x0024;16 1400ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/revere-commonscottman-avenue/6341625348.html</link>
+<description><![CDATA[Revere Commons is located on Cottman Avenue just one block away from Roosevelt Boulevard. 
+Office space available from 700SF-1,400SF. 
+Elevator Serviced. 
+Located approximately 6 miles from I-95.]]></description>
+<dc:date>2017-10-18T09:21:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/revere-commonscottman-avenue/6341625348.html</dc:source>
+<dc:title><![CDATA[Revere Commons- 2824-38 Cottman Avenue  Office Space (2824-38 Cottman Ave) &#x0024;16 1400ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00S0S_93jP5O15wTm_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:21:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/2304-broad-street/6341631566.html">
+<title><![CDATA[2304  Broad Street, Philadelphia RETAIL SPACE (2304 N. Broad Street, Philadelphia, PA) &#x0024;22 1360ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/2304-broad-street/6341631566.html</link>
+<description><![CDATA[1,360 SF of Retail Space available on the corner of Broad and Dauphin Streets. 
+Minutes away from Temple University 
+High Traffic Count 
+2 spaces available (each 1,360 SF)]]></description>
+<dc:date>2017-10-18T09:21:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/2304-broad-street/6341631566.html</dc:source>
+<dc:title><![CDATA[2304  Broad Street, Philadelphia RETAIL SPACE (2304 N. Broad Street, Philadelphia, PA) &#x0024;22 1360ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01515_bdvjXD8bYay_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:21:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/welcome-to-this-renovated/6350857860.html">
+<title><![CDATA[Welcome to this renovated Home, where you will be able to appreciate a... 4 Beds (Croydon) &#x0024;249500 4bd 2084ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/welcome-to-this-renovated/6350857860.html</link>
+<description><![CDATA[$249,500 Croydon 4 beds, 2 baths, 2,084 sqr feet - Welcome to this renovated Home, where you will be able to appreciate all the new updates from the moment you arrive. You will see a new driveway, new vinyl exterior, new roof and landscape. As you wa ...]]></description>
+<dc:date>2017-10-18T09:18:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/welcome-to-this-renovated/6350857860.html</dc:source>
+<dc:title><![CDATA[Welcome to this renovated Home, where you will be able to appreciate a... 4 Beds (Croydon) &#x0024;249500 4bd 2084ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00R0R_9i9I1TaummF_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:18:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/reb/d/reduced-discover-cape-may/6346963758.html">
+<title><![CDATA[REDUCED! Discover Cape May Beach! - One Block to Beautiful Bay!! (Cape May Area) &#x0024;318000 3bd 1560ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/reb/d/reduced-discover-cape-may/6346963758.html</link>
+<description><![CDATA[This sought-after neighborhood is known as Cape May Beach. It is two blocks wide and is bordered by the bay on one end and a Wild-Life Management area on the other end. It is known for its fabulous sunsets and miles of pristine bay beaches. It is hom ...]]></description>
+<dc:date>2017-10-18T09:16:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/reb/d/reduced-discover-cape-may/6346963758.html</dc:source>
+<dc:title><![CDATA[REDUCED! Discover Cape May Beach! - One Block to Beautiful Bay!! (Cape May Area) &#x0024;318000 3bd 1560ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00s0s_cSERLsCe9TV_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:16:44-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

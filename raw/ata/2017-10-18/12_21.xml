@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/ata?format=rss">
+<title>craigslist philadelphia | antiques search </title>
+<link>https://philadelphia.craigslist.org/search/ata</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/ata?format=rss</dc:source>
+<dc:title>craigslist philadelphia | antiques search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:33-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/antique-9-ft-pool-table/6351016829.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atd/d/designer-mid-century-modern/6345590436.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/floor-to-ceiling-gorgeous/6340438184.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/stunning-french-basket/6340707675.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/beautiful-vintage-romweber/6340741118.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/vintage-evening-purse-clutch/6340824382.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/stunning-french-style-huge/6341710691.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/vintage-cast-iron-bathroom/6350996401.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/antique-hand-painted-covered/6343349121.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atd/d/vintage-hardwood-corner/6314239718.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atd/d/brass-hand-rail/6340892220.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atd/d/vintage-glass-lantern-slides/6340890480.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/thomasville-cherry/6348193946.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/cigar-box-full-of-antique/6350970322.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/small-metal-decorative-trays/6350965490.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/two-person-one-person-saws/6347144675.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/small-vintage-1950s-vornado/6344505536.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/small-vintage-1950s-vornado/6341975925.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/victorian-pier-mirror/6345702298.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/antique-spool-cabinet-from-an/6345702582.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/oak-veneer-oval-table-4-solid/6350953336.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/vintage-1930s-school-desk/6350944397.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/old-bicycles-wanted/6350943007.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/cabinet-curio-vintage-antique/6315462146.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/atq/d/vanity/6350934093.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/antique-9-ft-pool-table/6351016829.html">
+<title><![CDATA[Antique 9 ft pool table (Doylestown) &#x0024;2100]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/antique-9-ft-pool-table/6351016829.html</link>
+<description><![CDATA[Gorgeous antique 9 foot regulation pool table with ivory inlaid details. An inch + thick slate, newly installed cushions and leather pockets. This table is appraised at 4500. 
+We are including stained glass billiard light, custom made cover, a solid  ...]]></description>
+<dc:date>2017-10-18T11:16:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/antique-9-ft-pool-table/6351016829.html</dc:source>
+<dc:title><![CDATA[Antique 9 ft pool table (Doylestown) &#x0024;2100]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00O0O_SeObPz1b5o_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:16:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atd/d/designer-mid-century-modern/6345590436.html">
+<title><![CDATA[**Designer Mid Century Modern Chair** Frazer Antiques** (Frazer Pa.)]]></title>
+<link>https://philadelphia.craigslist.org/atd/d/designer-mid-century-modern/6345590436.html</link>
+<description><![CDATA[Great mid cent. modern chair with fresh updates. 
+New paint/new designer fabric 
+Size: W- 22 ½" D-23" H-27" 
+Price-$185 
+Frazer Antiques 
+351 Lancaster Avenue(Rt. 30) 
+Frazer, Pa. 19355 
+Three miles east of the Frazer Exit off Rt. 202, (across from  ...]]></description>
+<dc:date>2017-10-18T11:16:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atd/d/designer-mid-century-modern/6345590436.html</dc:source>
+<dc:title><![CDATA[**Designer Mid Century Modern Chair** Frazer Antiques** (Frazer Pa.)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00t0t_llLmiG3qTmp_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:16:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/floor-to-ceiling-gorgeous/6340438184.html">
+<title><![CDATA[Floor to Ceiling Gorgeous Gold Leaf Wall Mirror  from 1875 (Philadelphia) &#x0024;7600]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/floor-to-ceiling-gorgeous/6340438184.html</link>
+<description><![CDATA[Huge Gorgeous Gold Leaf Wall Mirror from 1875 (stated on back) 
+Measure 68" W x 96" H 
+Gold Leaf Frame 
+AMAZING! ]]></description>
+<dc:date>2017-10-18T11:08:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/floor-to-ceiling-gorgeous/6340438184.html</dc:source>
+<dc:title><![CDATA[Floor to Ceiling Gorgeous Gold Leaf Wall Mirror  from 1875 (Philadelphia) &#x0024;7600]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00M0M_dZ42Ljafkhk_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:08:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/stunning-french-basket/6340707675.html">
+<title><![CDATA[STUNNING French Basket Crystal Chandelier from Newport RI Home (Rittenhouse Square) &#x0024;40000]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/stunning-french-basket/6340707675.html</link>
+<description><![CDATA[Stunning French Basket Crystal Chandelier 
+* Originally from Newport RI home 
+* 50+ Years Old 
+* Permanently Gilded (doesn't need polishing) 
+* 5 Muses each holding 2 candalabras (10 candelabras in total) 
+* 57" L 29" W (at widest point) 
+NOTE: This  ...]]></description>
+<dc:date>2017-10-18T11:08:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/stunning-french-basket/6340707675.html</dc:source>
+<dc:title><![CDATA[STUNNING French Basket Crystal Chandelier from Newport RI Home (Rittenhouse Square) &#x0024;40000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00T0T_aFqebnA3gXO_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:08:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/beautiful-vintage-romweber/6340741118.html">
+<title><![CDATA[BEAUTIFUL Vintage Romweber Breakfront China Cabinet (Rittenhouse Square) &#x0024;5000]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/beautiful-vintage-romweber/6340741118.html</link>
+<description><![CDATA[Beautiful Vintage Romweber Breakfront China Cabinet 
+* 50+ years old 
+* Acqua and gold wood 
+* 4 Glass doors with 3 shelves over 2 cabinet and 4 drawers 
+* 85" H, 78" W, 18" D ]]></description>
+<dc:date>2017-10-18T11:08:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/beautiful-vintage-romweber/6340741118.html</dc:source>
+<dc:title><![CDATA[BEAUTIFUL Vintage Romweber Breakfront China Cabinet (Rittenhouse Square) &#x0024;5000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00707_1xTGApvgkWU_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:08:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/vintage-evening-purse-clutch/6340824382.html">
+<title><![CDATA[VINTAGE Evening Purse / clutch with crystals  100+ years old (Rittenhouse Square) &#x0024;500]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/vintage-evening-purse-clutch/6340824382.html</link>
+<description><![CDATA[VINTAGE Evening Purse / clutch with crystals 100+ years old 
+Crystal Clasp 
+8 1/2" w 5" H 
+* Damaged - some crystals have fallen off. ]]></description>
+<dc:date>2017-10-18T11:08:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/vintage-evening-purse-clutch/6340824382.html</dc:source>
+<dc:title><![CDATA[VINTAGE Evening Purse / clutch with crystals  100+ years old (Rittenhouse Square) &#x0024;500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00L0L_eTrQ5bZfh0h_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:08:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/stunning-french-style-huge/6341710691.html">
+<title><![CDATA[STUNNING French Style HUGE Tapestry (Rittenhouse Square) &#x0024;3000]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/stunning-french-style-huge/6341710691.html</link>
+<description><![CDATA[Stunning French Style HUGE Tapestry 
+* French drawing room scene 
+* GREAT condition 
+* Wool 
+* Includes rod 
+* 115" W x 38" H (40"H with rod) ]]></description>
+<dc:date>2017-10-18T11:07:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/stunning-french-style-huge/6341710691.html</dc:source>
+<dc:title><![CDATA[STUNNING French Style HUGE Tapestry (Rittenhouse Square) &#x0024;3000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00I0I_g85uppoLMi0_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:07:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/vintage-cast-iron-bathroom/6350996401.html">
+<title><![CDATA[Vintage Cast Iron Bathroom Sink (Drexel Hill) &#x0024;100]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/vintage-cast-iron-bathroom/6350996401.html</link>
+<description><![CDATA[Vintage cast iron bathroom sink. Has some signs of wear, but in great condition. Could easily be restored to like-new condition. Perfect for vintage bathroom re-model. Get it cheap.]]></description>
+<dc:date>2017-10-18T11:02:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/vintage-cast-iron-bathroom/6350996401.html</dc:source>
+<dc:title><![CDATA[Vintage Cast Iron Bathroom Sink (Drexel Hill) &#x0024;100]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00K0K_dYDTV1YCxnw_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:02:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/antique-hand-painted-covered/6343349121.html">
+<title><![CDATA[ANTIQUE HAND PAINTED COVERED NIPPON BUTTER DISH (SOUDERTON) &#x0024;20]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/antique-hand-painted-covered/6343349121.html</link>
+<description><![CDATA[TE-OH CHINA (1891-1920)- SEE LAST PHOTO. EXCELLENT CONDITION. CASH OR PAYPAL ONLY.]]></description>
+<dc:date>2017-10-18T10:54:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/antique-hand-painted-covered/6343349121.html</dc:source>
+<dc:title><![CDATA[ANTIQUE HAND PAINTED COVERED NIPPON BUTTER DISH (SOUDERTON) &#x0024;20]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00i0i_4B9DEpynoWx_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:54:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atd/d/vintage-hardwood-corner/6314239718.html">
+<title><![CDATA[Vintage Hardwood Corner Cabinet (Kensington) &#x0024;50]]></title>
+<link>https://philadelphia.craigslist.org/atd/d/vintage-hardwood-corner/6314239718.html</link>
+<description><![CDATA[We have a unique vintage hardwood corner cabinet for sale in our store. It is solidly made and in great condition. Beautifully rustic as-is, or fix it up to get a newer, more polished look! 
+It has 3 shelves, a latching door pull, and measures 27" hi ...]]></description>
+<dc:date>2017-10-18T10:49:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atd/d/vintage-hardwood-corner/6314239718.html</dc:source>
+<dc:title><![CDATA[Vintage Hardwood Corner Cabinet (Kensington) &#x0024;50]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00V0V_aL05QLgPPws_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:49:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atd/d/brass-hand-rail/6340892220.html">
+<title><![CDATA[Brass Hand Rail (Kensington) &#x0024;75]]></title>
+<link>https://philadelphia.craigslist.org/atd/d/brass-hand-rail/6340892220.html</link>
+<description><![CDATA[We have an antique brass hand rail with a pair of matching wall brackets. The brass rail is 1.5" in diameter and 4 ft long, $75. In very good condition, and would be stunning if polished. 
+To see more of what we have available, search craigslist for  ...]]></description>
+<dc:date>2017-10-18T10:49:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atd/d/brass-hand-rail/6340892220.html</dc:source>
+<dc:title><![CDATA[Brass Hand Rail (Kensington) &#x0024;75]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00w0w_10cg9cMUuee_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:49:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atd/d/vintage-glass-lantern-slides/6340890480.html">
+<title><![CDATA[Vintage Glass Lantern Slides (Kensington) &#x0024;10]]></title>
+<link>https://philadelphia.craigslist.org/atd/d/vintage-glass-lantern-slides/6340890480.html</link>
+<description><![CDATA[We have an array of gorgeous vintage glass lantern slides mounted on reclaimed frame pieces! Prices vary depending on slide, $10-20. See pics for examples - These are one of a kinds, so specific slides pictured are not guaranteed to be available. 
+To ...]]></description>
+<dc:date>2017-10-18T10:48:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atd/d/vintage-glass-lantern-slides/6340890480.html</dc:source>
+<dc:title><![CDATA[Vintage Glass Lantern Slides (Kensington) &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00M0M_id69tlyAgPg_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:48:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/thomasville-cherry/6348193946.html">
+<title><![CDATA[Thomasville Cherry Chippendale Flip Top Server Bar Liquor Cabinet (Feasterville) &#x0024;995]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/thomasville-cherry/6348193946.html</link>
+<description><![CDATA[**If you're seeing this ad, it's currently available** 
+Vintage from the 1980's 
+Measures: (L x W x H) 44/80 x 18 x 33.5". 
+In great shape, sturdy, tight and has wheels. 
+Has minor scratches and rub marks, otherwise in excellent condition 
+Includes t ...]]></description>
+<dc:date>2017-10-18T10:44:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/thomasville-cherry/6348193946.html</dc:source>
+<dc:title><![CDATA[Thomasville Cherry Chippendale Flip Top Server Bar Liquor Cabinet (Feasterville) &#x0024;995]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00000_d66NdVdZ27l_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:44:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/cigar-box-full-of-antique/6350970322.html">
+<title><![CDATA[cigar box full of antique post cards, over 100 years old (ne phila fox chase) &#x0024;100]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/cigar-box-full-of-antique/6350970322.html</link>
+<description><![CDATA[well over 100 of them, i'd say about 170 of them, most are 1900 or so....mostly all from UK with a few other countries in there,...would like to sell as a collection but have been selling some on eaby and a few went for quite a bit, so these are pret ...]]></description>
+<dc:date>2017-10-18T10:44:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/cigar-box-full-of-antique/6350970322.html</dc:source>
+<dc:title><![CDATA[cigar box full of antique post cards, over 100 years old (ne phila fox chase) &#x0024;100]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00v0v_c2ojMZfDNlw_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:44:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/small-metal-decorative-trays/6350965490.html">
+<title><![CDATA[Small metal decorative trays (Bensalem) &#x0024;5]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/small-metal-decorative-trays/6350965490.html</link>
+<description><![CDATA[5 trays in the cream color, 3 in black and two larger gray with design in gold. 4 1/2" x 6 1/2" and 7" x 5". $5 Each]]></description>
+<dc:date>2017-10-18T10:41:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/small-metal-decorative-trays/6350965490.html</dc:source>
+<dc:title><![CDATA[Small metal decorative trays (Bensalem) &#x0024;5]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00y0y_lVnNzt8Z3C5_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:41:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/two-person-one-person-saws/6347144675.html">
+<title><![CDATA[Two Person /One Person Saws (Southampton) &#x0024;100]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/two-person-one-person-saws/6347144675.html</link>
+<description><![CDATA[1 have 1 Antique 2 person saw measures 60 inches 
+and 1 saw = 54inches 
+and 1 saw= 26 inches 
+all for 100.00 
+thanks for looking 
+sorry no emails or texts]]></description>
+<dc:date>2017-10-18T10:40:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/two-person-one-person-saws/6347144675.html</dc:source>
+<dc:title><![CDATA[Two Person /One Person Saws (Southampton) &#x0024;100]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Q0Q_570kryiFQsq_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:40:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/small-vintage-1950s-vornado/6344505536.html">
+<title><![CDATA[**Small Vintage 1950s Vornado Window Fan** (Old City) &#x0024;75]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/small-vintage-1950s-vornado/6344505536.html</link>
+<description><![CDATA[Small vintage 1950s Vornado window fan 
+Measure 12" tall X 22" wide 
+Runs great and quiet on both speeds 
+Missing extenders, but you can easily make them out of wood and paint to match your window frame 
+$75 cash and carry, no trades 
+yes, I still ha ...]]></description>
+<dc:date>2017-10-18T10:38:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/small-vintage-1950s-vornado/6344505536.html</dc:source>
+<dc:title><![CDATA[**Small Vintage 1950s Vornado Window Fan** (Old City) &#x0024;75]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01717_2g63wHkMGii_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:38:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/small-vintage-1950s-vornado/6341975925.html">
+<title><![CDATA[**Small Vintage 1950s Vornado Window Fan** (Old City) &#x0024;75]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/small-vintage-1950s-vornado/6341975925.html</link>
+<description><![CDATA[Small vintage 1950s Vornado window fan 
+Measure 12" tall X 22" wide 
+Runs great and quiet on both speeds 
+Missing extenders, but you can easily make them out of wood and paint to match your window frame 
+$75 cash and carry, no trades 
+yes, I still ha ...]]></description>
+<dc:date>2017-10-18T10:37:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/small-vintage-1950s-vornado/6341975925.html</dc:source>
+<dc:title><![CDATA[**Small Vintage 1950s Vornado Window Fan** (Old City) &#x0024;75]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01717_2g63wHkMGii_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:37:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/victorian-pier-mirror/6345702298.html">
+<title><![CDATA[Victorian pier mirror (7 miles from Ben Franklin) &#x0024;500]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/victorian-pier-mirror/6345702298.html</link>
+<description><![CDATA[Lovely old pier mirror... ansonia head 
+lady bust/face. 
+86" high 
+31" wide 
+painted a vintage cream color 
+missing a few decorative bits here and there, but does not detract from overall charm... would be super cute paired with an antique dress form ...]]></description>
+<dc:date>2017-10-18T10:36:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/victorian-pier-mirror/6345702298.html</dc:source>
+<dc:title><![CDATA[Victorian pier mirror (7 miles from Ben Franklin) &#x0024;500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00O0O_gGX3CinTPn1_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:36:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/antique-spool-cabinet-from-an/6345702582.html">
+<title><![CDATA[Antique spool cabinet from an old general store (2 miles from cherry hill mall) &#x0024;590]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/antique-spool-cabinet-from-an/6345702582.html</link>
+<description><![CDATA[Wonderful old spool cabinet... perfect size for table-top interest! 
+Great for storage-- I used it for jewelry storage, and am only selling it because I got another/larger one... would also be great on your coffee table to hold remotes and other clut ...]]></description>
+<dc:date>2017-10-18T10:36:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/antique-spool-cabinet-from-an/6345702582.html</dc:source>
+<dc:title><![CDATA[Antique spool cabinet from an old general store (2 miles from cherry hill mall) &#x0024;590]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00p0p_7H9M8bNIf86_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:36:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/oak-veneer-oval-table-4-solid/6350953336.html">
+<title><![CDATA[Oak veneer oval table + 4 solid oak, cushioned chairs (Wallingford, Pa) &#x0024;350]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/oak-veneer-oval-table-4-solid/6350953336.html</link>
+<description><![CDATA[Willing to sell table separate from chairs. 
+Beautiful claw foot oval table we have loved for over 60 yrs. 
+Table has 2 boards (included in dimension) 
+Cushioned sests on the 4 solid oak chairs. 
+As a set = $350 
+Chairs @ $50= $200 
+Table = $150 
+Ava ...]]></description>
+<dc:date>2017-10-18T10:32:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/oak-veneer-oval-table-4-solid/6350953336.html</dc:source>
+<dc:title><![CDATA[Oak veneer oval table + 4 solid oak, cushioned chairs (Wallingford, Pa) &#x0024;350]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00g0g_fgH9YrQ181T_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:32:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/vintage-1930s-school-desk/6350944397.html">
+<title><![CDATA[Vintage 1930's School desk (Ambler) &#x0024;100]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/vintage-1930s-school-desk/6350944397.html</link>
+<description><![CDATA[Vintage 1930's school desk. All original parts and in very good condition! ]]></description>
+<dc:date>2017-10-18T10:26:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/vintage-1930s-school-desk/6350944397.html</dc:source>
+<dc:title><![CDATA[Vintage 1930's School desk (Ambler) &#x0024;100]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Q0Q_axYDnCJWXeb_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:26:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/old-bicycles-wanted/6350943007.html">
+<title><![CDATA[Old Bicycles WANTED (Philadelphia) &#x0024;500]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/old-bicycles-wanted/6350943007.html</link>
+<description><![CDATA[Do you, or anyone you know selling old stuff, have old road bikes like these? I'm a collector looking for vintage road bikes, similar to the photo, but they don't always have fenders. Thanks in advance for any replies, or tips from your collecting fr ...]]></description>
+<dc:date>2017-10-18T10:25:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/old-bicycles-wanted/6350943007.html</dc:source>
+<dc:title><![CDATA[Old Bicycles WANTED (Philadelphia) &#x0024;500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01414_61YIxUY9xDu_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:25:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/cabinet-curio-vintage-antique/6315462146.html">
+<title><![CDATA[Cabinet Curio -vintage antique with glass clock door style (Springfield) &#x0024;250]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/cabinet-curio-vintage-antique/6315462146.html</link>
+<description><![CDATA[Vintage Curio Cabinet 
+aprox. 65" tall 
+beautiful dark wood 
+Conversation piece in any foyer, living room, 
+Would look great in the office too. 
+Stunning antique Curio 
+floral print on glass front hand painted 
+Age - 100+- yr 
+$250.00 
+pick-up- Sprin ...]]></description>
+<dc:date>2017-10-18T10:21:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/cabinet-curio-vintage-antique/6315462146.html</dc:source>
+<dc:title><![CDATA[Cabinet Curio -vintage antique with glass clock door style (Springfield) &#x0024;250]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00n0n_8HveDsh0Spw_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:21:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/atq/d/vanity/6350934093.html">
+<title><![CDATA[Vanity (Willow Grove) &#x0024;55]]></title>
+<link>https://philadelphia.craigslist.org/atq/d/vanity/6350934093.html</link>
+<description><![CDATA[Vintage kidney Shaped Vanity with small drawer with green knob that matches skirt, extra fabric included, Willow Grove]]></description>
+<dc:date>2017-10-18T10:18:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/atq/d/vanity/6350934093.html</dc:source>
+<dc:title><![CDATA[Vanity (Willow Grove) &#x0024;55]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00y0y_9k6tTgHjhnn_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:18:37-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

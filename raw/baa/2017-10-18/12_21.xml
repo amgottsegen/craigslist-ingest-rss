@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/baa?format=rss">
+<title>craigslist philadelphia | baby &#x26; kid stuff search </title>
+<link>https://philadelphia.craigslist.org/search/baa</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/baa?format=rss</dc:source>
+<dc:title>craigslist philadelphia | baby &#x26; kid stuff search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:31-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/similac-adavance/6334094354.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/play-slide-free/6350992984.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/ergobaby-ergo-baby-organic/6348020430.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/fisher-price-rainforest-baby/6348194299.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/plug-protectors/6350958977.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/mom-of-3-selling-great-stuff/6350933577.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/battery-powered-toddler-motor/6311183788.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/harry-potter-deluxe-costume/6334108364.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/new-super-mario-brothers/6334114450.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/costume-boys-8-10-rotten-to/6347289456.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/toddler-toy-vtech-spin-and/6330890038.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/toddler-toy-jungle-junction/6330889558.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/boys-size-6-7-winter-coat/6338828285.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/disney-princess-dress-dresses/6350891858.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/babycakes-cakepop-maker/6347346560.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/easel-by-melissa-and-doug/6350881023.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/school-bags-lot-of-9-great/6345684036.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/winnie-the-pooh-with-eore/6332207492.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/winnie-the-pooh-musical/6332207050.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/princess-beach-chair/6332198910.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/safety-1st-acella-stroller/6332198557.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/stuffed-dog/6350864533.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/vintage-cradle-solid-wood/6350864388.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/mini-stoller-by-peg-perego/6350858463.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bab/d/lite-brites-cube-and/6322038005.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/similac-adavance/6334094354.html">
+<title><![CDATA[Similac Adavance &#x0024;5]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/similac-adavance/6334094354.html</link>
+<description><![CDATA[Unopened Can 
+Expires April 2019]]></description>
+<dc:date>2017-10-18T11:17:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/similac-adavance/6334094354.html</dc:source>
+<dc:title><![CDATA[Similac Adavance &#x0024;5]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Z0Z_fVlLAwsgALK_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/play-slide-free/6350992984.html">
+<title><![CDATA[Play Slide - Free]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/play-slide-free/6350992984.html</link>
+<description><![CDATA[We have a play slide that we're giving away. Not new, but perfectly fine to play with.]]></description>
+<dc:date>2017-10-18T11:00:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/play-slide-free/6350992984.html</dc:source>
+<dc:title><![CDATA[Play Slide - Free]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00t0t_dHXR7JIqmQW_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:00:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/ergobaby-ergo-baby-organic/6348020430.html">
+<title><![CDATA[Ergobaby Ergo baby organic carrier &#x0024;64]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/ergobaby-ergo-baby-organic/6348020430.html</link>
+<description><![CDATA[This item can be found at: 
+Kids Sweet Repeats Consignment Boutique 
+3551 Rhoads Ave 
+Newtown Square, PA 19073 
+*** 
+Sunday and Monday: Closed 
+Tuesday - Friday: 10 to 6 
+Saturday: 11 to 5 
+Come by and check out our store. You never know what you'll  ...]]></description>
+<dc:date>2017-10-18T10:56:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/ergobaby-ergo-baby-organic/6348020430.html</dc:source>
+<dc:title><![CDATA[Ergobaby Ergo baby organic carrier &#x0024;64]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01212_kzcec15HLOF_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:56:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/fisher-price-rainforest-baby/6348194299.html">
+<title><![CDATA[Fisher Price Rainforest Baby Mobile (Feasterville) &#x0024;20]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/fisher-price-rainforest-baby/6348194299.html</link>
+<description><![CDATA[In good condition 
+Plays 18 minutes of music 
+Leaves open and close as the rainforest animals spin 
+Has on/off light]]></description>
+<dc:date>2017-10-18T10:44:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/fisher-price-rainforest-baby/6348194299.html</dc:source>
+<dc:title><![CDATA[Fisher Price Rainforest Baby Mobile (Feasterville) &#x0024;20]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01313_9pmmMcGRAJ7_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:44:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/plug-protectors/6350958977.html">
+<title><![CDATA[Plug Protectors (Bensalem) &#x0024;3]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/plug-protectors/6350958977.html</link>
+<description><![CDATA[New]]></description>
+<dc:date>2017-10-18T10:36:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/plug-protectors/6350958977.html</dc:source>
+<dc:title><![CDATA[Plug Protectors (Bensalem) &#x0024;3]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01010_gszgIFBUTxh_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:36:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/mom-of-3-selling-great-stuff/6350933577.html">
+<title><![CDATA[Mom of 3 selling great stuff at huge Mommy Market this Saturday (North Wales) &#x0024;1]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/mom-of-3-selling-great-stuff/6350933577.html</link>
+<description><![CDATA[For sale: Girls clothes 7/8 and 9/10. Brands Justice, Gymboree, Childrens Place, Gap and More. Pajamas, Pants, jeans, skorts, skirts, tops, sweaters, and dresses. Many items $1.00. Most dresses, coats and some clothing items priced higher. Dresses fo ...]]></description>
+<dc:date>2017-10-18T10:18:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/mom-of-3-selling-great-stuff/6350933577.html</dc:source>
+<dc:title><![CDATA[Mom of 3 selling great stuff at huge Mommy Market this Saturday (North Wales) &#x0024;1]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00K0K_4bUxIsx57sO_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:18:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/battery-powered-toddler-motor/6311183788.html">
+<title><![CDATA[Battery powered toddler Motor Cycle &#x0024;40]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/battery-powered-toddler-motor/6311183788.html</link>
+<description><![CDATA[This bike has been in storage for about 9 years now and was only used by one child for about 6 months. 
+***WILL BE SOLD @ MULTI FAMILY YARD SALE NEXT WEEK if not purchased here.*** 
+Please make sure you are close enough for pick up ONLY @ my location ...]]></description>
+<dc:date>2017-10-18T10:10:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/battery-powered-toddler-motor/6311183788.html</dc:source>
+<dc:title><![CDATA[Battery powered toddler Motor Cycle &#x0024;40]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00808_aVwxcg3tSxm_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:10:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/harry-potter-deluxe-costume/6334108364.html">
+<title><![CDATA[Harry Potter DELUXE Costume for Boys - 2 sizes BRAND NEW in Package (Hatboro, Pa) &#x0024;18]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/harry-potter-deluxe-costume/6334108364.html</link>
+<description><![CDATA[***WILL BE SOLD @ MULTI FAMILY YARD SALE NEXT WEEK if not purchased here.*** 
+I will only respond to those that Text or call with your name and zip code.. Please make sure you are close enough for pick up @ my location. I'm right by County Line Rd an ...]]></description>
+<dc:date>2017-10-18T10:09:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/harry-potter-deluxe-costume/6334108364.html</dc:source>
+<dc:title><![CDATA[Harry Potter DELUXE Costume for Boys - 2 sizes BRAND NEW in Package (Hatboro, Pa) &#x0024;18]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00I0I_1jhyRenfNa9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:09:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/new-super-mario-brothers/6334114450.html">
+<title><![CDATA[NEW Super Mario Brothers Deluxe Costume - MARIO - 2 SIZES (Hatboro, Pa) &#x0024;18]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/new-super-mario-brothers/6334114450.html</link>
+<description><![CDATA[NEW! Disguise Boy's Nintendo's Super Mario Brothers Deluxe Costume. 
+***WILL BE SOLD @ MULTI FAMILY YARD SALE NEXT WEEK if not purchased here.*** 
+I will only respond to those that Text or call with your name and zip code.. Please make sure you are c ...]]></description>
+<dc:date>2017-10-18T10:09:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/new-super-mario-brothers/6334114450.html</dc:source>
+<dc:title><![CDATA[NEW Super Mario Brothers Deluxe Costume - MARIO - 2 SIZES (Hatboro, Pa) &#x0024;18]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01010_ewsQoiaDHrV_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:09:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/costume-boys-8-10-rotten-to/6347289456.html">
+<title><![CDATA[Costume - Boys 8-10 "Rotten to the Core" dead zombie, CA costume (Hatboro) &#x0024;20]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/costume-boys-8-10-rotten-to/6347289456.html</link>
+<description><![CDATA[***WILL BE SOLD @ MULTI FAMILY YARD SALE NEXT WEEK if not purchased here.*** 
+This is by California Costumes and was originally $40. It's a boy's size 8-10 &amp; includes mask! 
+PICK UP ONLY. I will only respond to those that text me with your name a ...]]></description>
+<dc:date>2017-10-18T10:07:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/costume-boys-8-10-rotten-to/6347289456.html</dc:source>
+<dc:title><![CDATA[Costume - Boys 8-10 "Rotten to the Core" dead zombie, CA costume (Hatboro) &#x0024;20]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00M0M_9Q1vNOg1toK_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:07:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/toddler-toy-vtech-spin-and/6330890038.html">
+<title><![CDATA[Toddler Toy - VTech Spin and Learn Adventure Globe (Northeast Philadelphia) &#x0024;10]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/toddler-toy-vtech-spin-and/6330890038.html</link>
+<description><![CDATA[In like new condition. Very educational. My son learned a lot from this toy. For ages 36 months to 6 years. 
+Touch sensitive points 
+30 locations to explore 
+Cultural elements include native music and sports 
+Colorful design with music and sound effe ...]]></description>
+<dc:date>2017-10-18T09:59:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/toddler-toy-vtech-spin-and/6330890038.html</dc:source>
+<dc:title><![CDATA[Toddler Toy - VTech Spin and Learn Adventure Globe (Northeast Philadelphia) &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Y0Y_b8B8UXSNfHy_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:59:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/toddler-toy-jungle-junction/6330889558.html">
+<title><![CDATA[Toddler Toy - Jungle Junction Roadway Playset (Northeast Philadelphia) &#x0024;10]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/toddler-toy-jungle-junction/6330889558.html</link>
+<description><![CDATA[In gently played with condition. Fun set for any toddler. 
+Playset with exciting Jungle Junction theme 
+Ride the elevator up to Zooter's house 
+Zip and zoom down the track 
+Direct the traffic with sign play 
+Playset reaches 22" tall 
+Price is $10 cas ...]]></description>
+<dc:date>2017-10-18T09:58:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/toddler-toy-jungle-junction/6330889558.html</dc:source>
+<dc:title><![CDATA[Toddler Toy - Jungle Junction Roadway Playset (Northeast Philadelphia) &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01313_g0noBNzrqlO_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:58:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/boys-size-6-7-winter-coat/6338828285.html">
+<title><![CDATA[Boys Size 6/7 Winter Coat with Hats, Scarf and Gloves (Northeast Philadelphia) &#x0024;15]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/boys-size-6-7-winter-coat/6338828285.html</link>
+<description><![CDATA[Very warm winter coat with hood lined with sherpa. In excellent condition. Comes with 4 hats, a scarf and a pair of gloves that fold back to expose finger tips if that is your preference. Two hats are the same, one is a smaller size and the larger si ...]]></description>
+<dc:date>2017-10-18T09:58:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/boys-size-6-7-winter-coat/6338828285.html</dc:source>
+<dc:title><![CDATA[Boys Size 6/7 Winter Coat with Hats, Scarf and Gloves (Northeast Philadelphia) &#x0024;15]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00s0s_gHoxssY1xnQ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:58:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/disney-princess-dress-dresses/6350891858.html">
+<title><![CDATA[Disney Princess Dress Dresses from Disney Store Sz 7/8 , 4, 10 (Blue Bell) &#x0024;20]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/disney-princess-dress-dresses/6350891858.html</link>
+<description><![CDATA[Beautiful EUC Disney Store Disney Princess Dresses ... Smoke Free Pet Free Home 
+Picture 1,2 Elsa Dress with attached cape/veil Size 7/8 Cash sale $25 
+Picture 3,4 Princess Sofia Dress Size 9-10 (runs small) cash sale $30 
+Picture 5,6 Mulan Dress Siz ...]]></description>
+<dc:date>2017-10-18T09:46:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/disney-princess-dress-dresses/6350891858.html</dc:source>
+<dc:title><![CDATA[Disney Princess Dress Dresses from Disney Store Sz 7/8 , 4, 10 (Blue Bell) &#x0024;20]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00w0w_9svWq3dzZUf_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:46:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/babycakes-cakepop-maker/6347346560.html">
+<title><![CDATA[Babycakes Cakepop maker (Ardmore) &#x0024;9]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/babycakes-cakepop-maker/6347346560.html</link>
+<description><![CDATA[Great little gadget to make cakepops or doughnut holes! Fun and easy, you can make and work with kids or grandchildren. Excellent used condition. Pet free and smoke free home. 
+Pick up in Ardmore ]]></description>
+<dc:date>2017-10-18T09:44:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/babycakes-cakepop-maker/6347346560.html</dc:source>
+<dc:title><![CDATA[Babycakes Cakepop maker (Ardmore) &#x0024;9]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00505_9NnweqI4oez_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:44:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/easel-by-melissa-and-doug/6350881023.html">
+<title><![CDATA[Easel by Melissa and Doug (Ardmore) &#x0024;15]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/easel-by-melissa-and-doug/6350881023.html</link>
+<description><![CDATA[Melissa and Doug Easel - you want this in your house! Whiteboard on one side, blackboard on the other. Also has storage and Ill throw in 2 rolls of paper which you can thread through the top. Pick up Ardmore. 
+Asking only $15. Email me to coordinate.]]></description>
+<dc:date>2017-10-18T09:37:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/easel-by-melissa-and-doug/6350881023.html</dc:source>
+<dc:title><![CDATA[Easel by Melissa and Doug (Ardmore) &#x0024;15]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00a0a_5A3gpkb0T7z_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:37:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/school-bags-lot-of-9-great/6345684036.html">
+<title><![CDATA[School Bags Lot of 9  Great Condition (Doylestown) &#x0024;25]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/school-bags-lot-of-9-great/6345684036.html</link>
+<description><![CDATA[School Bags Lot of 9 Great Condition 
+Back Pack]]></description>
+<dc:date>2017-10-18T09:35:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/school-bags-lot-of-9-great/6345684036.html</dc:source>
+<dc:title><![CDATA[School Bags Lot of 9  Great Condition (Doylestown) &#x0024;25]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01515_kGnRfq4ZfTX_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:35:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/winnie-the-pooh-with-eore/6332207492.html">
+<title><![CDATA[Winnie the Pooh with Eore  Night Light (Bensalem) &#x0024;3]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/winnie-the-pooh-with-eore/6332207492.html</link>
+<description><![CDATA[Winnie the Pooh with Eore Night Light $3.00]]></description>
+<dc:date>2017-10-18T09:27:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/winnie-the-pooh-with-eore/6332207492.html</dc:source>
+<dc:title><![CDATA[Winnie the Pooh with Eore  Night Light (Bensalem) &#x0024;3]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00A0A_75TWEgGeLir_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:27:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/winnie-the-pooh-musical/6332207050.html">
+<title><![CDATA[Winnie the Pooh Musical Motion Water Ball (Bensalem) &#x0024;30]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/winnie-the-pooh-musical/6332207050.html</link>
+<description><![CDATA[Brand ew still in package.]]></description>
+<dc:date>2017-10-18T09:27:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/winnie-the-pooh-musical/6332207050.html</dc:source>
+<dc:title><![CDATA[Winnie the Pooh Musical Motion Water Ball (Bensalem) &#x0024;30]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00e0e_eJcGvBGmHSO_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:27:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/princess-beach-chair/6332198910.html">
+<title><![CDATA[Princess Beach Chair (Bensalem) &#x0024;3]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/princess-beach-chair/6332198910.html</link>
+<description><![CDATA[Girls Princess Beach Chair $3]]></description>
+<dc:date>2017-10-18T09:27:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/princess-beach-chair/6332198910.html</dc:source>
+<dc:title><![CDATA[Princess Beach Chair (Bensalem) &#x0024;3]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00a0a_lEW0Sq3TO7k_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:27:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/safety-1st-acella-stroller/6332198557.html">
+<title><![CDATA[Safety 1st Acella Stroller (Bensalem) &#x0024;50]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/safety-1st-acella-stroller/6332198557.html</link>
+<description><![CDATA[Excellent condition. Great for carrying extra gear for baby, alot of space for storage.]]></description>
+<dc:date>2017-10-18T09:27:06-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/safety-1st-acella-stroller/6332198557.html</dc:source>
+<dc:title><![CDATA[Safety 1st Acella Stroller (Bensalem) &#x0024;50]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00s0s_frh8hP1MPXq_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:27:06-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/stuffed-dog/6350864533.html">
+<title><![CDATA[Stuffed Dog (Bensalem) &#x0024;5]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/stuffed-dog/6350864533.html</link>
+<description><![CDATA[New]]></description>
+<dc:date>2017-10-18T09:24:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/stuffed-dog/6350864533.html</dc:source>
+<dc:title><![CDATA[Stuffed Dog (Bensalem) &#x0024;5]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00T0T_iWhZ32lRVwu_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:24:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/vintage-cradle-solid-wood/6350864388.html">
+<title><![CDATA[Vintage Cradle - Solid Wood -W/Mattress (Skippack, PA) &#x0024;95]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/vintage-cradle-solid-wood/6350864388.html</link>
+<description><![CDATA[Vintage/Antique - Rocker Cradle - Solid Wood 
+Matress is pictured. 
+Very Fine Condition for its age. 
+Makes a great prop for baby showers. ]]></description>
+<dc:date>2017-10-18T09:24:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/vintage-cradle-solid-wood/6350864388.html</dc:source>
+<dc:title><![CDATA[Vintage Cradle - Solid Wood -W/Mattress (Skippack, PA) &#x0024;95]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00a0a_2yhJDanXswq_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:24:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/mini-stoller-by-peg-perego/6350858463.html">
+<title><![CDATA[Mini stoller by Peg-Perego (West Chester, pa) &#x0024;85]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/mini-stoller-by-peg-perego/6350858463.html</link>
+<description><![CDATA[Peg-Perego Pliko Mini stoller 
+Very light use 
+$85.00 
+Will meet in or around West Chester 
+https://us.pegperego.com/baby/pliko-mini ]]></description>
+<dc:date>2017-10-18T09:18:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/mini-stoller-by-peg-perego/6350858463.html</dc:source>
+<dc:title><![CDATA[Mini stoller by Peg-Perego (West Chester, pa) &#x0024;85]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00p0p_lvxlUG1VNWw_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:18:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bab/d/lite-brites-cube-and/6322038005.html">
+<title><![CDATA[LITE BRITES - CUBE AND RECTANGULAR (West Chester) &#x0024;10]]></title>
+<link>https://philadelphia.craigslist.org/bab/d/lite-brites-cube-and/6322038005.html</link>
+<description><![CDATA[FOR SALE: 
+Lite Brite Cube with pegs and papers 
+Lite Brite Rectangular with pegs and papers 
+ASKING $10. EACH 
+Both in Very Good Condition]]></description>
+<dc:date>2017-10-18T09:15:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bab/d/lite-brites-cube-and/6322038005.html</dc:source>
+<dc:title><![CDATA[LITE BRITES - CUBE AND RECTANGULAR (West Chester) &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00M0M_5WCmNbscSwe_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:15:32-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

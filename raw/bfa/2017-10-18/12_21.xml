@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/bfa?format=rss">
+<title>craigslist philadelphia | business search </title>
+<link>https://philadelphia.craigslist.org/search/bfa</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/bfa?format=rss</dc:source>
+<dc:title>craigslist philadelphia | business search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:30-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/gourmet-cheese-shop-and-cafe/6342052831.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/vibrant-downtown-lancaster/6342040488.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/pepperidge-farm-cookie-and/6351019947.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/turnkey-restaurant/6342063144.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/entertainment-center/6342076772.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/custom-food-truck-for-sale/6348196697.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/do-not-pass-this-opportunity/6334949475.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfd/d/free-pos-system-or-lease-pos/6349733154.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/ocean-mist-industrial/6350986702.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfd/d/free-pos-system-tablet/6349713844.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/supermarket-philly-55k-weekly/6321704420.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/lateral-file-cabinet/6336578999.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/huge-ice-cream-cold-plate/6334955007.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/towing-2i5-7-98/6322602449.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/bc1230a-vemeer-chipper/6333460980.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/food-cart-9-deal-portable/6336264777.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/spinning-light/6350957238.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/large-office-chairs/6350952659.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/marsal-6-pie-onen/6320447961.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/80-ft-jlg-manlift/6340516962.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfd/d/slatwall-panels-display-cases/6350943041.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/battery-park-bar-pizza-place/6350896926.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/bon-appetit-cake-route-for/6340585245.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/battery-park-bar-pizza-place/6350896955.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bfs/d/87-nec-telephones/6315058489.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/gourmet-cheese-shop-and-cafe/6342052831.html">
+<title><![CDATA[Gourmet Cheese Shop and Cafe (Bucks County) &#x0024;145000]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/gourmet-cheese-shop-and-cafe/6342052831.html</link>
+<description><![CDATA[BYOB Gourmet Cafe, Cheese and Specialty Shop 
+On site Parking, GREAT visibility from street 
+COMPLETELY rehabbed and TURNKEY 
+Premier Shopping Destination 
+Owners Willing to stay to help get new owner up and running ]]></description>
+<dc:date>2017-10-18T11:18:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/gourmet-cheese-shop-and-cafe/6342052831.html</dc:source>
+<dc:title><![CDATA[Gourmet Cheese Shop and Cafe (Bucks County) &#x0024;145000]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:18:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/vibrant-downtown-lancaster/6342040488.html">
+<title><![CDATA[Vibrant Downtown Lancaster (Lancaster) &#x0024;895000]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/vibrant-downtown-lancaster/6342040488.html</link>
+<description><![CDATA[Own a restaurant located in historic and vibrant downtown Lancaster - the hottest new area for foodies! 
+$110,000+ CASH FLOW 
+Unique set-up: Restaurant and bar with adjacent small cafe. Run cafe yourself or continue to sublet for additional income. 
+ ...]]></description>
+<dc:date>2017-10-18T11:18:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/vibrant-downtown-lancaster/6342040488.html</dc:source>
+<dc:title><![CDATA[Vibrant Downtown Lancaster (Lancaster) &#x0024;895000]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:18:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/pepperidge-farm-cookie-and/6351019947.html">
+<title><![CDATA[Pepperidge Farm Cookie and Cracker Route For Sale (Charleston, SC)]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/pepperidge-farm-cookie-and/6351019947.html</link>
+<description><![CDATA[Pepperidge Farm cookie and cracker route franchise for sale coastal territory. Territory James Island, Folly Beach, Johns Island, Kiawah Island and Wadmalaw Island.]]></description>
+<dc:date>2017-10-18T11:18:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/pepperidge-farm-cookie-and/6351019947.html</dc:source>
+<dc:title><![CDATA[Pepperidge Farm Cookie and Cracker Route For Sale (Charleston, SC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:18:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/turnkey-restaurant/6342063144.html">
+<title><![CDATA[TURNKEY RESTAURANT (Bucks County) &#x0024;1194000]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/turnkey-restaurant/6342063144.html</link>
+<description><![CDATA[AAA PRIME LOCATION | AAA MARKET 
+COMPLETELY TURNKEY 
+This restaurant is absolutely gorgeous! No improvements needed! 
+6,300 SF 
+230 Seats 
+(R) License included in sale v. $420,000 
+$259,000+ POSITIVE CASH FLOW 
+2 floors, private event space, outdoor  ...]]></description>
+<dc:date>2017-10-18T11:18:16-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/turnkey-restaurant/6342063144.html</dc:source>
+<dc:title><![CDATA[TURNKEY RESTAURANT (Bucks County) &#x0024;1194000]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:18:16-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/entertainment-center/6342076772.html">
+<title><![CDATA[Entertainment Center &#x0024;594000]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/entertainment-center/6342076772.html</link>
+<description><![CDATA[$1.3 MILLION + in REVENUE 
+15,000 SF 
+Onsite Cafe and fully equipped kitchen 
+PRISTINE Condition: recently renovated cafe, game room, and entertainment area 
+High tech game room, 40 new gaming units 
+**Liquor License available for purchase v. $420,00 ...]]></description>
+<dc:date>2017-10-18T11:18:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/entertainment-center/6342076772.html</dc:source>
+<dc:title><![CDATA[Entertainment Center &#x0024;594000]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:18:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/custom-food-truck-for-sale/6348196697.html">
+<title><![CDATA[Custom Food Truck for Sale - &#x0024;2000]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/custom-food-truck-for-sale/6348196697.html</link>
+<description><![CDATA[For Sale, the newly remodeled Food Truck PA for $2,.000 OBO. This business is turn key. Open up in the morning and start making money 7 days a week during the very manageable hours of operation of 6:00am to 2:00pm. Front to back - top to bottom, this ...]]></description>
+<dc:date>2017-10-18T11:14:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/custom-food-truck-for-sale/6348196697.html</dc:source>
+<dc:title><![CDATA[Custom Food Truck for Sale - &#x0024;2000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00o0o_hYFSWjYcTkI_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:14:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/do-not-pass-this-opportunity/6334949475.html">
+<title><![CDATA[DO  NOT PASS THIS OPPORTUNITY BY, CALL TODAY! (HAMILTON NJ)]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/do-not-pass-this-opportunity/6334949475.html</link>
+<description><![CDATA[Always wanted to own your own business but never thought you would? Looking to relocate to the Hamiton /Trenton area? Working as a fast-casual manager but want more and never thought you could own your own business? Love the fast pace of a successful ...]]></description>
+<dc:date>2017-10-18T11:10:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/do-not-pass-this-opportunity/6334949475.html</dc:source>
+<dc:title><![CDATA[DO  NOT PASS THIS OPPORTUNITY BY, CALL TODAY! (HAMILTON NJ)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00e0e_ahYt5X9om2R_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:10:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfd/d/free-pos-system-or-lease-pos/6349733154.html">
+<title><![CDATA[*FREE* POS System OR Lease POS System Restaurant Equipment Retail Bar (Merchant Services Optional!) &#x0024;149]]></title>
+<link>https://philadelphia.craigslist.org/bfd/d/free-pos-system-or-lease-pos/6349733154.html</link>
+<description><![CDATA[POS System Lease to OWN! or "FREE" 
+HERE: Copy & Paste ---&gt; http://www.alliancebundle.com/faq/ &lt;-----Copy & Paste 
+Giving you MORE OPTIONS!! 
+Copy & Paste ---&gt; http://www.alliancebundle.com/faq/ &lt;-----Copy & Paste 
+Qty 2: Commercial All - ...]]></description>
+<dc:date>2017-10-18T10:58:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfd/d/free-pos-system-or-lease-pos/6349733154.html</dc:source>
+<dc:title><![CDATA[*FREE* POS System OR Lease POS System Restaurant Equipment Retail Bar (Merchant Services Optional!) &#x0024;149]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00000_i7zWNrZeJY9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:58:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/ocean-mist-industrial/6350986702.html">
+<title><![CDATA[Ocean Mist Industrial Humidifier (Yardley) &#x0024;150]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/ocean-mist-industrial/6350986702.html</link>
+<description><![CDATA[Industrial humidifier / fogger 
+Ideal for greenhouses 
+Upgraded to include 3x 12-head & 1x 5-head ceramic foggers. 
+Includes all power supply/cxn, some replacement fogger heads, some plumbing cxns 
+**This item is located in an office bldg. We are ava ...]]></description>
+<dc:date>2017-10-18T10:56:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/ocean-mist-industrial/6350986702.html</dc:source>
+<dc:title><![CDATA[Ocean Mist Industrial Humidifier (Yardley) &#x0024;150]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00505_amqlztq21mr_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:56:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfd/d/free-pos-system-tablet/6349713844.html">
+<title><![CDATA[*FREE* POS System Tablet Pizzeria Pizza Oven License Equipment (POS*********SYSTEM***) &#x0024;1]]></title>
+<link>https://philadelphia.craigslist.org/bfd/d/free-pos-system-tablet/6349713844.html</link>
+<description><![CDATA[get your free pos system, pos systems, point of sale system. 
+***-----7 days a week 9am-9pm cst 
+www.harbortouchscreen.us 
+Perfect for almost any restaurant, pizza, quick-serve, sporting activities bar, or perhaps everyday dinner location. Includes a ...]]></description>
+<dc:date>2017-10-18T10:54:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfd/d/free-pos-system-tablet/6349713844.html</dc:source>
+<dc:title><![CDATA[*FREE* POS System Tablet Pizzeria Pizza Oven License Equipment (POS*********SYSTEM***) &#x0024;1]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00g0g_3XOmSEiukpw_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:54:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/supermarket-philly-55k-weekly/6321704420.html">
+<title><![CDATA[Supermarket Philly 55k Weekly &#x0024;650000]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/supermarket-philly-55k-weekly/6321704420.html</link>
+<description><![CDATA[Great 6000 sqft Supermarket located in Philadelphia, PA established for over 3 years. Fantastic for Owner Operator. This Supermarket is netting $225,000 and grossing over $55k weekly and growing!! Dairy, Deli, grocery, and frozen foods (50%), Meat (3 ...]]></description>
+<dc:date>2017-10-18T10:50:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/supermarket-philly-55k-weekly/6321704420.html</dc:source>
+<dc:title><![CDATA[Supermarket Philly 55k Weekly &#x0024;650000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00707_7EZkPOxI1LS_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:50:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/lateral-file-cabinet/6336578999.html">
+<title><![CDATA[Lateral File Cabinet--Steelcase(lockable with keys) (Southampton) &#x0024;200]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/lateral-file-cabinet/6336578999.html</link>
+<description><![CDATA[Steelcase - heavy duty- is very heavy ..Brand NEW..NEVER WAS USED 
+COLOR-almond 
+dimensions- 18inches in depth X 65 .5 inches height x 42 inches wide 
+Sorry no emails or texts available 
+thank you for looking]]></description>
+<dc:date>2017-10-18T10:41:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/lateral-file-cabinet/6336578999.html</dc:source>
+<dc:title><![CDATA[Lateral File Cabinet--Steelcase(lockable with keys) (Southampton) &#x0024;200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00G0G_bG24ab6WLkv_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:41:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/huge-ice-cream-cold-plate/6334955007.html">
+<title><![CDATA[HUGE Ice Cream Cold Plate Freezer or frozen food (Philadelphia) &#x0024;3000]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/huge-ice-cream-cold-plate/6334955007.html</link>
+<description><![CDATA[huge cold plate freezer , biggest one that will fit in van 
+good condition 
+cold plate freezer has four doors 
+plugs into 110 V.A.C 
+holds temperature entire selling day 
+stainless steel exterior 
+NO Dry Ice required 
+length is 9ft 10inches 
+width 3  ...]]></description>
+<dc:date>2017-10-18T10:36:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/huge-ice-cream-cold-plate/6334955007.html</dc:source>
+<dc:title><![CDATA[HUGE Ice Cream Cold Plate Freezer or frozen food (Philadelphia) &#x0024;3000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01515_jtXQGt8Lti7_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:36:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/towing-2i5-7-98/6322602449.html">
+<title><![CDATA[Towing 2I5-б7б-З9З8 &#x0024;75]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/towing-2i5-7-98/6322602449.html</link>
+<description><![CDATA[Towing service ***]]></description>
+<dc:date>2017-10-18T10:36:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/towing-2i5-7-98/6322602449.html</dc:source>
+<dc:title><![CDATA[Towing 2I5-б7б-З9З8 &#x0024;75]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:36:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/bc1230a-vemeer-chipper/6333460980.html">
+<title><![CDATA[Bc1230a vemeer chipper (Green lane) &#x0024;10500]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/bc1230a-vemeer-chipper/6333460980.html</link>
+<description><![CDATA[This chipper is ready to use fresh blades fresh cutter bar 3623 hours 12" capacity has auto feed but does not function properly vertical roller]]></description>
+<dc:date>2017-10-18T10:36:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/bc1230a-vemeer-chipper/6333460980.html</dc:source>
+<dc:title><![CDATA[Bc1230a vemeer chipper (Green lane) &#x0024;10500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00F0F_hPksdyFpItN_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:36:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/food-cart-9-deal-portable/6336264777.html">
+<title><![CDATA[***FOOD.  CART.  9 DEAL PORTABLE ELECTRICAL ***STAINLESS ****ÃƒÂ¢‚Ã‚Â (807s. 8th St Philly) &#x0024;995]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/food-cart-9-deal-portable/6336264777.html</link>
+<description><![CDATA[***FOOD. CART. PORTABLE ELECTRICAL ***STAINLESS **** 
+This is a GREAT MONEY MAKER 9 DEAL. HOSPITAL EQUIPMENT CERTIFIED 
+FIRST $995.- gets it. Call. 215-317-53 Zero Zero 
+807s. 8th St Philly. 19107]]></description>
+<dc:date>2017-10-18T10:35:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/food-cart-9-deal-portable/6336264777.html</dc:source>
+<dc:title><![CDATA[***FOOD.  CART.  9 DEAL PORTABLE ELECTRICAL ***STAINLESS ****ÃƒÂ¢‚Ã‚Â (807s. 8th St Philly) &#x0024;995]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Z0Z_a1udjQmYwz0_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:35:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/spinning-light/6350957238.html">
+<title><![CDATA[Spinning Light (Ne Phila) &#x0024;125]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/spinning-light/6350957238.html</link>
+<description><![CDATA[Spinning Miller Light great for a Bar or Man Cave]]></description>
+<dc:date>2017-10-18T10:35:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/spinning-light/6350957238.html</dc:source>
+<dc:title><![CDATA[Spinning Light (Ne Phila) &#x0024;125]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00j0j_4o254u6GrNF_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:35:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/large-office-chairs/6350952659.html">
+<title><![CDATA[Large office chairs (Audubon) &#x0024;75]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/large-office-chairs/6350952659.html</link>
+<description><![CDATA[Black Leather office chairs with high backs, arms and large wheels Extremely comfortably]]></description>
+<dc:date>2017-10-18T10:32:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/large-office-chairs/6350952659.html</dc:source>
+<dc:title><![CDATA[Large office chairs (Audubon) &#x0024;75]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00p0p_guWwAx0yqHB_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:32:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/marsal-6-pie-onen/6320447961.html">
+<title><![CDATA[marsal 6 pie onen (walk in cooler) &#x0024;7000]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/marsal-6-pie-onen/6320447961.html</link>
+<description><![CDATA[*** mike]]></description>
+<dc:date>2017-10-18T10:30:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/marsal-6-pie-onen/6320447961.html</dc:source>
+<dc:title><![CDATA[marsal 6 pie onen (walk in cooler) &#x0024;7000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00w0w_2ApHoSfoHui_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:30:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/80-ft-jlg-manlift/6340516962.html">
+<title><![CDATA[80 ft jlg manlift (Green lane) &#x0024;20000]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/80-ft-jlg-manlift/6340516962.html</link>
+<description><![CDATA[This machine is ready for use has a duetz air cooled Diesel engine main cylinder just rebuilt king pins just rebuilt new hose chain 4 good gel filled tires extenable axles has 7366 hrs on engine however engine was just sent to duetz and gone over all ...]]></description>
+<dc:date>2017-10-18T10:29:06-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/80-ft-jlg-manlift/6340516962.html</dc:source>
+<dc:title><![CDATA[80 ft jlg manlift (Green lane) &#x0024;20000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00a0a_bzb2QKewyok_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:29:06-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfd/d/slatwall-panels-display-cases/6350943041.html">
+<title><![CDATA[Slatwall Panels, Display Cases, Jewelry Displays & More.]]></title>
+<link>https://philadelphia.craigslist.org/bfd/d/slatwall-panels-display-cases/6350943041.html</link>
+<description><![CDATA[Visit DisplayMart for a huge selection of store fixtures and displays for YOUR STORE! 
+Find all of the following: 
+Bags -- Thank you bags & more 
+Casters -- Easily add wheels to your garment racks 
+Clothing Hangers -- Plastic & wooden 
+Countertop Dis ...]]></description>
+<dc:date>2017-10-18T10:25:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfd/d/slatwall-panels-display-cases/6350943041.html</dc:source>
+<dc:title><![CDATA[Slatwall Panels, Display Cases, Jewelry Displays & More.]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00303_9CgDF3cD9E6_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:25:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/battery-park-bar-pizza-place/6350896926.html">
+<title><![CDATA[$$_Battery Park Bar & Pizza Place For Sale! (philadelphia Pa, 15201)]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/battery-park-bar-pizza-place/6350896926.html</link>
+<description><![CDATA[Auction Address: 4650 W160th Street Cleveland Ohio 44135, Cleveland, OH 44135 
+Please C@ll *** 
+**Battery Park Bar & Pizza Place For Sale!** 
+**Battery Park Bar & Pizza Place For Sale!**]]></description>
+<dc:date>2017-10-18T10:23:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/battery-park-bar-pizza-place/6350896926.html</dc:source>
+<dc:title><![CDATA[$$_Battery Park Bar & Pizza Place For Sale! (philadelphia Pa, 15201)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00M0M_1qnRE2gs6Nv_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:23:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/bon-appetit-cake-route-for/6340585245.html">
+<title><![CDATA[Bon Appetit Cake Route for sale (Philadelphia) &#x0024;69000]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/bon-appetit-cake-route-for/6340585245.html</link>
+<description><![CDATA[Bon Appetit Cake Route for sale 
+$1,100 wekley net. Vast Protected area that will accommodate multiple routes. Product is picked up in Philadelphia only once per week. $10,000 included in the price security deposit that is returned to you when you se ...]]></description>
+<dc:date>2017-10-18T10:21:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/bon-appetit-cake-route-for/6340585245.html</dc:source>
+<dc:title><![CDATA[Bon Appetit Cake Route for sale (Philadelphia) &#x0024;69000]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:21:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/battery-park-bar-pizza-place/6350896955.html">
+<title><![CDATA[$$_Battery Park Bar & Pizza Place For Sale! (philadelphia Pa, 15201)]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/battery-park-bar-pizza-place/6350896955.html</link>
+<description><![CDATA[Auction Address: 4650 W160th Street Cleveland Ohio 44135, Cleveland, OH 44135 
+Please C@ll *** 
+**Battery Park Bar & Pizza Place For Sale!** 
+**Battery Park Bar & Pizza Place For Sale!**]]></description>
+<dc:date>2017-10-18T10:19:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/battery-park-bar-pizza-place/6350896955.html</dc:source>
+<dc:title><![CDATA[$$_Battery Park Bar & Pizza Place For Sale! (philadelphia Pa, 15201)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00M0M_1qnRE2gs6Nv_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:19:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bfs/d/87-nec-telephones/6315058489.html">
+<title><![CDATA[87 NEC Telephones (Drexel Hill)]]></title>
+<link>https://philadelphia.craigslist.org/bfs/d/87-nec-telephones/6315058489.html</link>
+<description><![CDATA[For sale a lot of 87 NEC telephones, all are in good working order. Our office just underwent renovations and upgraded our telephone system. There are 87 telephones in total selling as a lot, not interested in selling separately. 
+Kindly note, the li ...]]></description>
+<dc:date>2017-10-18T10:19:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bfs/d/87-nec-telephones/6315058489.html</dc:source>
+<dc:title><![CDATA[87 NEC Telephones (Drexel Hill)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00000_24RAycqCIAq_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:19:22-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

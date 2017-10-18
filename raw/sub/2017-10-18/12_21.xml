@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/sub?format=rss">
+<title>craigslist philadelphia | sublets &#x26; temporary search </title>
+<link>https://philadelphia.craigslist.org/search/sub</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/sub?format=rss</dc:source>
+<dc:title>craigslist philadelphia | sublets &#x26; temporary search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:32-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/chestnut-hall-apartment-one/6342565247.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/chestnut-hall-apartment-one/6342565477.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/chestnut-hall-apartment-one/6342565513.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/apartment-share-sublet/6350955989.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/room-rental-with-use-of/6336229841.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/gated-private/6335745463.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/gated-private/6341879548.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/spacious-and-fully-furnished/6348130444.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/fully-furnished-situations-in/6344646603.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/1-bedroom-1-bathroomsituated/6350885392.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/2-bedroom-two-bathroom/6320082089.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/large-fully-furnished-luxury/6350884405.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/sublease-my-furnished-condo/6341545491.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/sublease-my-furnished-apt/6332105064.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/no-lease-short-term-ok/6342952403.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/temple-university-student/6320050220.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/large-room-for-rent-in/6350798933.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/lovely-furnished-1bd-1bth/6350762308.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/free-room-available/6317521309.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/furnished-1br-by-rittenhouse/6331134956.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/furnished-2br-above-trader/6331138507.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/furnished-2br-above-trader/6331195347.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/furnished-studio-by/6323111320.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/furnished-1br-by-rittenhouse/6323104561.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/sub/d/furnished-2br-by-rittenhouse/6323092144.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/chestnut-hall-apartment-one/6342565247.html">
+<title><![CDATA[Chestnut Hall Apartment One Bedroom (Philadelphia) &#x0024;1100 1bd 600ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/chestnut-hall-apartment-one/6342565247.html</link>
+<description><![CDATA[Chestnut Hall offers this one bedroom apartment for rent. Fully furnished to meet your standards. This apartment comes with great and wonderful features and amenities. Easy to access the city. Affordable and individual or couple and even pets are all ...]]></description>
+<dc:date>2017-10-18T11:17:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/chestnut-hall-apartment-one/6342565247.html</dc:source>
+<dc:title><![CDATA[Chestnut Hall Apartment One Bedroom (Philadelphia) &#x0024;1100 1bd 600ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00z0z_ledGggxCHk9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/chestnut-hall-apartment-one/6342565477.html">
+<title><![CDATA[Chestnut Hall Apartment One Bedroom (Philadelphia) &#x0024;1100 1bd 600ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/chestnut-hall-apartment-one/6342565477.html</link>
+<description><![CDATA[Chestnut Hall offers this one bedroom apartment for rent. Fully furnished to meet your standards. This apartment comes with great and wonderful features and amenities. Easy to access the city. Affordable and individual or couple and even pets are all ...]]></description>
+<dc:date>2017-10-18T11:17:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/chestnut-hall-apartment-one/6342565477.html</dc:source>
+<dc:title><![CDATA[Chestnut Hall Apartment One Bedroom (Philadelphia) &#x0024;1100 1bd 600ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00z0z_ledGggxCHk9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/chestnut-hall-apartment-one/6342565513.html">
+<title><![CDATA[Chestnut Hall Apartment One Bedroom (Philadelphia) &#x0024;1100 1bd 600ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/chestnut-hall-apartment-one/6342565513.html</link>
+<description><![CDATA[Chestnut Hall offers this one bedroom apartment for rent. Fully furnished to meet your standards. This apartment comes with great and wonderful features and amenities. Easy to access the city. Affordable and individual or couple and even pets are all ...]]></description>
+<dc:date>2017-10-18T11:17:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/chestnut-hall-apartment-one/6342565513.html</dc:source>
+<dc:title><![CDATA[Chestnut Hall Apartment One Bedroom (Philadelphia) &#x0024;1100 1bd 600ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00z0z_ledGggxCHk9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/apartment-share-sublet/6350955989.html">
+<title><![CDATA[Apartment share sublet (North Philly) &#x0024;500 2bd]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/apartment-share-sublet/6350955989.html</link>
+<description><![CDATA[Furnished rooms shared kitchen and bathroom in nice clean 3rd floor apartment. $500/month includes all utilities plus wifi/internet]]></description>
+<dc:date>2017-10-18T10:43:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/apartment-share-sublet/6350955989.html</dc:source>
+<dc:title><![CDATA[Apartment share sublet (North Philly) &#x0024;500 2bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00f0f_jpVPdqUSgBg_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:43:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/room-rental-with-use-of/6336229841.html">
+<title><![CDATA[Room Rental with use of entire home - Temp or Long Term (Swarthmore Pa) 4bd]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/room-rental-with-use-of/6336229841.html</link>
+<description><![CDATA[Renting a Room in my beautiful Ranch Home in downtown Swarthmore. 
+Just a few blocks from Swarthmore college and major transportation. 
+Room is like new, use of entire home as well. 
+Comcast cable with every possible channel, fastest Wi-Fi available, ...]]></description>
+<dc:date>2017-10-18T10:42:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/room-rental-with-use-of/6336229841.html</dc:source>
+<dc:title><![CDATA[Room Rental with use of entire home - Temp or Long Term (Swarthmore Pa) 4bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:42:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/gated-private/6335745463.html">
+<title><![CDATA[Gated ;Private Apt.*PHILLY*EXTENDED*STAY*FURNISHED*MONTHLY* (1112 PINE ST CENTER CITY PHILLY) &#x0024;1700 1bd]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/gated-private/6335745463.html</link>
+<description><![CDATA[Starting at$1,700.- per month for 6 month plus lease PHILLY EXTENDED STAY*PRIVATE NOT SHARE*FURNISHED*** (1112 PINE ST CENTER CITY PHILLY) 
+**** PRIVATE APT. NOT A SHARE ******* 
+***************** phillyextendedstay.com *************** 
+***Furnished  ...]]></description>
+<dc:date>2017-10-18T10:36:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/gated-private/6335745463.html</dc:source>
+<dc:title><![CDATA[Gated ;Private Apt.*PHILLY*EXTENDED*STAY*FURNISHED*MONTHLY* (1112 PINE ST CENTER CITY PHILLY) &#x0024;1700 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00B0B_71n6j3NZ4nm_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:36:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/gated-private/6341879548.html">
+<title><![CDATA[Gated ;Private Apt.*PHILLY*EXTENDED*STAY*FURNISHED*MONTHLY* (1112 PINE ST CENTER CITY PHILLY) &#x0024;1700 1bd]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/gated-private/6341879548.html</link>
+<description><![CDATA[Starting at$1,700.- per month for 6 month plus lease PHILLY EXTENDED STAY*PRIVATE NOT SHARE*FURNISHED*** (1112 PINE ST CENTER CITY PHILLY) 
+**** PRIVATE APT. NOT A SHARE ******* 
+***************** phillyextendedstay.com *************** 
+***Furnished  ...]]></description>
+<dc:date>2017-10-18T10:35:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/gated-private/6341879548.html</dc:source>
+<dc:title><![CDATA[Gated ;Private Apt.*PHILLY*EXTENDED*STAY*FURNISHED*MONTHLY* (1112 PINE ST CENTER CITY PHILLY) &#x0024;1700 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00B0B_71n6j3NZ4nm_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:35:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/spacious-and-fully-furnished/6348130444.html">
+<title><![CDATA[Spacious and Fully Furnished One Bedroom (Philadelphia) &#x0024;700 1bd]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/spacious-and-fully-furnished/6348130444.html</link>
+<description><![CDATA[HARDWOOD FLOORS, STAINLESS APPLIANCES, WASHER DRYER IN UNIT, DESIGNER FURNITURE, ALL UTILITIES UP TO $75, INTERNET, BASIC CABLE, LINENS, TOWELS.I am looking to sublet my one bedroom apartment for long or short terms basis. fully furnished, Please con ...]]></description>
+<dc:date>2017-10-18T10:25:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/spacious-and-fully-furnished/6348130444.html</dc:source>
+<dc:title><![CDATA[Spacious and Fully Furnished One Bedroom (Philadelphia) &#x0024;700 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01616_ecfdmQHebSM_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:25:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/fully-furnished-situations-in/6344646603.html">
+<title><![CDATA[Fully Furnished situations in Beautiful Victorian House (University City) &#x0024;800 6bd]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/fully-furnished-situations-in/6344646603.html</link>
+<description><![CDATA[*If you see it, it IS available - as noted.* 
+A few large, nice rooms available in a very interesting, period detail abundant, owner occupied [second floor] Victorian house in University City. Hardwood floors, air conditioned [window unit], WiFi [thr ...]]></description>
+<dc:date>2017-10-18T10:10:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/fully-furnished-situations-in/6344646603.html</dc:source>
+<dc:title><![CDATA[Fully Furnished situations in Beautiful Victorian House (University City) &#x0024;800 6bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00F0F_hJygKjrpA7W_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:10:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/1-bedroom-1-bathroomsituated/6350885392.html">
+<title><![CDATA[1 bedroom 1 bathroom,Situated steps from all the best of Philadelphia (Chestnut St, Philadelphia) &#x0024;1000 1bd 700ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/1-bedroom-1-bathroomsituated/6350885392.html</link>
+<description><![CDATA[Address: 2201 Chestnut St, Philadelphia, PA 19103 
+Situated steps from all the best of Philadelphia,Conveniently located in Center City. Rittenhouse Square, with its outdoor recreation and surrounding shops and restaurants, is a five-minute walk away ...]]></description>
+<dc:date>2017-10-18T09:54:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/1-bedroom-1-bathroomsituated/6350885392.html</dc:source>
+<dc:title><![CDATA[1 bedroom 1 bathroom,Situated steps from all the best of Philadelphia (Chestnut St, Philadelphia) &#x0024;1000 1bd 700ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Z0Z_HYE0ChfbpH_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:54:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/2-bedroom-two-bathroom/6320082089.html">
+<title><![CDATA[2 bedroom two bathroom apartment,Chestnut St, Philadelphia (Spruce Hill) &#x0024;1500 2bd 1150ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/2-bedroom-two-bathroom/6320082089.html</link>
+<description><![CDATA[2 Bedroom(s), 2 Bathroom(s) 
+Rent: $1500/month 
+Apartment, Neighborhood: Spruce Hill 
+Zip: 19104, 1150 sqft 
+Washer/Dryer, Elevator 
+Air Conditioning, Garbage Disposal 
+Dishwasher, Refrigerator, 
+Cable Ready, Furnished 
+Parking Type: Off Street 
+Addr ...]]></description>
+<dc:date>2017-10-18T09:46:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/2-bedroom-two-bathroom/6320082089.html</dc:source>
+<dc:title><![CDATA[2 bedroom two bathroom apartment,Chestnut St, Philadelphia (Spruce Hill) &#x0024;1500 2bd 1150ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00H0H_kUg9GQ6fhMf_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:46:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/large-fully-furnished-luxury/6350884405.html">
+<title><![CDATA[Large, Fully-Furnished, Luxury Apt / Short-Term Lease -- Nov 1-Apr 30 (10th & Spruce, Center City Phila) &#x0024;1900 1bd 1200ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/large-fully-furnished-luxury/6350884405.html</link>
+<description><![CDATA[Large, fully-furnished, 1 BR luxury apartment in Center City Philadelphia's Washington Square West neighborhood. Great balance of classic architecture and modern amenities. On 2nd floor of 1840's-era walk-up building. Includes queen bed with extra-fi ...]]></description>
+<dc:date>2017-10-18T09:40:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/large-fully-furnished-luxury/6350884405.html</dc:source>
+<dc:title><![CDATA[Large, Fully-Furnished, Luxury Apt / Short-Term Lease -- Nov 1-Apr 30 (10th & Spruce, Center City Phila) &#x0024;1900 1bd 1200ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00808_5J9pn6rQgFc_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:40:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/sublease-my-furnished-condo/6341545491.html">
+<title><![CDATA[Sublease My furnished Condo &&&&&& Enjoy!!!!!! (Pittsburgh) &#x0024;1100 1bd]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/sublease-my-furnished-condo/6341545491.html</link>
+<description><![CDATA[Sublease My furnished Condo and enjoy all utilities included with rent and also close to downtown... spacious enough for family and close to downtown. Everything already included designed to make life comfortable.Email me for more viewing and info @  ...]]></description>
+<dc:date>2017-10-18T09:27:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/sublease-my-furnished-condo/6341545491.html</dc:source>
+<dc:title><![CDATA[Sublease My furnished Condo &&&&&& Enjoy!!!!!! (Pittsburgh) &#x0024;1100 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00b0b_3T1Nvf16gHn_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:27:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/sublease-my-furnished-apt/6332105064.html">
+<title><![CDATA[Sublease My Furnished Apt &&&& Enjoy!!!! &#x0024;1250 1bd]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/sublease-my-furnished-apt/6332105064.html</link>
+<description><![CDATA[Sublease My furnished apartment and enjoy all added value to compliment the comfort you will also enjoy............Spacious enough for family and close to downtown. Email me for more info @@@@@ ***]]></description>
+<dc:date>2017-10-18T09:26:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/sublease-my-furnished-apt/6332105064.html</dc:source>
+<dc:title><![CDATA[Sublease My Furnished Apt &&&& Enjoy!!!! &#x0024;1250 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01717_bkbuAhgdUFk_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:26:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/no-lease-short-term-ok/6342952403.html">
+<title><![CDATA[NO LEASE, SHORT TERM OK, Furnished room in 1850 Mansion (East falls) &#x0024;700 1bd]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/no-lease-short-term-ok/6342952403.html</link>
+<description><![CDATA[Furnished room in beautiful large executive home available. This historic home sits on a manicured property surrounded by other beautiful historic homes. The home is located on a safe tree lined street in east falls. 2 blocks to the Queen lane train  ...]]></description>
+<dc:date>2017-10-18T09:17:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/no-lease-short-term-ok/6342952403.html</dc:source>
+<dc:title><![CDATA[NO LEASE, SHORT TERM OK, Furnished room in 1850 Mansion (East falls) &#x0024;700 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00b0b_a6ada75yunY_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:17:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/temple-university-student/6320050220.html">
+<title><![CDATA[Temple University Student housing. Furnished! All utilities included! (18th and cecil B) &#x0024;600 4bd]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/temple-university-student/6320050220.html</link>
+<description><![CDATA[Fully furnished apartment for Temple University Student off campus housing. 
+Available on 10/1/2017. 
+- 5 minutes walking to Temple. 
+- Fully furnished: full size bed, desk, chair, night stand and TV in every bedroom. Dining set and sofa in living ro ...]]></description>
+<dc:date>2017-10-18T08:32:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/temple-university-student/6320050220.html</dc:source>
+<dc:title><![CDATA[Temple University Student housing. Furnished! All utilities included! (18th and cecil B) &#x0024;600 4bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00B0B_bm8fj8AoVae_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:32:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/large-room-for-rent-in/6350798933.html">
+<title><![CDATA[Large room for rent in beautiful Victorian house with 2 garages (Manayunk) &#x0024;550 5bd]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/large-room-for-rent-in/6350798933.html</link>
+<description><![CDATA[Large bedroom with a walk-in closet available in beautifully restored and very large Victorian house (2,500 sq. ft.) with 3 floors, 4 large bedrooms and one small bedroom, 2 bathrooms and a lot of common living space. 
+The house has an upscale and ve ...]]></description>
+<dc:date>2017-10-18T08:15:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/large-room-for-rent-in/6350798933.html</dc:source>
+<dc:title><![CDATA[Large room for rent in beautiful Victorian house with 2 garages (Manayunk) &#x0024;550 5bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00G0G_fenvHPEAxsA_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:15:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/lovely-furnished-1bd-1bth/6350762308.html">
+<title><![CDATA[Lovely Furnished 1BD/1BTH (Philadelphia) &#x0024;750 1bd 900ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/lovely-furnished-1bd-1bth/6350762308.html</link>
+<description><![CDATA[This executive apartmyent includes furnishings, full kitchen with all the housewares,linens & towels, electronics, full size washer/dryer, all utilities, expanded cable television, local phone calls, and high speed Internet with access to Netflix, Hu ...]]></description>
+<dc:date>2017-10-18T07:25:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/lovely-furnished-1bd-1bth/6350762308.html</dc:source>
+<dc:title><![CDATA[Lovely Furnished 1BD/1BTH (Philadelphia) &#x0024;750 1bd 900ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00D0D_7ZJGp8Z1eY0_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:25:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/free-room-available/6317521309.html">
+<title><![CDATA[**Free Room Available** (New York City) &#x0024;1 1bd]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/free-room-available/6317521309.html</link>
+<description><![CDATA[Do you need long or short term housing in Manhattan?. Students/International students welcomed Long or short term is available. Are you looking for a free or reduced furnished room for the winter or long term? I live alone in Manhattan and looking to ...]]></description>
+<dc:date>2017-10-18T05:45:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/free-room-available/6317521309.html</dc:source>
+<dc:title><![CDATA[**Free Room Available** (New York City) &#x0024;1 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T05:45:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/furnished-1br-by-rittenhouse/6331134956.html">
+<title><![CDATA[FURNISHED 1BR BY RITTENHOUSE AVAIL IMMED (22 AND WALNUT) &#x0024;2450 1bd 600ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/furnished-1br-by-rittenhouse/6331134956.html</link>
+<description><![CDATA[CONTACT INFO henry friedman *** FURNISHED 1BR BY RITTENHOUSE AVAILABLE IMMED - $2,150.00 per month 2205 WALNUT ST, PHILADELPHIA, PA 19103 FEATURES Bedrooms:&nbsp; 1 Bathrooms:&nbsp; 1 DESCRIPTION CONTACT INFOhenry friedman *** FURNISHED 1BR BY RITTEN ...]]></description>
+<dc:date>2017-10-18T00:29:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/furnished-1br-by-rittenhouse/6331134956.html</dc:source>
+<dc:title><![CDATA[FURNISHED 1BR BY RITTENHOUSE AVAIL IMMED (22 AND WALNUT) &#x0024;2450 1bd 600ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01212_goNGTwhLA5Q_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T00:29:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/furnished-2br-above-trader/6331138507.html">
+<title><![CDATA[FURNISHED 2BR ABOVE TRADER JOES AVAIL IMMED (22 and market) &#x0024;3950 2bd 1200ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/furnished-2br-above-trader/6331138507.html</link>
+<description><![CDATA[CONTACT INFO henry friedman *** FURNISHED LUX 2BR BY RITTENHOUSE ABOVE TRADER JOES AVAIL JULY 31 - $4,450.00 2121 MARKET ST, PHILADELPHIA, PA 19103 FEATURES Bedrooms:&nbsp; 2 Bathrooms:&nbsp; 1 Located on Floor #:&nbsp; 6 Square Footage:&nbsp; 1150 D ...]]></description>
+<dc:date>2017-10-18T00:29:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/furnished-2br-above-trader/6331138507.html</dc:source>
+<dc:title><![CDATA[FURNISHED 2BR ABOVE TRADER JOES AVAIL IMMED (22 and market) &#x0024;3950 2bd 1200ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Z0Z_lf2EhHy8fNe_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T00:29:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/furnished-2br-above-trader/6331195347.html">
+<title><![CDATA[FURNISHED 2BR ABOVE TRADER JOES AVAIL IMMED (22 and market) &#x0024;4450 2bd 1200ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/furnished-2br-above-trader/6331195347.html</link>
+<description><![CDATA[CONTACT INFO henry friedman *** FURNISHED LUX 2BR BY RITTENHOUSE ABOVE TRADER JOES AVAIL JULY 31 - $4,450.00 2121 MARKET ST, PHILADELPHIA, PA 19103 FEATURES Bedrooms:&nbsp; 2 Bathrooms:&nbsp; 1 Located on Floor #:&nbsp; 6 Square Footage:&nbsp; 1150 D ...]]></description>
+<dc:date>2017-10-18T00:28:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/furnished-2br-above-trader/6331195347.html</dc:source>
+<dc:title><![CDATA[FURNISHED 2BR ABOVE TRADER JOES AVAIL IMMED (22 and market) &#x0024;4450 2bd 1200ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Z0Z_lf2EhHy8fNe_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T00:28:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/furnished-studio-by/6323111320.html">
+<title><![CDATA[FURNISHED STUDIO BY RITTENHOUSE AVAIL IMMED (20 and addison) &#x0024;1750 450ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/furnished-studio-by/6323111320.html</link>
+<description><![CDATA[CONTACT INFO henry friedman *** FURNISHED STUDIO BY RITTENHOUSE AVAIL IMMED! - $1,950.00 2017 ADDISON STREET, PHILADELPHIA, PA 19146 FEATURES Bedrooms:&nbsp; 0 Bathrooms:&nbsp; 1 Located on Floor #:&nbsp; 1 Square Footage:&nbsp; 400 DESCRIPTION ALL U ...]]></description>
+<dc:date>2017-10-18T00:28:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/furnished-studio-by/6323111320.html</dc:source>
+<dc:title><![CDATA[FURNISHED STUDIO BY RITTENHOUSE AVAIL IMMED (20 and addison) &#x0024;1750 450ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01616_btZI4qBvk9H_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T00:28:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/furnished-1br-by-rittenhouse/6323104561.html">
+<title><![CDATA[FURNISHED 1BR BY RITTENHOUSE AVAIL IMMED (22 AND WALNUT) &#x0024;2350 1bd 500ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/furnished-1br-by-rittenhouse/6323104561.html</link>
+<description><![CDATA[CONTACT INFO henry friedman *** FURNISHED 1BR BY RITTENHOUSE AVAILABLE IMMED - $2,150.00 per month 2205 WALNUT ST, PHILADELPHIA, PA 19103 FEATURES Bedrooms:&nbsp; 1 Bathrooms:&nbsp; 1 DESCRIPTION CONTACT INFOhenry friedman *** FURNISHED 1BR BY RITTEN ...]]></description>
+<dc:date>2017-10-18T00:28:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/furnished-1br-by-rittenhouse/6323104561.html</dc:source>
+<dc:title><![CDATA[FURNISHED 1BR BY RITTENHOUSE AVAIL IMMED (22 AND WALNUT) &#x0024;2350 1bd 500ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00f0f_cJfiOFAG4J_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T00:28:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/sub/d/furnished-2br-by-rittenhouse/6323092144.html">
+<title><![CDATA[FURNISHED 2BR BY RITTENHOUSE AVAIL IMMED (20 and addison) &#x0024;3450 2bd 800ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/sub/d/furnished-2br-by-rittenhouse/6323092144.html</link>
+<description><![CDATA[CONTACT INFO henry friedman *** FURNISHED 2BR BY RITTENHOUSE AVAIL IMMED, 1200 FT, BROWNSTONE TRIPLEX - $3,250.00 2017 ADDISON STREET, PHILADELPHIA, PA 19146 FEATURES Bedrooms:&nbsp; 2 Bathrooms:&nbsp; 1 Square Footage:&nbsp; 1200 DESCRIPTION ALL UTI ...]]></description>
+<dc:date>2017-10-18T00:28:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/sub/d/furnished-2br-by-rittenhouse/6323092144.html</dc:source>
+<dc:title><![CDATA[FURNISHED 2BR BY RITTENHOUSE AVAIL IMMED (20 and addison) &#x0024;3450 2bd 800ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Z0Z_64ZpU3ESel5_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T00:28:45-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

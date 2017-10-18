@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/pta?format=rss">
+<title>craigslist philadelphia | auto parts search </title>
+<link>https://philadelphia.craigslist.org/search/pta</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/pta?format=rss</dc:source>
+<dc:title>craigslist philadelphia | auto parts search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:32-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/2005-gmc-yukon-denali/6346353684.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/2009-audi-q7-42-v8-engine/6347750236.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/bosch-brake-pads-buick/6339632715.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/entire-lot-of-detroit-diesel/6335471048.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/brand-fx-topper/6351012175.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/1988-cadillac-eldorado/6343563962.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/1999-cadillac-eldorado/6343559818.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/ford-ltd-conv/6343555657.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/62-79-nova-parts/6316741214.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/chevy-silverado-gmc-sierra/6350996081.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/tahoe-or-suburban-rear-glass/6350992737.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/brz-subframe-cross-member-and/6328723437.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/ford-five-hundred-89k-miles/6342478491.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/brz-spindles-brake-and-rotors/6328717297.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/brz-new-rear-wheel-bearings/6328716832.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/safari-astro-van-doors/6342474097.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/trailblazer-doors-body-parts/6341291906.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/silverado-sierra-tahoe-yukon/6341149836.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/trailblazer-envoy/6340112153.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/astro-cargo-van-parts/6340112049.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/17-audi-wheels/6341567044.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/bmw-e46-coupe-3-series/6330727982.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/system-one-ladder-rack/6350981385.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/ptd/d/jdm-honda-acura-type-dc2-db8/6350978264.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/pts/d/air-filter-cone-kn-type-style/6338951043.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/2005-gmc-yukon-denali/6346353684.html">
+<title><![CDATA[2005 GMC Yukon Denali (Wilmington, De) &#x0024;1]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/2005-gmc-yukon-denali/6346353684.html</link>
+<description><![CDATA[2005 Yukon Denali for parts. Truck was in perfect condition before fire. Was on new car dealers retail sales lot. Interior is in perfect condition with 3rd row. Sell whole or parts 5.3L v8vortech 
+Chevy Chevrolet Suburban Tahoe truck escalade]]></description>
+<dc:date>2017-10-18T11:19:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/2005-gmc-yukon-denali/6346353684.html</dc:source>
+<dc:title><![CDATA[2005 GMC Yukon Denali (Wilmington, De) &#x0024;1]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00g0g_ekg637JBOfK_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:19:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/2009-audi-q7-42-v8-engine/6347750236.html">
+<title><![CDATA[2009 Audi Q7 4.2 V8 engine (Rahway) &#x0024;700]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/2009-audi-q7-42-v8-engine/6347750236.html</link>
+<description><![CDATA[2009 Audi Q7 4.2 V8 Engine 
+Engine Runs but has knocking tapping sound of timing chain 
+these used engine sells for $3K-$4K someone could fix it and save money or could use for parts. 
+Selling As Is 
+Contact: *** 
+same as: audi parts,audi Q7 parts,au ...]]></description>
+<dc:date>2017-10-18T11:19:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/2009-audi-q7-42-v8-engine/6347750236.html</dc:source>
+<dc:title><![CDATA[2009 Audi Q7 4.2 V8 engine (Rahway) &#x0024;700]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00n0n_7LF9jH2ufuv_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:19:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/bosch-brake-pads-buick/6339632715.html">
+<title><![CDATA[bosch  brake pads  buick lacrosse (media pa) &#x0024;25]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/bosch-brake-pads-buick/6339632715.html</link>
+<description><![CDATA[new bosch brake pads 2010 to 2016 buick lacrosse 4 wheel disc bosch blue part # bosbe924h front part # bosbe1430 rear 
+may fit other cars cadillac chevy etc 
+paid 80.00 traded in car new in box 25.00 ]]></description>
+<dc:date>2017-10-18T11:16:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/bosch-brake-pads-buick/6339632715.html</dc:source>
+<dc:title><![CDATA[bosch  brake pads  buick lacrosse (media pa) &#x0024;25]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:16:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/entire-lot-of-detroit-diesel/6335471048.html">
+<title><![CDATA[ENTIRE LOT OF DETROIT DIESEL PARTS (NEW/OLD STOCK) (Williamsport) &#x0024;12345]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/entire-lot-of-detroit-diesel/6335471048.html</link>
+<description><![CDATA[LIST OF NEW/OLD STOCK PARTS...WILL SELL AS ENTIRE LOT OR BY THE PART 
+CALL ME FOR LIST OF PARTS AND PRICES 
+CALL BARRY AT *** ]]></description>
+<dc:date>2017-10-18T11:16:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/entire-lot-of-detroit-diesel/6335471048.html</dc:source>
+<dc:title><![CDATA[ENTIRE LOT OF DETROIT DIESEL PARTS (NEW/OLD STOCK) (Williamsport) &#x0024;12345]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:16:42-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/brand-fx-topper/6351012175.html">
+<title><![CDATA[Brand FX topper (Nj) &#x0024;1800]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/brand-fx-topper/6351012175.html</link>
+<description><![CDATA[Brand FX topper. Great shape. Keys to all locks. Only from sitting. $1800....obo]]></description>
+<dc:date>2017-10-18T11:13:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/brand-fx-topper/6351012175.html</dc:source>
+<dc:title><![CDATA[Brand FX topper (Nj) &#x0024;1800]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00404_gh1TqMbXsiP_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:13:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/1988-cadillac-eldorado/6343563962.html">
+<title><![CDATA[1988 Cadillac Eldorado (3101 S 61st Street Phila Pa)]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/1988-cadillac-eldorado/6343563962.html</link>
+<description><![CDATA[This car and many like it now available for parts for info and pricing call or come in Century Motors.]]></description>
+<dc:date>2017-10-18T11:04:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/1988-cadillac-eldorado/6343563962.html</dc:source>
+<dc:title><![CDATA[1988 Cadillac Eldorado (3101 S 61st Street Phila Pa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:04:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/1999-cadillac-eldorado/6343559818.html">
+<title><![CDATA[1999 Cadillac Eldorado (3101 S 61st Street Phila Pa)]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/1999-cadillac-eldorado/6343559818.html</link>
+<description><![CDATA[This vehicle is now available for parts for info please call email or come in Century Motors.]]></description>
+<dc:date>2017-10-18T11:04:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/1999-cadillac-eldorado/6343559818.html</dc:source>
+<dc:title><![CDATA[1999 Cadillac Eldorado (3101 S 61st Street Phila Pa)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00g0g_lhBRUHeq9y0_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:04:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/ford-ltd-conv/6343555657.html">
+<title><![CDATA[Ford LTD Conv. (3101 S 61st Street Phila Pa)]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/ford-ltd-conv/6343555657.html</link>
+<description><![CDATA[This vehicle is now available for parts for info call or come in .]]></description>
+<dc:date>2017-10-18T11:04:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/ford-ltd-conv/6343555657.html</dc:source>
+<dc:title><![CDATA[Ford LTD Conv. (3101 S 61st Street Phila Pa)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00s0s_3QOdLOGQYqO_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:04:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/62-79-nova-parts/6316741214.html">
+<title><![CDATA[62-79 Nova Parts &#x0024;1]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/62-79-nova-parts/6316741214.html</link>
+<description><![CDATA[Cleaning out 40 year personal collection!! Send me your needs!!]]></description>
+<dc:date>2017-10-18T11:03:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/62-79-nova-parts/6316741214.html</dc:source>
+<dc:title><![CDATA[62-79 Nova Parts &#x0024;1]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:03:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/chevy-silverado-gmc-sierra/6350996081.html">
+<title><![CDATA[2014 - 2017 Chevy Silverado/ GMC Sierra All Weather Floor Mats (Pennsville, NJ) &#x0024;55]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/chevy-silverado-gmc-sierra/6350996081.html</link>
+<description><![CDATA[The all weather rubber mats are original equipment removed from a new vehicle. 
+GM# 2344240 #22964812 #22964922 #22964853 
+Six0nine-2zero2-nine5zero6 Ask for Jim]]></description>
+<dc:date>2017-10-18T11:02:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/chevy-silverado-gmc-sierra/6350996081.html</dc:source>
+<dc:title><![CDATA[2014 - 2017 Chevy Silverado/ GMC Sierra All Weather Floor Mats (Pennsville, NJ) &#x0024;55]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00L0L_hFfQq1X2Kr6_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:02:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/tahoe-or-suburban-rear-glass/6350992737.html">
+<title><![CDATA[Tahoe or suburban rear glass (Tristate) &#x0024;175]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/tahoe-or-suburban-rear-glass/6350992737.html</link>
+<description><![CDATA[Rear tailgate glass with brake light]]></description>
+<dc:date>2017-10-18T11:00:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/tahoe-or-suburban-rear-glass/6350992737.html</dc:source>
+<dc:title><![CDATA[Tahoe or suburban rear glass (Tristate) &#x0024;175]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00j0j_eJqeQwe2QDc_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:00:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/brz-subframe-cross-member-and/6328723437.html">
+<title><![CDATA[brz subframe / cross member and control arms (northeast philly)]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/brz-subframe-cross-member-and/6328723437.html</link>
+<description><![CDATA[selling a sub frame that came from a 2014 brz that was in an undercarriage accident 
+has all of the control arms 
+I took it off and put on a new subframe so I dont need this one 
+I dont know exactly whats bent so you can always take a look at it your ...]]></description>
+<dc:date>2017-10-18T10:58:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/brz-subframe-cross-member-and/6328723437.html</dc:source>
+<dc:title><![CDATA[brz subframe / cross member and control arms (northeast philly)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00q0q_aFlGBndDLzH_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:58:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/ford-five-hundred-89k-miles/6342478491.html">
+<title><![CDATA[Ford Five Hundred 89k miles Motor/Trans/Wheels]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/ford-five-hundred-89k-miles/6342478491.html</link>
+<description><![CDATA[all parts for sale 2006 Ford Five hundred Fwd black 89k miles motor trans run excellent still in car 4 new 17" tires 
+email with needs and phone #]]></description>
+<dc:date>2017-10-18T10:58:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/ford-five-hundred-89k-miles/6342478491.html</dc:source>
+<dc:title><![CDATA[Ford Five Hundred 89k miles Motor/Trans/Wheels]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00g0g_7B4HQNrCKKN_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:58:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/brz-spindles-brake-and-rotors/6328717297.html">
+<title><![CDATA[brz spindles brake and rotors (northeast philly) &#x0024;100]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/brz-spindles-brake-and-rotors/6328717297.html</link>
+<description><![CDATA[selling two spindles, with brakes, and rotors 
+brake cable and abs cable included 
+comes off a 2104 brz with only 24,000 miles 
+if interested call or text *** 
+tags - brz, frs, gt86]]></description>
+<dc:date>2017-10-18T10:58:41-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/brz-spindles-brake-and-rotors/6328717297.html</dc:source>
+<dc:title><![CDATA[brz spindles brake and rotors (northeast philly) &#x0024;100]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00W0W_7rWjYZssr4x_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:58:41-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/brz-new-rear-wheel-bearings/6328716832.html">
+<title><![CDATA[brz New rear wheel bearings NSK (northeast philly) &#x0024;45]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/brz-new-rear-wheel-bearings/6328716832.html</link>
+<description><![CDATA[selling a pair (2) NEW rear wheel bearings for brz 
+tags- brz, frs, gt86 
+if interested call or text ***]]></description>
+<dc:date>2017-10-18T10:58:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/brz-new-rear-wheel-bearings/6328716832.html</dc:source>
+<dc:title><![CDATA[brz New rear wheel bearings NSK (northeast philly) &#x0024;45]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00F0F_fUMkVkkncch_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:58:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/safari-astro-van-doors/6342474097.html">
+<title><![CDATA[SAFARI /ASTRO VAN DOORS (Philadelphia) &#x0024;50]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/safari-astro-van-doors/6342474097.html</link>
+<description><![CDATA[astro safari van 1995-2005 power front and back doors w/glass $50 each 
+side slider door w/glass $60 
+hood $40 
+used alternator $40 
+New starter $85.]]></description>
+<dc:date>2017-10-18T10:58:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/safari-astro-van-doors/6342474097.html</dc:source>
+<dc:title><![CDATA[SAFARI /ASTRO VAN DOORS (Philadelphia) &#x0024;50]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00v0v_7mgSVtGjAc7_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:58:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/trailblazer-doors-body-parts/6341291906.html">
+<title><![CDATA[Trailblazer doors/body parts 2002-2009 (S.Phila)]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/trailblazer-doors-body-parts/6341291906.html</link>
+<description><![CDATA[2006 trailblazer Ls 4x4 maroon 4.2 PARTING OUT 
+doors $100ea 
+L-fenders $40. 
+door mirrors 40ea 
+1/4 glass $50ea 
+back gate complete $250. 
+transmission $525. 
+rear $250 
+hood $75. 
+Lt.gray back seats $50. 
+alternator a/c compressor ps pump fan clutc ...]]></description>
+<dc:date>2017-10-18T10:58:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/trailblazer-doors-body-parts/6341291906.html</dc:source>
+<dc:title><![CDATA[Trailblazer doors/body parts 2002-2009 (S.Phila)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:58:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/silverado-sierra-tahoe-yukon/6341149836.html">
+<title><![CDATA[Silverado/Sierra/Tahoe/Yukon dash bezle 2001-2006 (Phila) &#x0024;30]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/silverado-sierra-tahoe-yukon/6341149836.html</link>
+<description><![CDATA[2 dash bezel for 2000-2006 Tahoe Yukon Silverado Sierra 30.00 each I return phone calls only so if your not sending a phone # no need to reply]]></description>
+<dc:date>2017-10-18T10:57:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/silverado-sierra-tahoe-yukon/6341149836.html</dc:source>
+<dc:title><![CDATA[Silverado/Sierra/Tahoe/Yukon dash bezle 2001-2006 (Phila) &#x0024;30]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01515_44b4MVYdqkx_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:57:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/trailblazer-envoy/6340112153.html">
+<title><![CDATA[Trailblazer/Envoy Transmission/Rear (Philadelphia)]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/trailblazer-envoy/6340112153.html</link>
+<description><![CDATA[Good used 2006 Trailblazer/Envoy 4x4 4.2 Transmission $525. 
+Rear $300 
+Transfer case $200. 
+suv has 100k on dash 
+alt.starter. p/s pump fan/clutch &amp; more 
+IF YOU CONTACT ME WITHOUT A PHONE # YOUR EMAIL WILL BE TRASHED]]></description>
+<dc:date>2017-10-18T10:57:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/trailblazer-envoy/6340112153.html</dc:source>
+<dc:title><![CDATA[Trailblazer/Envoy Transmission/Rear (Philadelphia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:57:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/astro-cargo-van-parts/6340112049.html">
+<title><![CDATA[Astro Cargo Van Parts (Delco)]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/astro-cargo-van-parts/6340112049.html</link>
+<description><![CDATA[2003 Astro Cargo Van 
+Grill w/turn signal and after market head lights $50 
+windshield $50 
+set of back doors with glass $100. 
+power front doors $50ea 
+side slider door w/glass 60. ]]></description>
+<dc:date>2017-10-18T10:57:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/astro-cargo-van-parts/6340112049.html</dc:source>
+<dc:title><![CDATA[Astro Cargo Van Parts (Delco)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:57:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/17-audi-wheels/6341567044.html">
+<title><![CDATA[17" Audi wheels (Voorhees Township) &#x0024;200]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/17-audi-wheels/6341567044.html</link>
+<description><![CDATA[17" sport Audi wheels w/ 235/45/17 tires 
+Wheels are in great condition except for a few curb scratches but other then that they look great 
+Tires not so good 
+200 or best offer 
+Thank You]]></description>
+<dc:date>2017-10-18T10:57:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/17-audi-wheels/6341567044.html</dc:source>
+<dc:title><![CDATA[17" Audi wheels (Voorhees Township) &#x0024;200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00t0t_io0YZf4SALm_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:57:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/bmw-e46-coupe-3-series/6330727982.html">
+<title><![CDATA[BMW E46 Coupe 3 series Orientblau Spoiler (Perkasie) &#x0024;100]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/bmw-e46-coupe-3-series/6330727982.html</link>
+<description><![CDATA[Oem BMW spoiler off a 2003 BMW 3 series coupe. Dont think it fits sedans. Its Orientblau and in overall great shape, few skuffs you can see in picture 2.]]></description>
+<dc:date>2017-10-18T10:53:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/bmw-e46-coupe-3-series/6330727982.html</dc:source>
+<dc:title><![CDATA[BMW E46 Coupe 3 series Orientblau Spoiler (Perkasie) &#x0024;100]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00G0G_86t6e1h4APK_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:53:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/system-one-ladder-rack/6350981385.html">
+<title><![CDATA[System One Ladder Rack (Brookhaven) &#x0024;450]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/system-one-ladder-rack/6350981385.html</link>
+<description><![CDATA[System One Ladder Rack For sale. Came off of a 2004 Ford F-150 8ft bed. $450 OBO]]></description>
+<dc:date>2017-10-18T10:52:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/system-one-ladder-rack/6350981385.html</dc:source>
+<dc:title><![CDATA[System One Ladder Rack (Brookhaven) &#x0024;450]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00E0E_1RnT2PicRTx_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:52:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/ptd/d/jdm-honda-acura-type-dc2-db8/6350978264.html">
+<title><![CDATA[JDM HONDA ACURA TYPE R DC2/DB8 RHD CONVERSION 94-01 INTEGRA (Philadelphia) &#x0024;400]]></title>
+<link>https://philadelphia.craigslist.org/ptd/d/jdm-honda-acura-type-dc2-db8/6350978264.html</link>
+<description><![CDATA[Local Pickups Available 
+JDMEngine PA 
+2181 Bennett RD. 
+Philadelphia PA. 19116 
+Office : *** 
+Text: : *** 
+STORE HOURS 
+Monday to Friday: 9:00am to 6:00pm 
+Saturday. . .. . .. . .: 9:00am to 3:00pm 
+Sunday. . .....: By Appointment Only. Please call  ...]]></description>
+<dc:date>2017-10-18T10:50:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/ptd/d/jdm-honda-acura-type-dc2-db8/6350978264.html</dc:source>
+<dc:title><![CDATA[JDM HONDA ACURA TYPE R DC2/DB8 RHD CONVERSION 94-01 INTEGRA (Philadelphia) &#x0024;400]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Z0Z_e2mjU0OGF6Y_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:50:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/pts/d/air-filter-cone-kn-type-style/6338951043.html">
+<title><![CDATA[Air Filter - Cone - K&N type/style 4 inch (King of Prussia) &#x0024;15]]></title>
+<link>https://philadelphia.craigslist.org/pts/d/air-filter-cone-kn-type-style/6338951043.html</link>
+<description><![CDATA[Brand new never opened 
+4" opening by approx 7" long]]></description>
+<dc:date>2017-10-18T10:47:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/pts/d/air-filter-cone-kn-type-style/6338951043.html</dc:source>
+<dc:title><![CDATA[Air Filter - Cone - K&N type/style 4 inch (King of Prussia) &#x0024;15]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00303_sBAC0xkTv5_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:47:37-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

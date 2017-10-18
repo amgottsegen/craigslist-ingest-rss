@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/haa?format=rss">
+<title>craigslist philadelphia | health and beauty search </title>
+<link>https://philadelphia.craigslist.org/search/haa</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/haa?format=rss</dc:source>
+<dc:title>craigslist philadelphia | health and beauty search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:37-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/designer-finger-nail-printing/6341848416.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/jivago-24k-perfume-from-paris/6341897978.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/total-gym-used/6334167400.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/bundles-can-deliver/6350889882.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/awesome-garage-sale-all-must/6344490312.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/kiehls-samples-burts-bees/6345302156.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/vintage-schwinn-exercise-bike/6350892688.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/respironics-bipapplus-series/6350878397.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/bucks-county-nail-salon-for/6326260411.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/statim-5000-dental-autoclave/6350826800.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/beachbody-shakeology/6329769773.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/home-medics-messaging-foot/6350806404.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/exercise-tapes-vhs/6325684601.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/the-flex-belt-ab-belt-workout/6350804300.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/exercise-disc-by-frank-sepe/6350801964.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/hair-salon-stations-asap/6350798981.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/paul-frank-hot-tools-beach-set/6316221874.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/flat-iron/6343103526.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/heine-beta-200-set/6337339330.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/the-color-institute-makeup-18/6331815587.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/two-stepper-machine/6350772010.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/excerise-bike/6350770676.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/had/d/marijuana/6350697666.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/hab/d/nspire-health-related/6316436273.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/had/d/crutches-52-to-510/6345966890.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/designer-finger-nail-printing/6341848416.html">
+<title><![CDATA[Designer Finger Nail Printing (Philadelphia)]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/designer-finger-nail-printing/6341848416.html</link>
+<description><![CDATA[Elite Nail Art designer finger nail printing. The printing is absolutely beautiful, woman love it. This printer will print any design or picture on your finger nails. Your printing will be photo quality too. Comes with thousands of designs and design ...]]></description>
+<dc:date>2017-10-18T11:16:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/designer-finger-nail-printing/6341848416.html</dc:source>
+<dc:title><![CDATA[Designer Finger Nail Printing (Philadelphia)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00h0h_luTNi5FBVsh_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:16:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/jivago-24k-perfume-from-paris/6341897978.html">
+<title><![CDATA[JIVAGO 24K Perfume from PARIS with gold - FULL Bottle (Rittenhouse Square) &#x0024;25]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/jivago-24k-perfume-from-paris/6341897978.html</link>
+<description><![CDATA[A womanly blend of luxurious florals, very romantic. Real gold flecks in perfume! 
+Launched by the design house of Ilana Jivago in 1995 JIVAGO 24K is classified as a luxurious flowery fragrance. This feminine scent possesses a blend of florals rose j ...]]></description>
+<dc:date>2017-10-18T11:06:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/jivago-24k-perfume-from-paris/6341897978.html</dc:source>
+<dc:title><![CDATA[JIVAGO 24K Perfume from PARIS with gold - FULL Bottle (Rittenhouse Square) &#x0024;25]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00g0g_jkapimUUHRA_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:06:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/total-gym-used/6334167400.html">
+<title><![CDATA[Total Gym used (Lansdale) &#x0024;110]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/total-gym-used/6334167400.html</link>
+<description><![CDATA[Open to offers, I have a used Total Gym, in good condition, fully operational &amp; functional. 
+The Total word is slowly fading from the leather, there's also a few drops of white paint in a corner. 
+Must pickup item.]]></description>
+<dc:date>2017-10-18T10:46:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/total-gym-used/6334167400.html</dc:source>
+<dc:title><![CDATA[Total Gym used (Lansdale) &#x0024;110]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Y0Y_bH7hnNOlcQa_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:46:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/bundles-can-deliver/6350889882.html">
+<title><![CDATA[Bundles! Can deliver &#x0024;80]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/bundles-can-deliver/6350889882.html</link>
+<description><![CDATA[Tons of hair for sale! 
+-Brazilian hair 9A natural brown 22-30 inches in straight and body wave. 22-26 inches is 80$ per bundle 28 and 30 inches 90$ per bundle. 
+-Platinum Blonde hair top of the line grade 10A great for coloring 1 14inch and 2 16 inc ...]]></description>
+<dc:date>2017-10-18T10:12:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/bundles-can-deliver/6350889882.html</dc:source>
+<dc:title><![CDATA[Bundles! Can deliver &#x0024;80]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00U0U_djU3PHVGEne_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:12:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/awesome-garage-sale-all-must/6344490312.html">
+<title><![CDATA[Awesome GARAGE SALE - ALL MUST GO (Warminster) &#x0024;10]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/awesome-garage-sale-all-must/6344490312.html</link>
+<description><![CDATA[GARAGE SALE. ALL MUST GO! 
+I am planning on opening our garage so you can come take a look at what is here that you may be interested in. Cash & Carry only. 
+-New BREVILLE Juicer (bought for $350 and only use 2 x's) 
+-2 vintage leather 60's chairs 
+- ...]]></description>
+<dc:date>2017-10-18T09:51:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/awesome-garage-sale-all-must/6344490312.html</dc:source>
+<dc:title><![CDATA[Awesome GARAGE SALE - ALL MUST GO (Warminster) &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T09:51:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/kiehls-samples-burts-bees/6345302156.html">
+<title><![CDATA[Kiehl's Samples, Burts Bees & Shea Moisture FULL SIZES, ESSIE Polishes (Warminster) &#x0024;10]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/kiehls-samples-burts-bees/6345302156.html</link>
+<description><![CDATA[GARAGE SALE. ALL MUST GO! 
+100's of Kiehl's samples, Burts Bees , Shea Moisture FULL SIZES, ESSIE nail Polishes (all brand new, gel formulas). 
+Vintage clothes & coats & purses! 
+I am planning on opening our garage so you can come take a look at what ...]]></description>
+<dc:date>2017-10-18T09:50:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/kiehls-samples-burts-bees/6345302156.html</dc:source>
+<dc:title><![CDATA[Kiehl's Samples, Burts Bees & Shea Moisture FULL SIZES, ESSIE Polishes (Warminster) &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T09:50:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/vintage-schwinn-exercise-bike/6350892688.html">
+<title><![CDATA[Vintage Schwinn Exercise Bike in Cappuccino Brown (South Philly) &#x0024;30]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/vintage-schwinn-exercise-bike/6350892688.html</link>
+<description><![CDATA[Exercise in style with this beautiful antique/vintage Schwinn exercise bike. It has a speedometer, tension knob, and a timer, all built into the console area. The bike is in great shape and is colored a gorgeous cappuccino brown. 
+This is a perfect,  ...]]></description>
+<dc:date>2017-10-18T09:47:16-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/vintage-schwinn-exercise-bike/6350892688.html</dc:source>
+<dc:title><![CDATA[Vintage Schwinn Exercise Bike in Cappuccino Brown (South Philly) &#x0024;30]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00000_3K3TQd5AUj8_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:47:16-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/respironics-bipapplus-series/6350878397.html">
+<title><![CDATA[RESPIRONICS BiPAPPLUS M SERIES HEATED HUMIDIFIER DOM (HAMMONTON) &#x0024;175]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/respironics-bipapplus-series/6350878397.html</link>
+<description><![CDATA[Looks like new. Price is firm. Call Bill at ***.]]></description>
+<dc:date>2017-10-18T09:35:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/respironics-bipapplus-series/6350878397.html</dc:source>
+<dc:title><![CDATA[RESPIRONICS BiPAPPLUS M SERIES HEATED HUMIDIFIER DOM (HAMMONTON) &#x0024;175]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00c0c_iiaQLilRy3r_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:35:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/bucks-county-nail-salon-for/6326260411.html">
+<title><![CDATA[Bucks County Nail Salon For Sale (Bristol)]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/bucks-county-nail-salon-for/6326260411.html</link>
+<description><![CDATA[Selling establish Nail Salon in mid town lower buck PA in busy location corner lot Contact me for a good deal selling business if interested #***]]></description>
+<dc:date>2017-10-18T09:34:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/bucks-county-nail-salon-for/6326260411.html</dc:source>
+<dc:title><![CDATA[Bucks County Nail Salon For Sale (Bristol)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00C0C_6rT3HWmGbsp_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:34:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/statim-5000-dental-autoclave/6350826800.html">
+<title><![CDATA[Statim 5000 Dental Autoclave (PA/NJ/DE)]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/statim-5000-dental-autoclave/6350826800.html</link>
+<description><![CDATA[Refurbished Statim 5000 Autoclave Great Working Condition 
+PROTECH DENTAL SUPPLY 
+Comes with 3 MONTHS WARRANTY 
+We have several units in stock 
+Other equipment is also available 
+Contact us with any questions and pricing. 
+Call us at *** 
+Our Hours:  ...]]></description>
+<dc:date>2017-10-18T08:45:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/statim-5000-dental-autoclave/6350826800.html</dc:source>
+<dc:title><![CDATA[Statim 5000 Dental Autoclave (PA/NJ/DE)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00X0X_i8dNTMH04Ji_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:45:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/beachbody-shakeology/6329769773.html">
+<title><![CDATA[Beachbody Shakeology Greenberry Chocolate nutrition (Mount Laurel) &#x0024;90]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/beachbody-shakeology/6329769773.html</link>
+<description><![CDATA[BRAND NEW! SEALED! SAVE $$$!]]></description>
+<dc:date>2017-10-18T08:32:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/beachbody-shakeology/6329769773.html</dc:source>
+<dc:title><![CDATA[Beachbody Shakeology Greenberry Chocolate nutrition (Mount Laurel) &#x0024;90]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00h0h_7xcwJbGBeMp_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:32:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/home-medics-messaging-foot/6350806404.html">
+<title><![CDATA[Home Medics - Messaging foot spa and sole therapy (NE Phila) &#x0024;15]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/home-medics-messaging-foot/6350806404.html</link>
+<description><![CDATA[Home Medics - Messaging foot spa and sole therapy - 
+messaging rollers, 
+acupressure surface, 
+foot controls, 
+true heat. 
+New in box.]]></description>
+<dc:date>2017-10-18T08:19:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/home-medics-messaging-foot/6350806404.html</dc:source>
+<dc:title><![CDATA[Home Medics - Messaging foot spa and sole therapy (NE Phila) &#x0024;15]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T08:19:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/exercise-tapes-vhs/6325684601.html">
+<title><![CDATA[EXERCISE TAPES VHS (BRIDGEPORT/KING OF PRUSSIA) &#x0024;2]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/exercise-tapes-vhs/6325684601.html</link>
+<description><![CDATA[I have 19 exercise tapes. Price per tape is $2. Buy one or take the whole works for $20. They are by popular people like Jane Fonda and Richard Simmons. TELEPHONE ONLY *** NO TEXTING OR E-MAIL]]></description>
+<dc:date>2017-10-18T08:17:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/exercise-tapes-vhs/6325684601.html</dc:source>
+<dc:title><![CDATA[EXERCISE TAPES VHS (BRIDGEPORT/KING OF PRUSSIA) &#x0024;2]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00909_lQmyJOM9BKw_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:17:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/the-flex-belt-ab-belt-workout/6350804300.html">
+<title><![CDATA[THE FLEX BELT Ab Belt Workout - NEW (MEDIA) &#x0024;135]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/the-flex-belt-ab-belt-workout/6350804300.html</link>
+<description><![CDATA[BRAND NEW - NEVER USED 
+FDA Cleared to Tone, Firm and Strengthen the Abdominal Muscles 
+For sale on AMAZON for $197.97 - 
+Ultimate Toning Technology 
+Intense Abs Workout 
+Maximum Core Strength 
+FDA Cleared for Toning, Firming and Strengthening Ab Mus ...]]></description>
+<dc:date>2017-10-18T08:16:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/the-flex-belt-ab-belt-workout/6350804300.html</dc:source>
+<dc:title><![CDATA[THE FLEX BELT Ab Belt Workout - NEW (MEDIA) &#x0024;135]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00606_hZyt1vKaV93_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:16:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/exercise-disc-by-frank-sepe/6350801964.html">
+<title><![CDATA[EXERCISE DISC by FRANK SEPE (BRIDGEPORT/KING OF PRUSSIA) &#x0024;20]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/exercise-disc-by-frank-sepe/6350801964.html</link>
+<description><![CDATA[Exercise Fitness Disc complete with all video DVD's and manual. Excellent form of exercise taking up very little space. My wife bought this item and never used it. When getting the Christmas decorations out of the garage, this was tucked back in the  ...]]></description>
+<dc:date>2017-10-18T08:13:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/exercise-disc-by-frank-sepe/6350801964.html</dc:source>
+<dc:title><![CDATA[EXERCISE DISC by FRANK SEPE (BRIDGEPORT/KING OF PRUSSIA) &#x0024;20]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00707_4ASKSJazvxj_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:13:22-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/hair-salon-stations-asap/6350798981.html">
+<title><![CDATA[Hair Salon Stations A.S.A.P (Glenside) &#x0024;50]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/hair-salon-stations-asap/6350798981.html</link>
+<description><![CDATA[I'm looking to sell my hair salon stations they are in good shape they were custom made by salon interiors . I have three of them,I want to sell as a set but I will sell one at a time &75 per station (,DOES NOT INCLUDING THE CHAIR PLEASE DONT ASK!).  ...]]></description>
+<dc:date>2017-10-18T08:09:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/hair-salon-stations-asap/6350798981.html</dc:source>
+<dc:title><![CDATA[Hair Salon Stations A.S.A.P (Glenside) &#x0024;50]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00b0b_1kS8U9WSUqX_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:09:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/paul-frank-hot-tools-beach-set/6316221874.html">
+<title><![CDATA[Paul Frank Hot tools beach set (South philadelphia) &#x0024;15]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/paul-frank-hot-tools-beach-set/6316221874.html</link>
+<description><![CDATA[Perfect for your little Princess!!! 
+Paul Frank Hot Tools Beach Set : 
+INCLUDES: 
+ionic 1875 watt hair dryer 
+ceramic mini flat iron 
+beach mat 
+sandals size 9 
+tote bag]]></description>
+<dc:date>2017-10-18T07:31:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/paul-frank-hot-tools-beach-set/6316221874.html</dc:source>
+<dc:title><![CDATA[Paul Frank Hot tools beach set (South philadelphia) &#x0024;15]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00F0F_fMhLem4Nc58_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:31:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/flat-iron/6343103526.html">
+<title><![CDATA[Flat iron (S Philadelphia) &#x0024;60]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/flat-iron/6343103526.html</link>
+<description><![CDATA[Brand new 2" Flat iron by Helix. I paid $90, asking $60 or best offer 
+Helix by Hot Tools Super Tools Nano 2 inch variable temperature flat iron is made with tourmaline and ceramic plates to create a smooth, silky straight style with no frizz. The 2  ...]]></description>
+<dc:date>2017-10-18T07:28:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/flat-iron/6343103526.html</dc:source>
+<dc:title><![CDATA[Flat iron (S Philadelphia) &#x0024;60]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00D0D_dU39tIQ9WoY_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:28:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/heine-beta-200-set/6337339330.html">
+<title><![CDATA[Heine Beta 200 Set - OPHTHALMOSCOPE OTOSCOPE (Chinatown PHILA) &#x0024;100]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/heine-beta-200-set/6337339330.html</link>
+<description><![CDATA[As pictured. Does not power up. Needs battery replacement. 
+Heine Beta 200 3.5v 
+Ophtalmoscope Otoscope Diagnostic Kit 
+Used, very light wear, excellent condition. 
+Everything pictured is included.]]></description>
+<dc:date>2017-10-18T07:20:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/heine-beta-200-set/6337339330.html</dc:source>
+<dc:title><![CDATA[Heine Beta 200 Set - OPHTHALMOSCOPE OTOSCOPE (Chinatown PHILA) &#x0024;100]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00J0J_8lhT2z1pKJk_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:20:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/the-color-institute-makeup-18/6331815587.html">
+<title><![CDATA[The Color Institute Makeup 18-Piece Set (Chinatown PHILA) &#x0024;15]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/the-color-institute-makeup-18/6331815587.html</link>
+<description><![CDATA["The Color Institute" Makeup 18-Piece Set 
+• Two 6-Color Lipgloss Palettes 
+• Two Eyeshadow Sticks 
+• Two Blush Sticks 
+• Four Eyeliner Pencils 
+• Five Lipsticks 
+• Three Powder Blush Compacts 
+$15 for the entire set. 
+Makeup is high in p ...]]></description>
+<dc:date>2017-10-18T07:20:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/the-color-institute-makeup-18/6331815587.html</dc:source>
+<dc:title><![CDATA[The Color Institute Makeup 18-Piece Set (Chinatown PHILA) &#x0024;15]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00o0o_9RHpLTojB5p_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:20:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/two-stepper-machine/6350772010.html">
+<title><![CDATA[Two stepper machine (Bucks) &#x0024;60]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/two-stepper-machine/6350772010.html</link>
+<description><![CDATA[Great workout]]></description>
+<dc:date>2017-10-18T07:19:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/two-stepper-machine/6350772010.html</dc:source>
+<dc:title><![CDATA[Two stepper machine (Bucks) &#x0024;60]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00M0M_2acXvms1G3g_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:19:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/excerise-bike/6350770676.html">
+<title><![CDATA[Excerise bike (Bucks) &#x0024;200]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/excerise-bike/6350770676.html</link>
+<description><![CDATA[Never used must pick up]]></description>
+<dc:date>2017-10-18T07:16:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/excerise-bike/6350770676.html</dc:source>
+<dc:title><![CDATA[Excerise bike (Bucks) &#x0024;200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00y0y_fVA2tkdkncN_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:16:22-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/had/d/marijuana/6350697666.html">
+<title><![CDATA[❤❤❤❤❤❤❤❤MARIJUANA (philadElphia)]]></title>
+<link>https://philadelphia.craigslist.org/had/d/marijuana/6350697666.html</link>
+<description><![CDATA[&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;&#10084;Marijuana for sale at affordablev call OR text: *** ...]]></description>
+<dc:date>2017-10-18T04:06:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/had/d/marijuana/6350697666.html</dc:source>
+<dc:title><![CDATA[❤❤❤❤❤❤❤❤MARIJUANA (philadElphia)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00p0p_9XVnpoc7LkT_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T04:06:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/hab/d/nspire-health-related/6316436273.html">
+<title><![CDATA[Nspire health-related products ALL-NATURAL feminine sanitary napkin (phila) &#x0024;5]]></title>
+<link>https://philadelphia.craigslist.org/hab/d/nspire-health-related/6316436273.html</link>
+<description><![CDATA[Cherish Premium Sanitary Napkins include negative ion technology which has been proven to balance PH and hormone levels, helps protect against germs and bacteria, helps to reduce inflammation, fights against vaginal irritations and infections and red ...]]></description>
+<dc:date>2017-10-18T02:22:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/hab/d/nspire-health-related/6316436273.html</dc:source>
+<dc:title><![CDATA[Nspire health-related products ALL-NATURAL feminine sanitary napkin (phila) &#x0024;5]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00s0s_5CLRb7gUFZb_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T02:22:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/had/d/crutches-52-to-510/6345966890.html">
+<title><![CDATA[Crutches 5.2" to 5.10" (8803 Torresdale ave) &#x0024;15]]></title>
+<link>https://philadelphia.craigslist.org/had/d/crutches-52-to-510/6345966890.html</link>
+<description><![CDATA[Tony's Deals Ne Phila - 8803 Torresdale ave - Zip 19136 open 7 Days 10 to 8]]></description>
+<dc:date>2017-10-17T21:42:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/had/d/crutches-52-to-510/6345966890.html</dc:source>
+<dc:title><![CDATA[Crutches 5.2" to 5.10" (8803 Torresdale ave) &#x0024;15]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00505_iIJ6MLyQt6a_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-17T21:42:49-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

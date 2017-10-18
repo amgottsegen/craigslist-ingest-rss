@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/cta?format=rss">
+<title>craigslist philadelphia | cars &#x26; trucks search </title>
+<link>https://philadelphia.craigslist.org/search/cta</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/cta?format=rss</dc:source>
+<dc:title>craigslist philadelphia | cars &#x26; trucks search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:29-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/ctd/d/2011-cadillac-srx-down/6351021568.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/1999-toyota-camry-clean/6346369245.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/2005-toyota-camry-se-4/6347735114.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/1988-mercedes-420sel/6350983608.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/auto-body-work-in-one-day/6333794732.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/2004-jeep-wrangler-sport-4x4/6320127364.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/ctd/d/2015-hyundai-sonata-down/6351019330.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/2009-ford-ranger-utility-truck/6351018586.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/ctd/d/2012-gmc-acadia-down-payments/6351018572.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/2010-bmw-328i/6351016048.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/2008-mazda-speed-3-turbo-low/6351015660.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/speed-automatic2004-power/6350923967.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/ctd/d/2012-ford-escape-xlt-call-for/6351013362.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/ctd/d/2008-gmc-envoy-buy-here-pay/6351012853.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/2000-saturn-series-ls1/6350992818.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/2007-kia-sorento-lx-4wd/6314162857.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/2009-chevrolete-express-3500/6314106169.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/1991-toyota-pickup-v8-solid/6351011420.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/2016-honda-pilot-rims-tires/6350996446.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/ctd/d/2010-honda-civic-sedan-down/6351009282.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/ctd/d/2008-chrysler-300-4dr-sedan/6351009187.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/ctd/d/2009-toyota-sienna-7-pass-van/6351008859.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/chevrolet-ltz-crew-cab-pickup/6350945433.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/ctd/d/2006-toyota-corolla-4dr-sedan/6351008051.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/cto/d/2006-freightliner-m2-21ft-c7/6350993868.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/ctd/d/2011-cadillac-srx-down/6351021568.html">
+<title><![CDATA[2011 CADILLAC SRX  DOWN PAYMENTS AS LOW AS $500 BUY HERE PAY HERE (Sharon Hill, PA)]]></title>
+<link>https://philadelphia.craigslist.org/ctd/d/2011-cadillac-srx-down/6351021568.html</link>
+<description><![CDATA[*As low as $500 DOWN 
+*Any Income Drives! 
+*Everyone APPROVED 
+*Buy Here Pay Here 
+*All Cars Pa State Inspected 
+*Financing For Everyone 
+*Repair and Rebuild Your Credit or Establish New Credit 
+*We Get EVERYONE Driving 
+*Trades Welcome 
+*Repossessio ...]]></description>
+<dc:date>2017-10-18T11:19:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/ctd/d/2011-cadillac-srx-down/6351021568.html</dc:source>
+<dc:title><![CDATA[2011 CADILLAC SRX  DOWN PAYMENTS AS LOW AS $500 BUY HERE PAY HERE (Sharon Hill, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00w0w_9QF65lkEEl2_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:19:22-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/1999-toyota-camry-clean/6346369245.html">
+<title><![CDATA[1999 Toyota Camry CLEAN (Wilmington, De) &#x0024;1500]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/1999-toyota-camry-clean/6346369245.html</link>
+<description><![CDATA[1999 Toyota Camry 
+147k miles 
+Runs, drives, shifts and looks great 
+Clean body and paint, no dents, dings, rust, peeling, etc. 
+Clean cloth interior 
+4 cylinder Automatic 
+Ice cold a/c and heat works great 
+Good tires all around 
+All service is up t ...]]></description>
+<dc:date>2017-10-18T11:19:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/1999-toyota-camry-clean/6346369245.html</dc:source>
+<dc:title><![CDATA[1999 Toyota Camry CLEAN (Wilmington, De) &#x0024;1500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00B0B_1odQPq8zXI6_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:19:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/2005-toyota-camry-se-4/6347735114.html">
+<title><![CDATA[2005 Toyota Camry SE  4 cylinder  Gas Saver &#x0024;4200]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/2005-toyota-camry-se-4/6347735114.html</link>
+<description><![CDATA[2005 Toyota Camry SE (Special Edition) 
+112 K miles Automatic 
+Engine & transmission perfect Ice cold A/C 
+Sunroof, Power Seats,Power windows Locks Loaded 
+keyless Entry 
+New Brakes good tires 
+Contact: *** 
+Same as: toyota corolla,toyota avalon, hon ...]]></description>
+<dc:date>2017-10-18T11:19:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/2005-toyota-camry-se-4/6347735114.html</dc:source>
+<dc:title><![CDATA[2005 Toyota Camry SE  4 cylinder  Gas Saver &#x0024;4200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00D0D_aH0LgPDNM5h_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:19:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/1988-mercedes-420sel/6350983608.html">
+<title><![CDATA[1988 Mercedes 420sel (Princeton NJ) &#x0024;1675]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/1988-mercedes-420sel/6350983608.html</link>
+<description><![CDATA[For sale by owner 1998 Mercedes 420sel 1 family owned since new runs and drives terrific all service records everything works a classic Mercedes can be used as a daily driver our weekend car asking 1675 located in Princeton New Jersey please call ***]]></description>
+<dc:date>2017-10-18T11:18:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/1988-mercedes-420sel/6350983608.html</dc:source>
+<dc:title><![CDATA[1988 Mercedes 420sel (Princeton NJ) &#x0024;1675]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00d0d_itCwMSEIQbK_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:18:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/auto-body-work-in-one-day/6333794732.html">
+<title><![CDATA[Auto body work in one day &#x0024;2]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/auto-body-work-in-one-day/6333794732.html</link>
+<description><![CDATA[I do auto body work on cars or vans most the same day service we also replace parts call for your free estimate ***]]></description>
+<dc:date>2017-10-18T11:18:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/auto-body-work-in-one-day/6333794732.html</dc:source>
+<dc:title><![CDATA[Auto body work in one day &#x0024;2]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:18:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/2004-jeep-wrangler-sport-4x4/6320127364.html">
+<title><![CDATA[2004 Jeep Wrangler Sport 4x4 - 5 Speed - Solar Yellow - 4.0L - 1 Owner (Northeast Philadelphia) &#x0024;8995]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/2004-jeep-wrangler-sport-4x4/6320127364.html</link>
+<description><![CDATA[2004 Jeep Wrangler Sport TJ 
+This Jeep is in overall good shape. Engine and transmission run great. Has a few rust spots like most Wranglers out there. 
+Below are more details on this vehicle: 
+- Mileage - 164,784 
+- One Owner 
+- 4.0L Straight 6 Cyli ...]]></description>
+<dc:date>2017-10-18T11:18:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/2004-jeep-wrangler-sport-4x4/6320127364.html</dc:source>
+<dc:title><![CDATA[2004 Jeep Wrangler Sport 4x4 - 5 Speed - Solar Yellow - 4.0L - 1 Owner (Northeast Philadelphia) &#x0024;8995]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00S0S_aEegbzA6vHL_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:18:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/ctd/d/2015-hyundai-sonata-down/6351019330.html">
+<title><![CDATA[2015 HYUNDAI SONATA   DOWN PAYMENTS AS LOW AS $500 BUY HERE PAY HERE (Sharon Hill, PA)]]></title>
+<link>https://philadelphia.craigslist.org/ctd/d/2015-hyundai-sonata-down/6351019330.html</link>
+<description><![CDATA[*As low as $500 DOWN 
+*Any Income Drives! 
+*Everyone APPROVED 
+*Buy Here Pay Here 
+*All Cars Pa State Inspected 
+*Financing For Everyone 
+*Repair and Rebuild Your Credit or Establish New Credit 
+*We Get EVERYONE Driving 
+*Trades Welcome 
+*Repossessio ...]]></description>
+<dc:date>2017-10-18T11:17:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/ctd/d/2015-hyundai-sonata-down/6351019330.html</dc:source>
+<dc:title><![CDATA[2015 HYUNDAI SONATA   DOWN PAYMENTS AS LOW AS $500 BUY HERE PAY HERE (Sharon Hill, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00N0N_8ETKa0pTg8W_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/2009-ford-ranger-utility-truck/6351018586.html">
+<title><![CDATA[2009 Ford Ranger Utility Truck (Pittston) &#x0024;7995]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/2009-ford-ranger-utility-truck/6351018586.html</link>
+<description><![CDATA[2009 Ford Ranger XL Super Cab 
+2.3L Engine 
+Automatic Transmission 
+101,4XX Miles 
+RWD 
+Current Inspection (Expires 8/18) 
+Runs and Drives Great 
+Very clean inside and out 
+Box Cap with Roof Racks 
+Rubber Floors No Rugs 
+Serious Inquires Only 
+Please ...]]></description>
+<dc:date>2017-10-18T11:17:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/2009-ford-ranger-utility-truck/6351018586.html</dc:source>
+<dc:title><![CDATA[2009 Ford Ranger Utility Truck (Pittston) &#x0024;7995]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00X0X_6LXhpfxDCny_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/ctd/d/2012-gmc-acadia-down-payments/6351018572.html">
+<title><![CDATA[2012 GMC ACADIA  DOWN PAYMENTS AS LOW AS $500 BUY HERE PAY HERE (Sharon Hill, PA)]]></title>
+<link>https://philadelphia.craigslist.org/ctd/d/2012-gmc-acadia-down-payments/6351018572.html</link>
+<description><![CDATA[*As low as $500 DOWN 
+*Any Income Drives! 
+*Everyone APPROVED 
+*Buy Here Pay Here 
+*All Cars Pa State Inspected 
+*Financing For Everyone 
+*Repair and Rebuild Your Credit or Establish New Credit 
+*We Get EVERYONE Driving 
+*Trades Welcome 
+*Repossessio ...]]></description>
+<dc:date>2017-10-18T11:17:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/ctd/d/2012-gmc-acadia-down-payments/6351018572.html</dc:source>
+<dc:title><![CDATA[2012 GMC ACADIA  DOWN PAYMENTS AS LOW AS $500 BUY HERE PAY HERE (Sharon Hill, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01414_fMqmbqrm42O_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/2010-bmw-328i/6351016048.html">
+<title><![CDATA[2010 BMW 328i &#x0024;8500]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/2010-bmw-328i/6351016048.html</link>
+<description><![CDATA[Black 2010 BMW 328i with 116,000 miles cars runs good clean inside and outside]]></description>
+<dc:date>2017-10-18T11:15:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/2010-bmw-328i/6351016048.html</dc:source>
+<dc:title><![CDATA[2010 BMW 328i &#x0024;8500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00303_aOEDMHYeMCx_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:15:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/2008-mazda-speed-3-turbo-low/6351015660.html">
+<title><![CDATA[2008 Mazda Speed 3 turbo low miles 76k (Pleasantville) &#x0024;9600]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/2008-mazda-speed-3-turbo-low/6351015660.html</link>
+<description><![CDATA[2008 Mazda Speed 3 turbo 
+Super fast 
+Window tint 
+Lower on coils 
+Full lip kit 
+Call or text ***]]></description>
+<dc:date>2017-10-18T11:15:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/2008-mazda-speed-3-turbo-low/6351015660.html</dc:source>
+<dc:title><![CDATA[2008 Mazda Speed 3 turbo low miles 76k (Pleasantville) &#x0024;9600]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00L0L_8O3gMcVD8h7_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:15:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/speed-automatic2004-power/6350923967.html">
+<title><![CDATA[-SPEED AUTOMATIC2004 POWER SEATS CHEVROLET TAHOE Z71 POWER FOLDING SID (philadelphia) &#x0024;2050]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/speed-automatic2004-power/6350923967.html</link>
+<description><![CDATA[-LIGHT CASHMERE AND DARK CACHMERE LEATHER INTERIOR 
+-WOOD TRIM 
+-POWER SEATS 
+-2ND AND 3RD ROW BENCH SEATING 
+-PREMIUM AUDIO SYSTEM 
+-REVERSE CAMERA 
+-PARKING ASSIST 
+-FACTORY TRAILER BRAKE CONTROL MODULE 
+-ROOF RACK 
+-POWER FOLDING SIDE MIRRORS 
+-KE ...]]></description>
+<dc:date>2017-10-18T11:15:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/speed-automatic2004-power/6350923967.html</dc:source>
+<dc:title><![CDATA[-SPEED AUTOMATIC2004 POWER SEATS CHEVROLET TAHOE Z71 POWER FOLDING SID (philadelphia) &#x0024;2050]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00M0M_4G0aAPGSyG_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:15:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/ctd/d/2012-ford-escape-xlt-call-for/6351013362.html">
+<title><![CDATA[2012 FORD ESCAPE XLT **CALL FOR BEST PRICE (~ Ford_ Escape_🚘)]]></title>
+<link>https://philadelphia.craigslist.org/ctd/d/2012-ford-escape-xlt-call-for/6351013362.html</link>
+<description><![CDATA[2012 *** Ford Escape XLT SUV *** 
+CALL OUR CRAIGSLIST HOTLINE! Call (or text) &#9743; (856) 391&minus;0077 Lilliston Used Cars 
+To view our entire inventory Click on "More ads by this user" button on the right, South Jersey, NJ 08332 Or use the link  ...]]></description>
+<dc:date>2017-10-18T11:13:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/ctd/d/2012-ford-escape-xlt-call-for/6351013362.html</dc:source>
+<dc:title><![CDATA[2012 FORD ESCAPE XLT **CALL FOR BEST PRICE (~ Ford_ Escape_🚘)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00B0B_ghn4qwI8xoJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:13:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/ctd/d/2008-gmc-envoy-buy-here-pay/6351012853.html">
+<title><![CDATA[2008 GMC Envoy BUY HERE PAY HERE 30-Month Warranty! (+ From $95 Down, No Credit Check Pre-Approval)]]></title>
+<link>https://philadelphia.craigslist.org/ctd/d/2008-gmc-envoy-buy-here-pay/6351012853.html</link>
+<description><![CDATA[2008 GMC Envoy 
+Offered by: From $95 Down, No Credit Check Pre-Approval &mdash; *** &mdash; Text (or call) for more info 
+From $95 Down, No Credit Check Pre-Approval 
+Year: 2008 
+Make: GMC 
+Model: Envoy Stock #: T32697 
+Condition: Used MPG: 14 city / ...]]></description>
+<dc:date>2017-10-18T11:13:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/ctd/d/2008-gmc-envoy-buy-here-pay/6351012853.html</dc:source>
+<dc:title><![CDATA[2008 GMC Envoy BUY HERE PAY HERE 30-Month Warranty! (+ From $95 Down, No Credit Check Pre-Approval)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00505_eoPDi7EJ5EJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:13:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/2000-saturn-series-ls1/6350992818.html">
+<title><![CDATA[2000 Saturn L-Series LS1 (UPPER DARBY) &#x0024;800]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/2000-saturn-series-ls1/6350992818.html</link>
+<description><![CDATA[2000 Saturn L-Series LS1 
+MILES 130K 
+VIN: 1G8JU52F6YY685152 - CLEAN TITLE 
+Year: 2000 
+Make: Saturn 
+Model: L-Series LS1 
+Style/Body: Sedan 4D 
+Class: Mid Range Car - Lower 
+Engine: 2.2L I4 EFI 
+Country of Assembly: United States 
+Vehicle Age: 17 ye ...]]></description>
+<dc:date>2017-10-18T11:13:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/2000-saturn-series-ls1/6350992818.html</dc:source>
+<dc:title><![CDATA[2000 Saturn L-Series LS1 (UPPER DARBY) &#x0024;800]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00q0q_3cQMVdw2dPi_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:13:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/2007-kia-sorento-lx-4wd/6314162857.html">
+<title><![CDATA[2007 KIA SORENTO LX 4WD (WALLINGFORD PA.) &#x0024;8700]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/2007-kia-sorento-lx-4wd/6314162857.html</link>
+<description><![CDATA[2007 KIA SORENTO LX 4WD. ONLY 67,212 MILES. VERY CLEAN WITH NEW INSPECTION. CLEAN TITLE. Air Conditioning; Power Windows; Power Locks; Power Steering; Tilt Wheel; AM/FM CD/MP3; Keyless Entry; Alarm; Dual Air Bags Front Head and Sides; Active Belts; A ...]]></description>
+<dc:date>2017-10-18T11:13:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/2007-kia-sorento-lx-4wd/6314162857.html</dc:source>
+<dc:title><![CDATA[2007 KIA SORENTO LX 4WD (WALLINGFORD PA.) &#x0024;8700]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01313_2SgfjxK65hs_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:13:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/2009-chevrolete-express-3500/6314106169.html">
+<title><![CDATA[2009 CHEVROLETE EXPRESS 3500 HANDICAP VAN (WALLINGFORD PA.) &#x0024;18995]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/2009-chevrolete-express-3500/6314106169.html</link>
+<description><![CDATA[2009 CHEVROLET EXPRESS PASSENGER LS 3500 3DR EXTENDED HIGH TOP HANDICAP VAN. VERY RARE WITH ONLY 33,528 MILES. CLEAN TITLE. WITH ELECTRIC WHEEL CHAIR LIFT AND ALL HANDICAP SPECIFICATIONS. COMPLETE CONVERSION INSTALLED BY ADAPTAVAN THE LEADER IN HANDI ...]]></description>
+<dc:date>2017-10-18T11:13:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/2009-chevrolete-express-3500/6314106169.html</dc:source>
+<dc:title><![CDATA[2009 CHEVROLETE EXPRESS 3500 HANDICAP VAN (WALLINGFORD PA.) &#x0024;18995]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00N0N_8MqeP1w5FGP_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:13:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/1991-toyota-pickup-v8-solid/6351011420.html">
+<title><![CDATA[1991 Toyota pickup v8 solid axle swap (Levittown) &#x0024;12334]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/1991-toyota-pickup-v8-solid/6351011420.html</link>
+<description><![CDATA[Just putting out a feeler.. not really sure if I want to sell it or not but I've been building this truck for a few years. It's a 1991 Toyota pickup regular cab. Swapped in a cammed 302 out of a 91 mustang(fuel injected) still a 5 speed manual. Has a ...]]></description>
+<dc:date>2017-10-18T11:12:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/1991-toyota-pickup-v8-solid/6351011420.html</dc:source>
+<dc:title><![CDATA[1991 Toyota pickup v8 solid axle swap (Levittown) &#x0024;12334]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00101_67lHJC5VKm7_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:12:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/2016-honda-pilot-rims-tires/6350996446.html">
+<title><![CDATA[2016 Honda Pilot & Rims & Tires & -$7000 (Philadelphia) &#x0024;7000]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/2016-honda-pilot-rims-tires/6350996446.html</link>
+<description><![CDATA[2016 pilot runs and drives 100% 
+ONE OWNER NO ACCIDENT REPORT 
+Leather seats 
+Heated seats 
+Clean interior 
+Clean spotless exterior 
+All wheel drive]]></description>
+<dc:date>2017-10-18T11:11:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/2016-honda-pilot-rims-tires/6350996446.html</dc:source>
+<dc:title><![CDATA[2016 Honda Pilot & Rims & Tires & -$7000 (Philadelphia) &#x0024;7000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00s0s_dvvoxt4tjd7_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/ctd/d/2010-honda-civic-sedan-down/6351009282.html">
+<title><![CDATA[2010 HONDA CIVIC SEDAN   DOWN PAYMENTS AS LOW AS $500 BUY HERE PAY HERE (Sharon Hill, PA)]]></title>
+<link>https://philadelphia.craigslist.org/ctd/d/2010-honda-civic-sedan-down/6351009282.html</link>
+<description><![CDATA[*As low as $500 DOWN 
+*Any Income Drives! 
+*Everyone APPROVED 
+*Buy Here Pay Here 
+*All Cars Pa State Inspected 
+*Financing For Everyone 
+*Repair and Rebuild Your Credit or Establish New Credit 
+*We Get EVERYONE Driving 
+*Trades Welcome 
+*Repossessio ...]]></description>
+<dc:date>2017-10-18T11:11:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/ctd/d/2010-honda-civic-sedan-down/6351009282.html</dc:source>
+<dc:title><![CDATA[2010 HONDA CIVIC SEDAN   DOWN PAYMENTS AS LOW AS $500 BUY HERE PAY HERE (Sharon Hill, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01313_lqdGYx4g3cC_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/ctd/d/2008-chrysler-300-4dr-sedan/6351009187.html">
+<title><![CDATA[2008 *Chrysler* *300* *4dr Sedan 300C Hemi RWD* Inferno Red Crystal Pe (HG Motorcar Corporation) &#x0024;12981]]></title>
+<link>https://philadelphia.craigslist.org/ctd/d/2008-chrysler-300-4dr-sedan/6351009187.html</link>
+<description><![CDATA[2008 *Chrysler* *300* 4dr Sedan 300C Hemi RWD - $12,981 Call Us Today! *** Chrysler_ 300_ For Sale by HG Motorcar Corporation Vehicle Description For This *Chrysler* *300* LUXURIOUS ONE OWNER 2008 CHRYSLER 300C HEMI. GORGEOUS INFERNO RED CRYSTAL PEAR ...]]></description>
+<dc:date>2017-10-18T11:11:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/ctd/d/2008-chrysler-300-4dr-sedan/6351009187.html</dc:source>
+<dc:title><![CDATA[2008 *Chrysler* *300* *4dr Sedan 300C Hemi RWD* Inferno Red Crystal Pe (HG Motorcar Corporation) &#x0024;12981]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00u0u_2c335OFDp9F_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/ctd/d/2009-toyota-sienna-7-pass-van/6351008859.html">
+<title><![CDATA[2009 *Toyota* *Sienna* *7-Pass Van LE FWD* Blue Mirage Metallic (HG Motorcar Corporation) &#x0024;10981]]></title>
+<link>https://philadelphia.craigslist.org/ctd/d/2009-toyota-sienna-7-pass-van/6351008859.html</link>
+<description><![CDATA[2009 *Toyota* *Sienna* 7-Pass Van LE FWD - $10,981 Call Us Today! *** Toyota_ Sienna_ For Sale by HG Motorcar Corporation Vehicle Description For This *Toyota* *Sienna* ONE OWNER 2009 TOYOTA SIENNA LE MINIVAN. SHARP BLUE MIRAGE METALLIC FINISH OVER S ...]]></description>
+<dc:date>2017-10-18T11:10:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/ctd/d/2009-toyota-sienna-7-pass-van/6351008859.html</dc:source>
+<dc:title><![CDATA[2009 *Toyota* *Sienna* *7-Pass Van LE FWD* Blue Mirage Metallic (HG Motorcar Corporation) &#x0024;10981]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01717_diiHaHbPyVS_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:10:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/chevrolet-ltz-crew-cab-pickup/6350945433.html">
+<title><![CDATA[chevrolet LTZ Crew Cab Pickup 4-Door (Philadelphia) &#x0024;2605]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/chevrolet-ltz-crew-cab-pickup/6350945433.html</link>
+<description><![CDATA[1 owner. WELL KEPT AND SERVICED ON A REGULAR SCHEDULE .LONG BED TRUCK. PAINT AND BODY IN GOOD SHAPE, NO RUST AND VERY FEW SCRATCHES. LEATHER SEAT IN GOOD CONDITION. HAS A LITTLE BIT OF FADE ON DASH . V-8 VORTEC ENGINE 5.3L 5328CC ,AUTOMATIC TRANS. BO ...]]></description>
+<dc:date>2017-10-18T11:10:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/chevrolet-ltz-crew-cab-pickup/6350945433.html</dc:source>
+<dc:title><![CDATA[chevrolet LTZ Crew Cab Pickup 4-Door (Philadelphia) &#x0024;2605]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00909_e7xpiDgFgyQ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:10:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/ctd/d/2006-toyota-corolla-4dr-sedan/6351008051.html">
+<title><![CDATA[2006 Toyota Corolla S 4dr Sedan w/Automatic 🚘(4belowauto.com) (+ 4 Below Auto Sales - All Pickup Trucks Come With NO RUST!) &#x0024;5800]]></title>
+<link>https://philadelphia.craigslist.org/ctd/d/2006-toyota-corolla-4dr-sedan/6351008051.html</link>
+<description><![CDATA[2006 Toyota Corolla S 4dr Sedan w/Automatic 
+Offered by: 4 Below Auto Sales - All Pickup Trucks Come With NO RUST! &mdash; *** &mdash; $5,800 NADA Retail Price $6,250 KBB Suggested Retail Price $5,837 Our NO HAGGLE Cash Price $5,800 Comes with free 3 ...]]></description>
+<dc:date>2017-10-18T11:10:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/ctd/d/2006-toyota-corolla-4dr-sedan/6351008051.html</dc:source>
+<dc:title><![CDATA[2006 Toyota Corolla S 4dr Sedan w/Automatic 🚘(4belowauto.com) (+ 4 Below Auto Sales - All Pickup Trucks Come With NO RUST!) &#x0024;5800]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Y0Y_ko490c23FZi_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:10:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/cto/d/2006-freightliner-m2-21ft-c7/6350993868.html">
+<title><![CDATA[2006 FREIGHTLINER M2 21FT C7 CAT W/ALLISON TRANS 21FT BOX TRUCK MINT &#x0024;8700]]></title>
+<link>https://philadelphia.craigslist.org/cto/d/2006-freightliner-m2-21ft-c7/6350993868.html</link>
+<description><![CDATA[2006 FREIGHTLINER M2 AUTO C-7 CATAPILLAR W/ALLISON TRANS POWERED 21FT BOX TRUCK .AIR BREAKS 
+NO CDL NEEDED!!CRUISE CONTROL 169K MILES WHICH ISN'T NOTHING FOR A CATAPILLAR ENGINE! NO FRAME RUST AT ALL NO HOLES IN BOX AND NO LEAKES!! ~~~PRETTY MUCH MIN ...]]></description>
+<dc:date>2017-10-18T11:10:06-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/cto/d/2006-freightliner-m2-21ft-c7/6350993868.html</dc:source>
+<dc:title><![CDATA[2006 FREIGHTLINER M2 21FT C7 CAT W/ALLISON TRANS 21FT BOX TRUCK MINT &#x0024;8700]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00r0r_j39h4m4FU5H_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:10:06-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

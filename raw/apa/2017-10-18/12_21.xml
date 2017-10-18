@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/apa?format=rss">
+<title>craigslist philadelphia | apts/housing for rent search </title>
+<link>https://philadelphia.craigslist.org/search/apa</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/apa?format=rss</dc:source>
+<dc:title>craigslist philadelphia | apts/housing for rent search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:13:46-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/cozy-1br-1ba-apt-for-rent/6351012439.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/newly-renovated-4-bed-15-bath/6351012022.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/all-inclusive-furnished-two/6351011921.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/huge-7-bedroom-2-story-house/6341735233.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/3-bedroom-house-call-for/6341750780.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/wonderful-2br-apartment-in/6326732715.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/three-bedroom-single-quiet/6350918935.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/3-bedroom-2-bath-home-in/6351010609.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/great-studio-available-august/6351010363.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/amazing-3-bedroom-apartment/6341739168.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/wonderful-3-bedroom-house-for/6332682205.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/huge-1-bedroom-apartment/6351010188.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/large-1-bedroom-1-bathroom-3/6341021788.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/adorableaffordable-1-bedroom/6329879503.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/move-in-ready-magnificent/6351009986.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/studio-available-now-escape/6351009891.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/huge-exquisite-new/6321897475.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/15th-floor-one-bedroom/6351009572.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/brand-new-1-2-brs-in-fishtown/6351009396.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/beautiful-townhome-for-rent/6321881145.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/perfect-2-bedroom-1-bath-home/6332525231.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/renovated-1br-apartment-close/6338369086.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/dont-pass-this-stunningly-4/6351008942.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/lovely-3-bedroom-home-for-rent/6332672508.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/apa/d/unique-2-bedroom-apartment/6332692126.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/cozy-1br-1ba-apt-for-rent/6351012439.html">
+<title><![CDATA[Cozy 1BR/1BA Apt for Rent w/Fresh Paint & Beautiful Wood Floors! (Ardmore, PA) &#x0024;850 1bd]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/cozy-1br-1ba-apt-for-rent/6351012439.html</link>
+<description><![CDATA[2301 Haverford Rd, APT D, Ardmore, PA 19003 
+Come see this cozy 1 bed 1 bath apartment located minutes from downtown Ardmore PA. The unit has been freshly painted and has beautiful hardwood floors. There is a dedicated living room and has a spacious  ...]]></description>
+<dc:date>2017-10-18T11:13:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/cozy-1br-1ba-apt-for-rent/6351012439.html</dc:source>
+<dc:title><![CDATA[Cozy 1BR/1BA Apt for Rent w/Fresh Paint & Beautiful Wood Floors! (Ardmore, PA) &#x0024;850 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00606_9Rw9bl1MLxN_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:13:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/newly-renovated-4-bed-15-bath/6351012022.html">
+<title><![CDATA[Newly Renovated 4 Bed, 1.5 Bath Row home (64XX Chew Ave) &#x0024;1100 4bd 1528ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/newly-renovated-4-bed-15-bath/6351012022.html</link>
+<description><![CDATA[64XX Chew Ave, Philadelphia, PA 19119 ** Sold Fully Furnished** 
+To Know More About Our Rent To Own OR Know About Available Properties 
+Call: *** 
+SOLD 
+Our special program completely ends the regular rental process. We are pre-registering clients wh ...]]></description>
+<dc:date>2017-10-18T11:13:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/newly-renovated-4-bed-15-bath/6351012022.html</dc:source>
+<dc:title><![CDATA[Newly Renovated 4 Bed, 1.5 Bath Row home (64XX Chew Ave) &#x0024;1100 4bd 1528ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00m0m_lFdQww8GeRL_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:13:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/all-inclusive-furnished-two/6351011921.html">
+<title><![CDATA[ALL INCLUSIVE FURNISHED TWO BEDROOM APARTMENT! (8400 Lindbergh Blvd.) &#x0024;2600 2bd 910ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/all-inclusive-furnished-two/6351011921.html</link>
+<description><![CDATA[Don't miss out on this opportunity to live in this beautiful Two Bedroom Apartment! Includes Private Entrance, garbage disposal, dish washer, and washer/dryer in apartment. Pet friendly community, free off-street parking, beautifully landscaped court ...]]></description>
+<dc:date>2017-10-18T11:13:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/all-inclusive-furnished-two/6351011921.html</dc:source>
+<dc:title><![CDATA[ALL INCLUSIVE FURNISHED TWO BEDROOM APARTMENT! (8400 Lindbergh Blvd.) &#x0024;2600 2bd 910ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00R0R_coPieuUcGVa_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:13:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/huge-7-bedroom-2-story-house/6341735233.html">
+<title><![CDATA[Huge 7 bedroom 2 Story house Available (Temple University) &#x0024;2100 7bd]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/huge-7-bedroom-2-story-house/6341735233.html</link>
+<description><![CDATA[Huge seven bedroom two story house, basement, washer and dryer, dining room, hardwood floors, appliances 
+***]]></description>
+<dc:date>2017-10-18T11:13:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/huge-7-bedroom-2-story-house/6341735233.html</dc:source>
+<dc:title><![CDATA[Huge 7 bedroom 2 Story house Available (Temple University) &#x0024;2100 7bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:13:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/3-bedroom-house-call-for/6341750780.html">
+<title><![CDATA[3 Bedroom house - Call for Details! (Overbrook) &#x0024;895 3bd]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/3-bedroom-house-call-for/6341750780.html</link>
+<description><![CDATA[Three bedroom house, large beautiful garden area, covered patio, basement, washer and dryer, dining room, microwave, pets allowed, rent to own 
+***]]></description>
+<dc:date>2017-10-18T11:13:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/3-bedroom-house-call-for/6341750780.html</dc:source>
+<dc:title><![CDATA[3 Bedroom house - Call for Details! (Overbrook) &#x0024;895 3bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:13:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/wonderful-2br-apartment-in/6326732715.html">
+<title><![CDATA[Wonderful 2BR apartment in Glenside available NOW! (Glenside) &#x0024;1150 1bd 930ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/wonderful-2br-apartment-in/6326732715.html</link>
+<description><![CDATA[Contact info: Kateryna Brekhunova | City wide realty | *** Wonderful 2BR apartment in Glenside available NOW! 501 Edge Hill Rd apt CB1, Glenside, PA 19038 $1,150/mo KEY FEATURES Bedrooms: 2 Bed Bathrooms: 1 Bath Lease Duration: 1 Year (See Details Be ...]]></description>
+<dc:date>2017-10-18T11:12:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/wonderful-2br-apartment-in/6326732715.html</dc:source>
+<dc:title><![CDATA[Wonderful 2BR apartment in Glenside available NOW! (Glenside) &#x0024;1150 1bd 930ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00M0M_8P2jKaOkC3d_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:12:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/three-bedroom-single-quiet/6350918935.html">
+<title><![CDATA[Three bedroom single / Quiet Neighborhood! (Norristown) &#x0024;900 3bd]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/three-bedroom-single-quiet/6350918935.html</link>
+<description><![CDATA[Norristown - 3 bedroom, big kitchen, full size dining room, newly renovated, available immediately 
+$900 per month 
+***]]></description>
+<dc:date>2017-10-18T11:12:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/three-bedroom-single-quiet/6350918935.html</dc:source>
+<dc:title><![CDATA[Three bedroom single / Quiet Neighborhood! (Norristown) &#x0024;900 3bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:12:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/3-bedroom-2-bath-home-in/6351010609.html">
+<title><![CDATA[3 Bedroom 2 Bath home in Girard Estates (Philadelphia, PA) &#x0024;1650 3bd 1254ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/3-bedroom-2-bath-home-in/6351010609.html</link>
+<description><![CDATA[Completely renovated in 2012. This porch-front home has 3 bedrooms, and an extra large bathroom with double granite sinks and an additional full bath in the finished basement. First floor: Large and open living room - dining room area with fireplace  ...]]></description>
+<dc:date>2017-10-18T11:12:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/3-bedroom-2-bath-home-in/6351010609.html</dc:source>
+<dc:title><![CDATA[3 Bedroom 2 Bath home in Girard Estates (Philadelphia, PA) &#x0024;1650 3bd 1254ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00K0K_5z9Urc6Q5uf_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:12:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/great-studio-available-august/6351010363.html">
+<title><![CDATA[Great studio available August 1st in University city! Drexel (Philadelphia Powelton Village) &#x0024;790]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/great-studio-available-august/6351010363.html</link>
+<description><![CDATA[Philadelphia Apartments 
+3412 Spring Garden street - A15, Philadelphia, PA 19104 Studio, 1 ba | Available 8/1/17 
+Great studio available August 1st at 3412 Spring garden street! 
+Great studio available August 1st in University city! Walking distance  ...]]></description>
+<dc:date>2017-10-18T11:12:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/great-studio-available-august/6351010363.html</dc:source>
+<dc:title><![CDATA[Great studio available August 1st in University city! Drexel (Philadelphia Powelton Village) &#x0024;790]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00z0z_l58uYNwUFmU_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:12:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/amazing-3-bedroom-apartment/6341739168.html">
+<title><![CDATA[Amazing 3 bedroom Apartment for Rent (North Philly) &#x0024;650 3bd]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/amazing-3-bedroom-apartment/6341739168.html</link>
+<description><![CDATA[Three bedroom duplex apartment, large oversized rooms, freshly painted, air, yard, big kitchen, ceiling fans, hardwood floors, no credit check needed 
+***]]></description>
+<dc:date>2017-10-18T11:12:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/amazing-3-bedroom-apartment/6341739168.html</dc:source>
+<dc:title><![CDATA[Amazing 3 bedroom Apartment for Rent (North Philly) &#x0024;650 3bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:12:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/wonderful-3-bedroom-house-for/6332682205.html">
+<title><![CDATA[Wonderful 3 Bedroom House For Rent (Juniata Park) &#x0024;850 3bd]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/wonderful-3-bedroom-house-for/6332682205.html</link>
+<description><![CDATA[Three bedroom house, fireplace, yard, no credit check needed 
+***]]></description>
+<dc:date>2017-10-18T11:11:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/wonderful-3-bedroom-house-for/6332682205.html</dc:source>
+<dc:title><![CDATA[Wonderful 3 Bedroom House For Rent (Juniata Park) &#x0024;850 3bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:11:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/huge-1-bedroom-apartment/6351010188.html">
+<title><![CDATA[HUGE 1 Bedroom Apartment! (131 S. 48th St.) &#x0024;729 1bd 800ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/huge-1-bedroom-apartment/6351010188.html</link>
+<description><![CDATA[Walnut Court Apartments 
+Call: *** 
+BRAND NEW MANAGEMENT. 
+Enjoy city living within minutes of Center City! Located right off City line Ave, just a few blocks from fabulous shopping and restaurants and also just couple blocks from the great Saint Joe ...]]></description>
+<dc:date>2017-10-18T11:11:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/huge-1-bedroom-apartment/6351010188.html</dc:source>
+<dc:title><![CDATA[HUGE 1 Bedroom Apartment! (131 S. 48th St.) &#x0024;729 1bd 800ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:11:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/large-1-bedroom-1-bathroom-3/6341021788.html">
+<title><![CDATA[Large, 1 bedroom, 1 bathroom, 3 blocks from Temple University (1529 N 17th Street) &#x0024;850 1bd 725ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/large-1-bedroom-1-bathroom-3/6341021788.html</link>
+<description><![CDATA[IF A DEPOSIT IS PUT DOWN BEFORE Oct 23rd, I WILL WAIVE A DEPOSIT OF LAST MONTHS RENT. SO ONLY 1ST MONTHS RENT AND 1 MONTH SECURITY TO MOVE IN. 
+For rent is a large 1st floor apartment, 1 bedroom , 1 full bathroom and a living room. 
+Kitchen with lots ...]]></description>
+<dc:date>2017-10-18T11:11:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/large-1-bedroom-1-bathroom-3/6341021788.html</dc:source>
+<dc:title><![CDATA[Large, 1 bedroom, 1 bathroom, 3 blocks from Temple University (1529 N 17th Street) &#x0024;850 1bd 725ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00D0D_15xUuJccbYh_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/adorableaffordable-1-bedroom/6329879503.html">
+<title><![CDATA[Adorable&Affordable 1 bedroom 1 bath available right now on the Avenue (East Passyunk) &#x0024;1350 1bd 800ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/adorableaffordable-1-bedroom/6329879503.html</link>
+<description><![CDATA[Welcome to Passyunk Square. 1603 East Passyunk is right across the street from "the Fountain" and is absolutely charming. Both its location and the unit itself. The bedroom is very large. This unit could be for one person or a couple. New Hardwood fl ...]]></description>
+<dc:date>2017-10-18T11:11:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/adorableaffordable-1-bedroom/6329879503.html</dc:source>
+<dc:title><![CDATA[Adorable&Affordable 1 bedroom 1 bath available right now on the Avenue (East Passyunk) &#x0024;1350 1bd 800ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00w0w_g4Kx9K7oucf_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/move-in-ready-magnificent/6351009986.html">
+<title><![CDATA[Move in Ready: Magnificent 2Bed / Modern Interior, Laundry, Deck, HW! (Newbold) &#x0024;1695 2bd]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/move-in-ready-magnificent/6351009986.html</link>
+<description><![CDATA[Contact info: JG Real Estate | JG Real Estate 1140 Frankford Ave. Philadelphia PA 19125 | *** | *** Available Now: Contemporary Newbold Apartment 1618 Mifflin St #3C, Philadelphia, PA 19145 $1,695/mo KEY FEATURES Bedrooms: 2 Beds Bathrooms: 1 Bath Pa ...]]></description>
+<dc:date>2017-10-18T11:11:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/move-in-ready-magnificent/6351009986.html</dc:source>
+<dc:title><![CDATA[Move in Ready: Magnificent 2Bed / Modern Interior, Laundry, Deck, HW! (Newbold) &#x0024;1695 2bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00n0n_l623M6jzXUL_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/studio-available-now-escape/6351009891.html">
+<title><![CDATA[STUDIO AVAILABLE NOW -- Escape To Rittenhouse Square! (2220 Walnut Street - Center City) &#x0024;1095 360ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/studio-available-now-escape/6351009891.html</link>
+<description><![CDATA[1/2 Month Rent Free 
+"Roosevelt Apartments | 98 Walk Score 
+Live in Rittenhouse Square! 
+Perfectly located in Center City, you will have direct access to world-class shopping, local restaurants, cultural hotspots, and the bustling city life. 
+Studio  ...]]></description>
+<dc:date>2017-10-18T11:11:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/studio-available-now-escape/6351009891.html</dc:source>
+<dc:title><![CDATA[STUDIO AVAILABLE NOW -- Escape To Rittenhouse Square! (2220 Walnut Street - Center City) &#x0024;1095 360ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00101_5nJQomTyDCM_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/huge-exquisite-new/6321897475.html">
+<title><![CDATA[HUGE Exquisite New Construction Home for rent! YOU MUST SEE THIS (Point Breeze) &#x0024;2800 2600ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/huge-exquisite-new/6321897475.html</link>
+<description><![CDATA[2030 Wharton Street 19146- 
+Gorgeous 2600 sq. foot home with 3 bedrooms and potential for additional bedroom in basement. 3 full bathrooms, and tremendous sized first floor hosting space. Large kitchen with vast amount of cabinet space, quartz counte ...]]></description>
+<dc:date>2017-10-18T11:11:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/huge-exquisite-new/6321897475.html</dc:source>
+<dc:title><![CDATA[HUGE Exquisite New Construction Home for rent! YOU MUST SEE THIS (Point Breeze) &#x0024;2800 2600ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00V0V_1l885dKGQzh_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/15th-floor-one-bedroom/6351009572.html">
+<title><![CDATA[15TH FLOOR ONE BEDROOM OVERLOOKING THE CITY! (1303 DELAWARE AVE) &#x0024;1385 1bd 800ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/15th-floor-one-bedroom/6351009572.html</link>
+<description><![CDATA[PARQ at the Square
+http://parqatthesquare.prospectportal.com/su/xdxy 
+Parq at the Square is a luxury high-rise located in the heart of Trolley Square, just minutes from downtown Wilmington and Interstate 95. Our affordable prices with utilities inclu ...]]></description>
+<dc:date>2017-10-18T11:11:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/15th-floor-one-bedroom/6351009572.html</dc:source>
+<dc:title><![CDATA[15TH FLOOR ONE BEDROOM OVERLOOKING THE CITY! (1303 DELAWARE AVE) &#x0024;1385 1bd 800ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00m0m_fu4EgZFERKw_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/brand-new-1-2-brs-in-fishtown/6351009396.html">
+<title><![CDATA[Brand new 1 & 2 BRS in Fishtown! Available OCT 1. FIRST MONTH FREE (1025 E. Montgomery ave) &#x0024;1695 2bd]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/brand-new-1-2-brs-in-fishtown/6351009396.html</link>
+<description><![CDATA[10 Brand New Units in Fishtown 
+Renovated bathrooms and kitchen 
+Hardwood floors 
+Central AC and heat 
+Washer Dryer in unit 
+Pet friendly 
+Available October 1 
+First Month Free 
+Call text or email Amanda 
+*** 
+City Wide Realty]]></description>
+<dc:date>2017-10-18T11:11:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/brand-new-1-2-brs-in-fishtown/6351009396.html</dc:source>
+<dc:title><![CDATA[Brand new 1 & 2 BRS in Fishtown! Available OCT 1. FIRST MONTH FREE (1025 E. Montgomery ave) &#x0024;1695 2bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01515_83bGsfGB4Fc_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/beautiful-townhome-for-rent/6321881145.html">
+<title><![CDATA[Beautiful Townhome for rent in Graduate Hospital!Available now! (Graduate Hospital) &#x0024;3500 5bd 2103ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/beautiful-townhome-for-rent/6321881145.html</link>
+<description><![CDATA[Available Now: This amazing 5 bedroom home is available for an early September move in and features hardwood floors, bright natural light (especially through the front bay window!), 2 full bathrooms, gorgeous antique accents throughout including etch ...]]></description>
+<dc:date>2017-10-18T11:11:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/beautiful-townhome-for-rent/6321881145.html</dc:source>
+<dc:title><![CDATA[Beautiful Townhome for rent in Graduate Hospital!Available now! (Graduate Hospital) &#x0024;3500 5bd 2103ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00u0u_bPwFAFDhpUJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/perfect-2-bedroom-1-bath-home/6332525231.html">
+<title><![CDATA[Perfect 2 bedroom 1 bath home available now! (Graduate Hospital) &#x0024;2000 2bd 1230ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/perfect-2-bedroom-1-bath-home/6332525231.html</link>
+<description><![CDATA[Beautiful perfect home with amazing backyard!! This home has everything you could want, and then some in the Graduate Hospital section of Center City Philadelphia and JUST steps from RITTENHOUSE SQUARE!! This home is complete with a full set of kitch ...]]></description>
+<dc:date>2017-10-18T11:11:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/perfect-2-bedroom-1-bath-home/6332525231.html</dc:source>
+<dc:title><![CDATA[Perfect 2 bedroom 1 bath home available now! (Graduate Hospital) &#x0024;2000 2bd 1230ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00202_cyKG47ByvgS_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/renovated-1br-apartment-close/6338369086.html">
+<title><![CDATA[Renovated 1BR apartment close to Drexel/Upenn available NOW! (University city/Drexel/Upenn) &#x0024;1100 1bd]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/renovated-1br-apartment-close/6338369086.html</link>
+<description><![CDATA[Contact info: Kateryna Brekhunova | City Wide Realty | *** Renovated 1BR/1BA apartment available NOW 4100 Parkside Ave apt 2E, Philadelphia, PA 19104 $1,100/mo KEY FEATURES Bedrooms: 1 Bed Bathrooms: 1 Bath Lease Duration: 1 Year (See Details Below)  ...]]></description>
+<dc:date>2017-10-18T11:11:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/renovated-1br-apartment-close/6338369086.html</dc:source>
+<dc:title><![CDATA[Renovated 1BR apartment close to Drexel/Upenn available NOW! (University city/Drexel/Upenn) &#x0024;1100 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00505_3nM9VZcMgNm_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/dont-pass-this-stunningly-4/6351008942.html">
+<title><![CDATA[Don't pass this stunningly 4 bedroom row! (66XX N 18th St) &#x0024;870 4bd 1510ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/dont-pass-this-stunningly-4/6351008942.html</link>
+<description><![CDATA[66XX N 18th St, Philadelphia PA 19126 ~Sold Newly Renovated~ 
+To Know More About Our Rent To Own OR Know About Available Properties 
+Call: *** 
+Our special program completely ends the regular rental process. We are pre-registering clients who would l ...]]></description>
+<dc:date>2017-10-18T11:11:06-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/dont-pass-this-stunningly-4/6351008942.html</dc:source>
+<dc:title><![CDATA[Don't pass this stunningly 4 bedroom row! (66XX N 18th St) &#x0024;870 4bd 1510ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00n0n_4LIcCttkCIj_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:06-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/lovely-3-bedroom-home-for-rent/6332672508.html">
+<title><![CDATA[Lovely 3 Bedroom Home For Rent (Port Richmond) &#x0024;850 3bd]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/lovely-3-bedroom-home-for-rent/6332672508.html</link>
+<description><![CDATA[Three bedroom home, parking, pets welcome, no credit check needed 
+***]]></description>
+<dc:date>2017-10-18T11:11:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/lovely-3-bedroom-home-for-rent/6332672508.html</dc:source>
+<dc:title><![CDATA[Lovely 3 Bedroom Home For Rent (Port Richmond) &#x0024;850 3bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:11:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/apa/d/unique-2-bedroom-apartment/6332692126.html">
+<title><![CDATA[Unique 2 Bedroom Apartment - Bring Pets! (Manayunk) &#x0024;700 2bd]]></title>
+<link>https://philadelphia.craigslist.org/apa/d/unique-2-bedroom-apartment/6332692126.html</link>
+<description><![CDATA[Unique two bedroom two bathroom converted warehouse apartment, beautiful high ceilings, historic exposed brick walls, beamed ceilings, parking, washer and dryer, bring your pets 
+***]]></description>
+<dc:date>2017-10-18T11:11:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/apa/d/unique-2-bedroom-apartment/6332692126.html</dc:source>
+<dc:title><![CDATA[Unique 2 Bedroom Apartment - Bring Pets! (Manayunk) &#x0024;700 2bd]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T11:11:00-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

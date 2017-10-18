@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/bip?format=rss">
+<title>craigslist philadelphia | bicycle parts search </title>
+<link>https://philadelphia.craigslist.org/search/bip</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/bip?format=rss</dc:source>
+<dc:title>craigslist philadelphia | bicycle parts search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:31-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/bike-ramp-pyramid-style/6350983539.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bdp/d/set-of-rims-tubes-tires/6346462515.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bdp/d/bike-tirec/6340507441.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/thule-2-bicycle-trunk-rack/6350970182.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/ritchey-aero-ocr-wheelset-9/6340454035.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/new-tirz/6345594965.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/new-stuff/6345589439.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/yakima-bike-rack-3-bikes-35/6350879183.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/class-700-rear-road-bike-wheel/6328242132.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/reynolds-assault-slg-carbon/6350865459.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/mens-bicycle-shoes-size-435/6323677618.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/mavic-reflex-track-wheelset/6316676147.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/brand-new-track-single-speed/6346914292.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/bontrager-rack-and-trunk-bag/6350752902.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/suntour-sr-xcm-29er/6330132515.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/allen-deck-mount-bike-rack/6350530992.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bdp/d/bike-tirec/6340479602.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/thule-deck-mount-bike-rack/6350526320.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/bike-basket/6350478373.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/girls-bike/6347587927.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/7-mountain-bike-stems-various/6350453564.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/hollywood-racks-trunk-mounted/6347602978.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/mavic-crossroc-ust-front-wheel/6350403721.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/box-shimano-airlines/6350400650.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bop/d/giro-aero-helmet/6330178897.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/bike-ramp-pyramid-style/6350983539.html">
+<title><![CDATA[Bike Ramp - Pyramid style (Warminster) &#x0024;40]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/bike-ramp-pyramid-style/6350983539.html</link>
+<description><![CDATA[For sale is a pyramid style bike ramp for BMX bikes in good condition. The price is $40 or best offer. The ramps can be easily dismantled for transport. 
+The ramp is for pickup in the Warminster area. I live near Street and York Roads and can provide ...]]></description>
+<dc:date>2017-10-18T10:53:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/bike-ramp-pyramid-style/6350983539.html</dc:source>
+<dc:title><![CDATA[Bike Ramp - Pyramid style (Warminster) &#x0024;40]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01010_b88Lr4c0v44_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:53:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bdp/d/set-of-rims-tubes-tires/6346462515.html">
+<title><![CDATA[Set of rims tubes & tires 27.5 x 2.80 (8803 Torresdale ave) &#x0024;75]]></title>
+<link>https://philadelphia.craigslist.org/bdp/d/set-of-rims-tubes-tires/6346462515.html</link>
+<description><![CDATA[Tony's Deals Ne Phila - 8803 Torresdale ave - Zip 19136 open 7 Days 10 to 7/9]]></description>
+<dc:date>2017-10-18T10:44:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bdp/d/set-of-rims-tubes-tires/6346462515.html</dc:source>
+<dc:title><![CDATA[Set of rims tubes & tires 27.5 x 2.80 (8803 Torresdale ave) &#x0024;75]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00W0W_etToMuvuUmr_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:44:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bdp/d/bike-tirec/6340507441.html">
+<title><![CDATA[Bike tire 700 x 32c (8803 Torresdale Ave) &#x0024;15]]></title>
+<link>https://philadelphia.craigslist.org/bdp/d/bike-tirec/6340507441.html</link>
+<description><![CDATA[Tony's Deals  Ne Phila - 8803 Torresdale ave - Zip 19136 open 7 Days 10 to 7/9]]></description>
+<dc:date>2017-10-18T10:44:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bdp/d/bike-tirec/6340507441.html</dc:source>
+<dc:title><![CDATA[Bike tire 700 x 32c (8803 Torresdale Ave) &#x0024;15]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00T0T_bBmPAwkgNZs_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:44:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/thule-2-bicycle-trunk-rack/6350970182.html">
+<title><![CDATA[Thule 2 bicycle trunk rack (Doylestown) &#x0024;60]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/thule-2-bicycle-trunk-rack/6350970182.html</link>
+<description><![CDATA[This rack is in EXCELLENT condition...only used a few times. The only reason I'm selling it is because it only holds 2 bikes and my family needed to upgrade to a 4 bike rack. Fits most cars. I have the list of all the cars it fits if you want to emai ...]]></description>
+<dc:date>2017-10-18T10:44:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/thule-2-bicycle-trunk-rack/6350970182.html</dc:source>
+<dc:title><![CDATA[Thule 2 bicycle trunk rack (Doylestown) &#x0024;60]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:44:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/ritchey-aero-ocr-wheelset-9/6340454035.html">
+<title><![CDATA[Ritchey Aero OCR Wheelset - 9 Spd Cassette - Bontrager Hardcase Tires (Jenkintown) &#x0024;125]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/ritchey-aero-ocr-wheelset-9/6340454035.html</link>
+<description><![CDATA[Awesome winter trainer or city combination! 
+This is a really nice Ritchey Aero OCR Road wheelset in excellent and true condition with a 9 speed Cassette and skewers included. Mounted are an older but almost new condition set of Bontrager Hardcase Ti ...]]></description>
+<dc:date>2017-10-18T10:25:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/ritchey-aero-ocr-wheelset-9/6340454035.html</dc:source>
+<dc:title><![CDATA[Ritchey Aero OCR Wheelset - 9 Spd Cassette - Bontrager Hardcase Tires (Jenkintown) &#x0024;125]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00z0z_lp2JDxx2rri_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:25:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/new-tirz/6345594965.html">
+<title><![CDATA[NEW TIRZ 27.5/2.20 (Spring garden station philly) &#x0024;20]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/new-tirz/6345594965.html</link>
+<description><![CDATA[New tirz fit 27.5- 2.20 can pikup at spring garden station philly or can drop ov on bike around centr coty area -TXT or call ***]]></description>
+<dc:date>2017-10-18T09:56:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/new-tirz/6345594965.html</dc:source>
+<dc:title><![CDATA[NEW TIRZ 27.5/2.20 (Spring garden station philly) &#x0024;20]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00N0N_9QQFhfEpS5i_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:56:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/new-stuff/6345589439.html">
+<title><![CDATA[NEW STUFF (Spring garden station) &#x0024;30]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/new-stuff/6345589439.html</link>
+<description><![CDATA[NEW HIGH QUALITY SEAT - front n rear wheel locks - peddles 30 cash can pikup at spring garden station or can drop ov around cntral philly area on bike - TXT or call ***]]></description>
+<dc:date>2017-10-18T09:56:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/new-stuff/6345589439.html</dc:source>
+<dc:title><![CDATA[NEW STUFF (Spring garden station) &#x0024;30]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00y0y_dYknu0VXfUh_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:56:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/yakima-bike-rack-3-bikes-35/6350879183.html">
+<title><![CDATA[Yakima bike rack - 3 bikes (35 lbs each) &#x0024;50]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/yakima-bike-rack-3-bikes-35/6350879183.html</link>
+<description><![CDATA[Selling top of the line Yakima trunk rack. Holds three bikes each up to 35 lbs. Very sturdy and adjustable to work with sedan, hatchback or SUV. Email if interested. Thanks.]]></description>
+<dc:date>2017-10-18T09:36:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/yakima-bike-rack-3-bikes-35/6350879183.html</dc:source>
+<dc:title><![CDATA[Yakima bike rack - 3 bikes (35 lbs each) &#x0024;50]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00808_7W220gmTXHG_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:36:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/class-700-rear-road-bike-wheel/6328242132.html">
+<title><![CDATA[A Class 700 C Rear road Bike wheel (Delaware County) &#x0024;25]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/class-700-rear-road-bike-wheel/6328242132.html</link>
+<description><![CDATA[Great Shape 
+Pick up In Brookhaven Pa 19061]]></description>
+<dc:date>2017-10-18T09:33:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/class-700-rear-road-bike-wheel/6328242132.html</dc:source>
+<dc:title><![CDATA[A Class 700 C Rear road Bike wheel (Delaware County) &#x0024;25]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00i0i_5r1MaNpuiyr_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:33:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/reynolds-assault-slg-carbon/6350865459.html">
+<title><![CDATA[Reynolds Assault SLG Carbon Wheelset &#x0024;400]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/reynolds-assault-slg-carbon/6350865459.html</link>
+<description><![CDATA[Reynolds Assault SLG Carbon Wheelset for sale. Wheels come with Vittoria Rubino Slick tires and a brand new Shimano Ultergra 11 Speed Cassette. These wheels are incredibly light and will immediately upgrade your road bike.]]></description>
+<dc:date>2017-10-18T09:25:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/reynolds-assault-slg-carbon/6350865459.html</dc:source>
+<dc:title><![CDATA[Reynolds Assault SLG Carbon Wheelset &#x0024;400]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00V0V_bI0dSa8r2gG_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:25:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/mens-bicycle-shoes-size-435/6323677618.html">
+<title><![CDATA[men's bicycle shoes size 43.5 &#x0024;20]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/mens-bicycle-shoes-size-435/6323677618.html</link>
+<description><![CDATA[Men Sidi bike shoes, used but are in great condition. I found them left in the park, listed them on lost and found for several months and asked at local bike shops. Any money my family makes on Craigslist goes to Smile Train, non-profit that repairs  ...]]></description>
+<dc:date>2017-10-18T09:11:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/mens-bicycle-shoes-size-435/6323677618.html</dc:source>
+<dc:title><![CDATA[men's bicycle shoes size 43.5 &#x0024;20]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00S0S_j8Str6L4bIg_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:11:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/mavic-reflex-track-wheelset/6316676147.html">
+<title><![CDATA[Mavic Reflex Track wheelset new (North Delaware) &#x0024;120]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/mavic-reflex-track-wheelset/6316676147.html</link>
+<description><![CDATA[New Mavic TUBULAR only single speed wheelset. 700c size and rear hub is flip flop. These are legal to ride on the track as they are bolt-on. Call E-mail or Text Paul.]]></description>
+<dc:date>2017-10-18T08:59:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/mavic-reflex-track-wheelset/6316676147.html</dc:source>
+<dc:title><![CDATA[Mavic Reflex Track wheelset new (North Delaware) &#x0024;120]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00808_1F2RrkKGmbc_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:59:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/brand-new-track-single-speed/6346914292.html">
+<title><![CDATA[Brand New Track / Single Speed Wheelset with New Tires and Tubes (Pennsville) &#x0024;125]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/brand-new-track-single-speed/6346914292.html</link>
+<description><![CDATA[I bought these new and never used them. They are still zip-tied and cardboard protected from the factory, and I have always stored them indoors. The tires are Kenda 700x23c with a recommended max inflation 110 psi. The rims are aluminum and I believe ...]]></description>
+<dc:date>2017-10-18T07:42:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/brand-new-track-single-speed/6346914292.html</dc:source>
+<dc:title><![CDATA[Brand New Track / Single Speed Wheelset with New Tires and Tubes (Pennsville) &#x0024;125]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00W0W_4MDMasDNFmh_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:42:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/bontrager-rack-and-trunk-bag/6350752902.html">
+<title><![CDATA[Bontrager rack and trunk bag (Northeast phila) &#x0024;49]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/bontrager-rack-and-trunk-bag/6350752902.html</link>
+<description><![CDATA[Bontrager rack and trunk bag like new 49.00 takes them call joe *** also various top tube bags seat bags make offer for]]></description>
+<dc:date>2017-10-18T06:29:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/bontrager-rack-and-trunk-bag/6350752902.html</dc:source>
+<dc:title><![CDATA[Bontrager rack and trunk bag (Northeast phila) &#x0024;49]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00s0s_gRedMGdx8O1_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T06:29:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/suntour-sr-xcm-29er/6330132515.html">
+<title><![CDATA[SUNTOUR SR XCM 29er SUSPENSION FORK - G2 GEOMETRY &#x0024;40]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/suntour-sr-xcm-29er/6330132515.html</link>
+<description><![CDATA[2014 original equipment from TREK X-Caliber 6. 
+Gary Fisher G-2 geometry; fits 27 and 29er wheels. 
+1 1/8" straight steer tube 7' in length. Quick release. Low miles. Works perfectly. Paint in great shape with very few marks. 
+I updated to a lighter  ...]]></description>
+<dc:date>2017-10-18T00:28:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/suntour-sr-xcm-29er/6330132515.html</dc:source>
+<dc:title><![CDATA[SUNTOUR SR XCM 29er SUSPENSION FORK - G2 GEOMETRY &#x0024;40]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00P0P_g8AcZjYnhlz_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T00:28:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/allen-deck-mount-bike-rack/6350530992.html">
+<title><![CDATA[Allen deck mount bike rack (Roslyn) &#x0024;25]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/allen-deck-mount-bike-rack/6350530992.html</link>
+<description><![CDATA[Allen 102 db deck mount bike rack. holds 2 bikes.]]></description>
+<dc:date>2017-10-17T21:41:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/allen-deck-mount-bike-rack/6350530992.html</dc:source>
+<dc:title><![CDATA[Allen deck mount bike rack (Roslyn) &#x0024;25]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00505_hbMb9AofABs_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-17T21:41:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bdp/d/bike-tirec/6340479602.html">
+<title><![CDATA[Bike tire 700 x 38c (8803 Torresdale ave) &#x0024;15]]></title>
+<link>https://philadelphia.craigslist.org/bdp/d/bike-tirec/6340479602.html</link>
+<description><![CDATA[Tony's Deals  Ne Phila - 8803 Torresdale ave - Zip 19136 open 7 Days 10 to 7/9]]></description>
+<dc:date>2017-10-17T21:37:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bdp/d/bike-tirec/6340479602.html</dc:source>
+<dc:title><![CDATA[Bike tire 700 x 38c (8803 Torresdale ave) &#x0024;15]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00V0V_4TZ4O3L4eMi_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-17T21:37:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/thule-deck-mount-bike-rack/6350526320.html">
+<title><![CDATA[Thule deck mount  bike rack (Roslyn) &#x0024;50]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/thule-deck-mount-bike-rack/6350526320.html</link>
+<description><![CDATA[Thule 962 Speedway bike rack, holds 3 bikes. Mounts on back of car with straps and grips.]]></description>
+<dc:date>2017-10-17T21:35:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/thule-deck-mount-bike-rack/6350526320.html</dc:source>
+<dc:title><![CDATA[Thule deck mount  bike rack (Roslyn) &#x0024;50]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00j0j_15KLtSZyW9V_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-17T21:35:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/bike-basket/6350478373.html">
+<title><![CDATA[Bike Basket (3rd/Reed) &#x0024;10]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/bike-basket/6350478373.html</link>
+<description><![CDATA[$10 CASH. 
+Handlebar mount, clip on and off handlebar. Has handle for easy carry. 
+small/kids size. 
+Metal wire basket. 
+Portable.]]></description>
+<dc:date>2017-10-17T20:45:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/bike-basket/6350478373.html</dc:source>
+<dc:title><![CDATA[Bike Basket (3rd/Reed) &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00H0H_5ELHQ3Oy5dI_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-17T20:45:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/girls-bike/6347587927.html">
+<title><![CDATA[Girls Bike]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/girls-bike/6347587927.html</link>
+<description><![CDATA[Girls Bike 
+Needs Work - $5]]></description>
+<dc:date>2017-10-17T20:33:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/girls-bike/6347587927.html</dc:source>
+<dc:title><![CDATA[Girls Bike]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00303_9pkXqRmvmp4_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-17T20:33:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/7-mountain-bike-stems-various/6350453564.html">
+<title><![CDATA[7 Mountain bike stems various sizes,system 2 voodoo, trek, Zoom (pennport) &#x0024;40]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/7-mountain-bike-stems-various/6350453564.html</link>
+<description><![CDATA[7 various Mountain bike stems see photos for sizes. 
+$40 bucks takes em all 
+Any questions email me. 
+Check out my other bikes/items for sale, type JJKEYSTONE into the search bar 
+!!!IF THIS POST IS UP THE ITEM IS STILL FOR SALE!!!]]></description>
+<dc:date>2017-10-17T20:21:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/7-mountain-bike-stems-various/6350453564.html</dc:source>
+<dc:title><![CDATA[7 Mountain bike stems various sizes,system 2 voodoo, trek, Zoom (pennport) &#x0024;40]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00606_cYHAPGKhvKn_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-17T20:21:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/hollywood-racks-trunk-mounted/6347602978.html">
+<title><![CDATA[Hollywood Racks Trunk-Mounted Bike Rack (West Chester) &#x0024;30]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/hollywood-racks-trunk-mounted/6347602978.html</link>
+<description><![CDATA[Two bike rack for mounting on the trunk of your car. Must be able to pickup in West Chester. Please email me if interested. Thanks! - Nicole]]></description>
+<dc:date>2017-10-17T20:18:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/hollywood-racks-trunk-mounted/6347602978.html</dc:source>
+<dc:title><![CDATA[Hollywood Racks Trunk-Mounted Bike Rack (West Chester) &#x0024;30]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00B0B_gsG1fpzVMP2_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-17T20:18:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/mavic-crossroc-ust-front-wheel/6350403721.html">
+<title><![CDATA[Mavic Crossroc UST Front Wheel (Pennsport) &#x0024;40]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/mavic-crossroc-ust-front-wheel/6350403721.html</link>
+<description><![CDATA[Brand new wheel, and skewer. Great tubeless wheel series. All you need is a tubeless tire and some slime! 
+Any questions email me. 
+Check out my other bikes/items for sale, type JJKEYSTONE into the search bar 
+!!!IF THIS POST IS UP THE ITEM IS STILL  ...]]></description>
+<dc:date>2017-10-17T19:35:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/mavic-crossroc-ust-front-wheel/6350403721.html</dc:source>
+<dc:title><![CDATA[Mavic Crossroc UST Front Wheel (Pennsport) &#x0024;40]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01717_9rZ3VTO0rCe_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-17T19:35:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/box-shimano-airlines/6350400650.html">
+<title><![CDATA[Box Shimano Airlines &#x0024;950]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/box-shimano-airlines/6350400650.html</link>
+<description><![CDATA[Box Shimano Airlines. Good condition. Never used. Brand new. All the pieces are original 100%. This a box for a professional racer. Serial number : 0051. The box contains : SL-AR01 shift levers ( right & left ), RD-AR01 rear derailleur, CS-AR01 casse ...]]></description>
+<dc:date>2017-10-17T19:32:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/box-shimano-airlines/6350400650.html</dc:source>
+<dc:title><![CDATA[Box Shimano Airlines &#x0024;950]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00N0N_7X5o4wD6Y8G_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-17T19:32:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bop/d/giro-aero-helmet/6330178897.html">
+<title><![CDATA[Giro aero helmet (Doylestown) &#x0024;15]]></title>
+<link>https://philadelphia.craigslist.org/bop/d/giro-aero-helmet/6330178897.html</link>
+<description><![CDATA[This helmet is a large and in good condition. It came with a bike that I bought used. I don't need the helmet.]]></description>
+<dc:date>2017-10-17T18:40:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bop/d/giro-aero-helmet/6330178897.html</dc:source>
+<dc:title><![CDATA[Giro aero helmet (Doylestown) &#x0024;15]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01313_cCEpy3jbneT_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-17T18:40:21-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

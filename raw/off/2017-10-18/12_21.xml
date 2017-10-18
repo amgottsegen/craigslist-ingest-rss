@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/off?format=rss">
+<title>craigslist philadelphia | office &#x26; commercial search </title>
+<link>https://philadelphia.craigslist.org/search/off</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/off?format=rss</dc:source>
+<dc:title>craigslist philadelphia | office &#x26; commercial search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:36-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/build-business-403-acres-on/6351021266.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/an-economical-option-for-your/6350999540.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/retail-space-available-at/6351018347.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/1410-experience-team-space-in/6351005801.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/turnkey-restaurant-flexible/6350999331.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/work-virtually-from-anywhere/6350970432.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/offices-to-promote-the/6350992509.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/window-office-for-just-1080/6350992094.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/office-space-available/6351004587.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/beautiful-fully-furnished/6351002905.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/get-professional-business/6350995799.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/artist-studio-creative-office/6350993341.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/amazing-office-in-converted/6350993149.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/50-new-artist-studio-creative/6350992941.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/join-the-co-working-revolution/6350965046.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/starting-at-722-per-month-for/6350964630.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/storefront-heart-of-mt-airy/6350977905.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/dazzle-clients-with-beautiful/6350969150.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/perfect-space-ready-for/6350976578.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/offices-your-convenience/6350891060.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/commercial-offices-available/6350972726.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/vacant-land-zoned-business-b3/6350972282.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/growing-teams-welcome-here/6350968451.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/professional-offices-with/6350930277.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/off/d/office-space-studio-with/6348140035.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/build-business-403-acres-on/6351021266.html">
+<title><![CDATA[Build business! 4.03+- Acres on CORNER LOT near racetrack! $475,000 (1371 Cedar Street)]]></title>
+<link>https://philadelphia.craigslist.org/off/d/build-business-403-acres-on/6351021266.html</link>
+<description><![CDATA[$475,000.00 
+Location
+Features
+1371 Cedar Street Millville, NJ 08332 Cumberland County, US 
+Map 
+and Directions 
+Request 
+Showing 
+Virtual 
+Tour 
+Schools 
+Nearby 
+Status: 
+Available 
+Lot Size: 4.03 Acres MLS ID#: 481015 Type : 
+Land For Sale 
+Descrip ...]]></description>
+<dc:date>2017-10-18T11:19:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/build-business-403-acres-on/6351021266.html</dc:source>
+<dc:title><![CDATA[Build business! 4.03+- Acres on CORNER LOT near racetrack! $475,000 (1371 Cedar Street)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00J0J_jmgKJ8udbI9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:19:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/an-economical-option-for-your/6350999540.html">
+<title><![CDATA[An economical option for your professional needs - Coworking! $329/mo (Berwyn)]]></title>
+<link>https://philadelphia.craigslist.org/off/d/an-economical-option-for-your/6350999540.html</link>
+<description><![CDATA[More than just an office. Come work with Like Minded Professionals 
+Ready-to-go workspaces in order for you to share ideas with like-minded professionals. 
+An efficient alternative to traditional office space. Great Networking! Only $329/mo 
+*One bil ...]]></description>
+<dc:date>2017-10-18T11:17:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/an-economical-option-for-your/6350999540.html</dc:source>
+<dc:title><![CDATA[An economical option for your professional needs - Coworking! $329/mo (Berwyn)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00l0l_i3B41PMvAQW_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/retail-space-available-at/6351018347.html">
+<title><![CDATA[RETAIL SPACE AVAILABLE AT BRAND NEW PROPERTY NEAR FISHTOWN!! (NEW KENSINGTON / FISHTOWN) &#x0024;1295 1325ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/off/d/retail-space-available-at/6351018347.html</link>
+<description><![CDATA[BRAND NEW building located at Hagert Street and Jasper Street near New Kensington / Fishtown 
+Fantastic, sunny retail space available on the ground floor of a new 50+ unit loft-style apartment building. Brand new windows throughout the space allowing ...]]></description>
+<dc:date>2017-10-18T11:17:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/retail-space-available-at/6351018347.html</dc:source>
+<dc:title><![CDATA[RETAIL SPACE AVAILABLE AT BRAND NEW PROPERTY NEAR FISHTOWN!! (NEW KENSINGTON / FISHTOWN) &#x0024;1295 1325ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00u0u_6LcqLaN8FmS_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/1410-experience-team-space-in/6351005801.html">
+<title><![CDATA[$1410 Experience Team Space in The Heart Of Newtown Square!!]]></title>
+<link>https://philadelphia.craigslist.org/off/d/1410-experience-team-space-in/6351005801.html</link>
+<description><![CDATA[We have a beautiful, fully-equipped exterior & interior team offices ready for you in Newtown Square, PA to accommodate 5 or more. 
+We are conveniently located in the Newtown Square Corporate Campus, with easy access to major routes and minutes from  ...]]></description>
+<dc:date>2017-10-18T11:14:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/1410-experience-team-space-in/6351005801.html</dc:source>
+<dc:title><![CDATA[$1410 Experience Team Space in The Heart Of Newtown Square!!]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00000_fE3rcxMw0ki_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:14:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/turnkey-restaurant-flexible/6350999331.html">
+<title><![CDATA[Turnkey Restaurant, Flexible Uses! Open Cafe, bar, bookstore..$374,900 (66 Sassafras Street) 4810ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/off/d/turnkey-restaurant-flexible/6350999331.html</link>
+<description><![CDATA[$374,900.00 
+Location
+Features
+66 Sassafras Street Millville, NJ 08332 Cumberland County, US Community/Subdivision: Glasstown Arts District 
+Map 
+and Directions 
+Request 
+Showing 
+Virtual 
+Tour 
+Status: 
+Available 
+Living Area: 4810.00 Sq. Ft. Year B ...]]></description>
+<dc:date>2017-10-18T11:14:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/turnkey-restaurant-flexible/6350999331.html</dc:source>
+<dc:title><![CDATA[Turnkey Restaurant, Flexible Uses! Open Cafe, bar, bookstore..$374,900 (66 Sassafras Street) 4810ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01313_9VsP46e8zdZ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:14:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/work-virtually-from-anywhere/6350970432.html">
+<title><![CDATA[Work Virtually From Anywhere You Choose!!!!! (International Plaza) &#x0024;219]]></title>
+<link>https://philadelphia.craigslist.org/off/d/work-virtually-from-anywhere/6350970432.html</link>
+<description><![CDATA[Take your business to the next level with our Virtual Office Plans. Our options accommodate all size businesses. Our receptionists will answer your calls and handle the mail and package deliveries with care. Office space up to 5 days, depending on yo ...]]></description>
+<dc:date>2017-10-18T11:11:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/work-virtually-from-anywhere/6350970432.html</dc:source>
+<dc:title><![CDATA[Work Virtually From Anywhere You Choose!!!!! (International Plaza) &#x0024;219]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00f0f_7ZDBg6b5olc_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:11:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/offices-to-promote-the/6350992509.html">
+<title><![CDATA[Offices to Promote the Collective Business Spirit! Up to 3 People $899 (Newtown Square)]]></title>
+<link>https://philadelphia.craigslist.org/off/d/offices-to-promote-the/6350992509.html</link>
+<description><![CDATA[Starting at only $899/month, we have a beautiful, fully-equipped exterior & interior combined office space ready for you in Newtown Square, PA accommodating up to 3 people. 
+Conveniently located in the Newtown Square Corporate Campus, with easy acces ...]]></description>
+<dc:date>2017-10-18T11:10:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/offices-to-promote-the/6350992509.html</dc:source>
+<dc:title><![CDATA[Offices to Promote the Collective Business Spirit! Up to 3 People $899 (Newtown Square)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00X0X_5qG3He3hKND_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:10:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/window-office-for-just-1080/6350992094.html">
+<title><![CDATA[Window Office for Just $1080/month! *Limited Time Offer* (Doylestown) &#x0024;1080]]></title>
+<link>https://philadelphia.craigslist.org/off/d/window-office-for-just-1080/6350992094.html</link>
+<description><![CDATA[We can get your business UP &amp; RUNNING TODAY! 
+Your monthly rent from as low as $1080/month is all inclusive with: 
+* Receptionists to greet your guests and offer them complimentary beverages 
+* 24/7 access to your office, business lounge, and kit ...]]></description>
+<dc:date>2017-10-18T11:09:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/window-office-for-just-1080/6350992094.html</dc:source>
+<dc:title><![CDATA[Window Office for Just $1080/month! *Limited Time Offer* (Doylestown) &#x0024;1080]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00s0s_8swlB81eNSD_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:09:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/office-space-available/6351004587.html">
+<title><![CDATA[Office Space Available (3580 Indian Queen Lane) &#x0024;650]]></title>
+<link>https://philadelphia.craigslist.org/off/d/office-space-available/6351004587.html</link>
+<description><![CDATA[This office space is available right now! It is located in a beautifully renovated stone church in East Falls for $650 per month. Rent includes utilities, high-speed WIFI, and access to elegant conference rooms. 
+The East Falls neighborhood is very s ...]]></description>
+<dc:date>2017-10-18T11:08:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/office-space-available/6351004587.html</dc:source>
+<dc:title><![CDATA[Office Space Available (3580 Indian Queen Lane) &#x0024;650]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00303_4W7C0rE1YvB_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:08:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/beautiful-fully-furnished/6351002905.html">
+<title><![CDATA[Beautiful Fully Furnished Office Space on South St. (836 South St) &#x0024;2500 1150ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/off/d/beautiful-fully-furnished/6351002905.html</link>
+<description><![CDATA[2 + 3rd level Office Space. 
+Fully Furnished. 
+Ideal for 4-6 Person Company. 
+2nd floor has 2 private offices and an 8 person conference area. 
+3rd floor has 5 Knoll cubicles and 2 additional desks. 
+Kitchen, Full Bathroom, and Deck]]></description>
+<dc:date>2017-10-18T11:07:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/beautiful-fully-furnished/6351002905.html</dc:source>
+<dc:title><![CDATA[Beautiful Fully Furnished Office Space on South St. (836 South St) &#x0024;2500 1150ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00r0r_gsYTErMqBSE_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:07:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/get-professional-business/6350995799.html">
+<title><![CDATA[Get a Professional Business Address for Only $99/month! (Fort Washington)]]></title>
+<link>https://philadelphia.craigslist.org/off/d/get-professional-business/6350995799.html</link>
+<description><![CDATA[We provide you with office space, technology and administrative services so you can focus on your core business at a great location in Fort Washington, PA 
+You can receive all the following and more: 
+-- Professional support team on site 
+-- Welcomin ...]]></description>
+<dc:date>2017-10-18T11:02:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/get-professional-business/6350995799.html</dc:source>
+<dc:title><![CDATA[Get a Professional Business Address for Only $99/month! (Fort Washington)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00V0V_fT4r7ItjJrJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:02:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/artist-studio-creative-office/6350993341.html">
+<title><![CDATA[Artist Studio/Creative Office Space (2930 Jasper St, Kensington, Fishtown) &#x0024;1780 2100ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/off/d/artist-studio-creative-office/6350993341.html</link>
+<description><![CDATA[Housed in a renovated former carpet mill, Jasper Studios has been carefully restored into 50 artists studios/business offices ranging from 300 to 5000 sq ft. Prices range from $.75-$1/sqft depending on size of unit and amenities. Most units have high ...]]></description>
+<dc:date>2017-10-18T11:00:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/artist-studio-creative-office/6350993341.html</dc:source>
+<dc:title><![CDATA[Artist Studio/Creative Office Space (2930 Jasper St, Kensington, Fishtown) &#x0024;1780 2100ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00G0G_7JPgSywx5aw_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:00:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/amazing-office-in-converted/6350993149.html">
+<title><![CDATA[Amazing Office in a Converted Warehouse (2930 Jasper St, Kensington, Fishtown) &#x0024;650 800ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/off/d/amazing-office-in-converted/6350993149.html</link>
+<description><![CDATA[Housed in a renovated former carpet mill, Jasper Studios has been carefully restored into 50 artists studios/business offices ranging from 300 to 5000 sq ft. Prices range from $.75-$1/sqft depending on size of unit and amenities. Most units have high ...]]></description>
+<dc:date>2017-10-18T11:00:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/amazing-office-in-converted/6350993149.html</dc:source>
+<dc:title><![CDATA[Amazing Office in a Converted Warehouse (2930 Jasper St, Kensington, Fishtown) &#x0024;650 800ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00303_nXV7TtQyia_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:00:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/50-new-artist-studio-creative/6350992941.html">
+<title><![CDATA[50 new Artist Studio/Creative Office Workspaces-Avail 9/1 300-5000sq (2930 Jasper St)]]></title>
+<link>https://philadelphia.craigslist.org/off/d/50-new-artist-studio-creative/6350992941.html</link>
+<description><![CDATA[Housed in a renovated former carpet mill, Jasper Studios has been carefully restored into 50 artists studios/business offices ranging from 300 to 5000 sq ft. Prices range from $.75-$1/sqft depending on size of unit and amenities. Most units have high ...]]></description>
+<dc:date>2017-10-18T11:00:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/50-new-artist-studio-creative/6350992941.html</dc:source>
+<dc:title><![CDATA[50 new Artist Studio/Creative Office Workspaces-Avail 9/1 300-5000sq (2930 Jasper St)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00U0U_bBgMS2mcoMc_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:00:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/join-the-co-working-revolution/6350965046.html">
+<title><![CDATA[Join the Co-Working Revolution! &#x0024;399]]></title>
+<link>https://philadelphia.craigslist.org/off/d/join-the-co-working-revolution/6350965046.html</link>
+<description><![CDATA[We're here to make sure you've got everything you need to do great work, and that includes meeting great people! 
+Ready to join the millions of people who achieve great things with every day? 
+The professional space where you can do all this is in a  ...]]></description>
+<dc:date>2017-10-18T10:51:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/join-the-co-working-revolution/6350965046.html</dc:source>
+<dc:title><![CDATA[Join the Co-Working Revolution! &#x0024;399]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01616_56izg6Frb3Y_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:51:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/starting-at-722-per-month-for/6350964630.html">
+<title><![CDATA[Starting at $722 per Month for QUALITY WORK SPACE]]></title>
+<link>https://philadelphia.craigslist.org/off/d/starting-at-722-per-month-for/6350964630.html</link>
+<description><![CDATA[A place to let your imagination roam and see your ideas soar! Space that makes it easy to do the best work of your life and for only $722 per month it's all yours! 
+This is a prestigious address in a newer, extremely well-maintained facility. Looking ...]]></description>
+<dc:date>2017-10-18T10:51:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/starting-at-722-per-month-for/6350964630.html</dc:source>
+<dc:title><![CDATA[Starting at $722 per Month for QUALITY WORK SPACE]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00v0v_ikPmiX3ZhrE_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:51:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/storefront-heart-of-mt-airy/6350977905.html">
+<title><![CDATA[Storefront - Heart of Mt. Airy Commercial District - Free month's rent (Mt. Airy) &#x0024;1295 1000ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/off/d/storefront-heart-of-mt-airy/6350977905.html</link>
+<description><![CDATA[Very nice storefront located in the heart of the Mt. Airy Commercial District. The property can be used for retail, office space, etc. Owner is anxious to make a deal. Will give a free month's rent. Please contact Jeff Staples with Winder Real Estate ...]]></description>
+<dc:date>2017-10-18T10:50:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/storefront-heart-of-mt-airy/6350977905.html</dc:source>
+<dc:title><![CDATA[Storefront - Heart of Mt. Airy Commercial District - Free month's rent (Mt. Airy) &#x0024;1295 1000ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:50:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/dazzle-clients-with-beautiful/6350969150.html">
+<title><![CDATA[Dazzle Clients with a Beautiful Windowed Office for only $25.69/day! (Fort Washington)]]></title>
+<link>https://philadelphia.craigslist.org/off/d/dazzle-clients-with-beautiful/6350969150.html</link>
+<description><![CDATA[Office comes fully furnished with everything you need to look professional and work productively in a bright office! 
+Your office includes: 
+~ 24/7 Access 
+~ Administrative Support Available - you pay only for time used 
+~ Phone, internet & office se ...]]></description>
+<dc:date>2017-10-18T10:49:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/dazzle-clients-with-beautiful/6350969150.html</dc:source>
+<dc:title><![CDATA[Dazzle Clients with a Beautiful Windowed Office for only $25.69/day! (Fort Washington)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00101_cgu3FKPE6OB_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:49:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/perfect-space-ready-for/6350976578.html">
+<title><![CDATA[PERFECT SPACE READY FOR BUSINESS (7xx N 2nd St) &#x0024;3000 1600ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/off/d/perfect-space-ready-for/6350976578.html</link>
+<description><![CDATA[GREAT LOCATION FOR ALL BUSINESS 
+MORE INFO CONTACT AT ***]]></description>
+<dc:date>2017-10-18T10:49:06-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/perfect-space-ready-for/6350976578.html</dc:source>
+<dc:title><![CDATA[PERFECT SPACE READY FOR BUSINESS (7xx N 2nd St) &#x0024;3000 1600ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00q0q_1Jhqli13nDd_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:49:06-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/offices-your-convenience/6350891060.html">
+<title><![CDATA[Offices @ Your Convenience, Right Out Of The City! (Bala Cynwyd) &#x0024;850]]></title>
+<link>https://philadelphia.craigslist.org/off/d/offices-your-convenience/6350891060.html</link>
+<description><![CDATA[CALL or TEXT Tom for a TOUR of your new office space @ *** TODAY!! Promocode: 1988 
+Philadelphia, Bryn Mawr, Haverford, Wayne, Radnor, Manayunk, Roxborough, Mount Airy, Germantown, Gladwyne, Norristown, Ardmore, Villanova, Rosemont, City Line Avenue, ...]]></description>
+<dc:date>2017-10-18T10:47:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/offices-your-convenience/6350891060.html</dc:source>
+<dc:title><![CDATA[Offices @ Your Convenience, Right Out Of The City! (Bala Cynwyd) &#x0024;850]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00m0m_4ikmmafvxfX_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:47:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/commercial-offices-available/6350972726.html">
+<title><![CDATA[Commercial Offices Available In Havertown]]></title>
+<link>https://philadelphia.craigslist.org/off/d/commercial-offices-available/6350972726.html</link>
+<description><![CDATA[Hi 
+I have 2 rooms available on the first floor in the heart of Havertown. Both rooms close to the same size around 10x10 and 12x12. Location is open 7 days a week. Please message me any questions you have.]]></description>
+<dc:date>2017-10-18T10:46:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/commercial-offices-available/6350972726.html</dc:source>
+<dc:title><![CDATA[Commercial Offices Available In Havertown]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:46:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/vacant-land-zoned-business-b3/6350972282.html">
+<title><![CDATA[Vacant Land Zoned Business B3! 3.89+- Acres at a great price! $49,900 (1410 N Main Rd)]]></title>
+<link>https://philadelphia.craigslist.org/off/d/vacant-land-zoned-business-b3/6350972282.html</link>
+<description><![CDATA[$49,900.00 
+Location
+Features
+1410 N Main Road Vineland, NJ 08360 Cumberland County, US 
+Map 
+and Directions 
+Request 
+Showing 
+Virtual 
+Tour 
+Schools 
+Nearby 
+Status: 
+Available 
+Lot Size: 3.89 Acres MLS ID#: 483208 Type : 
+Land For Sale 
+Descriptio ...]]></description>
+<dc:date>2017-10-18T10:46:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/vacant-land-zoned-business-b3/6350972282.html</dc:source>
+<dc:title><![CDATA[Vacant Land Zoned Business B3! 3.89+- Acres at a great price! $49,900 (1410 N Main Rd)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00v0v_jC2uCOTti37_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:46:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/growing-teams-welcome-here/6350968451.html">
+<title><![CDATA[Growing teams - welcome here! &#x0024;2979]]></title>
+<link>https://philadelphia.craigslist.org/off/d/growing-teams-welcome-here/6350968451.html</link>
+<description><![CDATA[Think BIG - Dream Bigger! 
+We have a large space to accommodate your growing and or large team and your growing business. 
+Bring your imagination to us and let us create a space for you. 
+We have solutions for all needs and wants! 
+You can go wrong w ...]]></description>
+<dc:date>2017-10-18T10:43:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/growing-teams-welcome-here/6350968451.html</dc:source>
+<dc:title><![CDATA[Growing teams - welcome here! &#x0024;2979]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00l0l_ds4opq0ppAR_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:43:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/professional-offices-with/6350930277.html">
+<title><![CDATA[Professional offices with room to grow! 3 people only $999/mo (Berwyn)]]></title>
+<link>https://philadelphia.craigslist.org/off/d/professional-offices-with/6350930277.html</link>
+<description><![CDATA[We can provide you with the space, privacy, prestige and services you deserve in our beautiful Berwyn center with prices starting at $999.00 for large teamspace! 
+Our services &amp; amenities include: 
+-High end office furniture and seating 
+-High sp ...]]></description>
+<dc:date>2017-10-18T10:42:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/professional-offices-with/6350930277.html</dc:source>
+<dc:title><![CDATA[Professional offices with room to grow! 3 people only $999/mo (Berwyn)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00000_aJjpqPmhZNT_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:42:42-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/off/d/office-space-studio-with/6348140035.html">
+<title><![CDATA[Office space / Studio with Waiting Room for Rent (King of Prussia) 350ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/off/d/office-space-studio-with/6348140035.html</link>
+<description><![CDATA[300+ square foot office space with attached waiting room for rent. Ideal for tutoring, private teachers and instructors of small classes, etc. 
+Space is available in hourly increments. No long term contract required.]]></description>
+<dc:date>2017-10-18T10:40:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/off/d/office-space-studio-with/6348140035.html</dc:source>
+<dc:title><![CDATA[Office space / Studio with Waiting Room for Rent (King of Prussia) 350ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:40:46-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

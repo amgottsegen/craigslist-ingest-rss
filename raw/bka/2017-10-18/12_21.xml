@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/bka?format=rss">
+<title>craigslist philadelphia | books &#x26; magazines search </title>
+<link>https://philadelphia.craigslist.org/search/bka</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/bka?format=rss</dc:source>
+<dc:title>craigslist philadelphia | books &#x26; magazines search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:37-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/the-complete-book-of-japanese/6351018896.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/sui-juris-book-how-to-access/6327304321.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/star-trek-crucible-kirk/6331326832.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/vipl-lien-book-and-irs-law/6327310180.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/james-herriots-favorite-dog/6331341732.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/pet-sematary-book/6331347672.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bkd/d/bikes-of-sea-isle-city-2018/6335140220.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/phillie-phanatic-and-book/6350947899.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/the-phillie-phanatics-parade/6350936502.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/sesame-street-treasury-set/6350935905.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/20-years-of-playboy-magazines/6350931272.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/early-philadelphia-printed/6326863176.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/road-test-magazine-vintage-7/6342994013.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/car-exchange-magazine-3/6348115808.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/automobile-quarterly/6348113607.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/cars-and-parts-muscle-cars-of/6348109475.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/corvette-fever-magazine-9-91/6348108022.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/motor-trend-classic-may-june/6348106885.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/mopar-action-magazineissue/6348105821.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/street-scene-magazine-8-04/6348105047.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/winterthur-in-bloom-history/6336416317.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/100-great-garden-plants-trees/6336414872.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/sports-car-illustrated-1/6348089699.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/rolling-stone-magazines/6336356772.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bks/d/automobile-quarterlys/6348094662.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/the-complete-book-of-japanese/6351018896.html">
+<title><![CDATA[The Complete Book of Japanese Cooking &#x0024;15]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/the-complete-book-of-japanese/6351018896.html</link>
+<description><![CDATA[The Complete Book of Japanese Cooking, the Tradition, Ingredients 
+by Emi Kazuko]]></description>
+<dc:date>2017-10-18T11:17:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/the-complete-book-of-japanese/6351018896.html</dc:source>
+<dc:title><![CDATA[The Complete Book of Japanese Cooking &#x0024;15]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00n0n_c4BsN3w22MM_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/sui-juris-book-how-to-access/6327304321.html">
+<title><![CDATA[Sui Juris book (how to access the courts) (Montgomery Twp., Montgomery Co., Pa.) &#x0024;5]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/sui-juris-book-how-to-access/6327304321.html</link>
+<description><![CDATA[HALF PRICE SALE! &nbsp;Forget the original $10 price below; this item
+is now available for $5! 
+For sale is the book "Sui Juris: The Truth In The Record (A Process For The
+People To Access The Courts)", a book by Pamela and Will Gaston to assist the  ...]]></description>
+<dc:date>2017-10-18T11:13:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/sui-juris-book-how-to-access/6327304321.html</dc:source>
+<dc:title><![CDATA[Sui Juris book (how to access the courts) (Montgomery Twp., Montgomery Co., Pa.) &#x0024;5]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00U0U_5LSfyDf5rAj_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:13:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/star-trek-crucible-kirk/6331326832.html">
+<title><![CDATA[Star Trek Crucible: Kirk (Montgomery Twp., Montgomery Co., Penna.) &#x0024;1]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/star-trek-crucible-kirk/6331326832.html</link>
+<description><![CDATA[PRICE SLASHED! &nbsp;Forget the original $2 price below; this item is now available for $0.50! 
+It's the last book in David George's three-book set. &nbsp;Now that
+I have read it twice, I'm ready to part with it. &nbsp;As you can see from the
+photos, ...]]></description>
+<dc:date>2017-10-18T11:12:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/star-trek-crucible-kirk/6331326832.html</dc:source>
+<dc:title><![CDATA[Star Trek Crucible: Kirk (Montgomery Twp., Montgomery Co., Penna.) &#x0024;1]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00U0U_hz3MkiVNBlg_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:12:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/vipl-lien-book-and-irs-law/6327310180.html">
+<title><![CDATA[VIPL Lien book and IRS Law Enforcement Manual (Montgomery Twp., Montgomery Co., Pa.) &#x0024;5]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/vipl-lien-book-and-irs-law/6327310180.html</link>
+<description><![CDATA[PRICE SLASHED! &nbsp;Forget the original $15 price below; this item
+is now available for $5! 
+For sale are two books purchased from VIPL, formerly in Cincinnati, to learn more
+about the IRS' lien process and access their own Law Enforcement Manual.  ...]]></description>
+<dc:date>2017-10-18T11:12:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/vipl-lien-book-and-irs-law/6327310180.html</dc:source>
+<dc:title><![CDATA[VIPL Lien book and IRS Law Enforcement Manual (Montgomery Twp., Montgomery Co., Pa.) &#x0024;5]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00N0N_9gERzJC6nrk_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:12:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/james-herriots-favorite-dog/6331341732.html">
+<title><![CDATA[James Herriot's Favorite Dog Stories book (Montgomery Twp., Montgomery Co., Pa.) &#x0024;1]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/james-herriots-favorite-dog/6331341732.html</link>
+<description><![CDATA[PRICE SLASHED! &nbsp;Forget the original $2 price below; this item
+is now available for $1! 
+For sale is one of the shorter books written by veterinarian/author James
+Herriot. &nbsp;In "Favorite Dog Stories," you will find ten of his most beloved sto ...]]></description>
+<dc:date>2017-10-18T11:12:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/james-herriots-favorite-dog/6331341732.html</dc:source>
+<dc:title><![CDATA[James Herriot's Favorite Dog Stories book (Montgomery Twp., Montgomery Co., Pa.) &#x0024;1]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01414_avM5tKByjPA_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:12:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/pet-sematary-book/6331347672.html">
+<title><![CDATA[Pet Sematary book (Montgomery Twp., Montgomery Co., Pa.) &#x0024;1]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/pet-sematary-book/6331347672.html</link>
+<description><![CDATA[PRICE SLASHED! &nbsp;Forget the original $2 price below; this item
+is now available for $1! 
+For sale is the hardcover edition of Stephen King's Pet Sematary book, the 1983
+work that purportedly is "so horrifying that he [King] was for a time unwilli ...]]></description>
+<dc:date>2017-10-18T11:07:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/pet-sematary-book/6331347672.html</dc:source>
+<dc:title><![CDATA[Pet Sematary book (Montgomery Twp., Montgomery Co., Pa.) &#x0024;1]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00N0N_lbeOtP9lyrl_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:07:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bkd/d/bikes-of-sea-isle-city-2018/6335140220.html">
+<title><![CDATA[Bikes of Sea Isle City 2018 Calendars]]></title>
+<link>https://philadelphia.craigslist.org/bkd/d/bikes-of-sea-isle-city-2018/6335140220.html</link>
+<description><![CDATA[For sale are calendars that display the color of the beach bikes that dot the New Jersey beach town of Sea Isle City, each summer. Come in two sizes. Order now for 2017! Thank you for looking! 
+https://www.createphotocalendars.com/Shop/bikesofseaisle ...]]></description>
+<dc:date>2017-10-18T10:50:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bkd/d/bikes-of-sea-isle-city-2018/6335140220.html</dc:source>
+<dc:title><![CDATA[Bikes of Sea Isle City 2018 Calendars]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00f0f_auRaM6iE9ED_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:50:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/phillie-phanatic-and-book/6350947899.html">
+<title><![CDATA[Phillie Phanatic and Book (Parade of Champions) (Bensalem) &#x0024;10]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/phillie-phanatic-and-book/6350947899.html</link>
+<description><![CDATA[The Phillie Phanatic's Parade of Champions Book (New) and stuffed Phillie Phanatic]]></description>
+<dc:date>2017-10-18T10:28:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/phillie-phanatic-and-book/6350947899.html</dc:source>
+<dc:title><![CDATA[Phillie Phanatic and Book (Parade of Champions) (Bensalem) &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00m0m_laYGuYM04it_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:28:42-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/the-phillie-phanatics-parade/6350936502.html">
+<title><![CDATA[THE PHILLIE PHANATIC'S PARADE OF CHAMPIONS with stuffed bear (Bensalem) &#x0024;10]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/the-phillie-phanatics-parade/6350936502.html</link>
+<description><![CDATA[The Phillie Phanatic's Parade of Champions Book (New) with stuffed bear]]></description>
+<dc:date>2017-10-18T10:20:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/the-phillie-phanatics-parade/6350936502.html</dc:source>
+<dc:title><![CDATA[THE PHILLIE PHANATIC'S PARADE OF CHAMPIONS with stuffed bear (Bensalem) &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00m0m_jfVfNhtxplR_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:20:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/sesame-street-treasury-set/6350935905.html">
+<title><![CDATA[Sesame Street Treasury Set (Bensalem) &#x0024;30]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/sesame-street-treasury-set/6350935905.html</link>
+<description><![CDATA[Volumes 1 thru 15. Like New $30 for the set]]></description>
+<dc:date>2017-10-18T10:19:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/sesame-street-treasury-set/6350935905.html</dc:source>
+<dc:title><![CDATA[Sesame Street Treasury Set (Bensalem) &#x0024;30]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00j0j_7IXMLDnHUYs_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:19:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/20-years-of-playboy-magazines/6350931272.html">
+<title><![CDATA[20 + Years of Playboy Magazines (Delco) &#x0024;500]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/20-years-of-playboy-magazines/6350931272.html</link>
+<description><![CDATA[From June of 1971 to 1995 most years are complete and they range from excellent to good condition. You can contact me for a complete list. Selling for $ 500 which comes to about $ 2 per issue. Selling as a lot, cash only and you are responsible for p ...]]></description>
+<dc:date>2017-10-18T10:16:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/20-years-of-playboy-magazines/6350931272.html</dc:source>
+<dc:title><![CDATA[20 + Years of Playboy Magazines (Delco) &#x0024;500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00z0z_492fuD0yoFl_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:16:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/early-philadelphia-printed/6326863176.html">
+<title><![CDATA[EARLY PHILADELPHIA PRINTED FRENCH LANGUAGE BOOK (Milton, De.) &#x0024;90]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/early-philadelphia-printed/6326863176.html</link>
+<description><![CDATA[FABLES AMUSANTES French language book. By M. Parrin. printed by 
+Key &amp; MIELKE 175 Market st. 
+Philadelphia 1831 
+Small book in fair condition 
+$90.00 cash only on pickup 
+NO CHECK OF ANY KIND. 
+call or text please ***]]></description>
+<dc:date>2017-10-18T10:04:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/early-philadelphia-printed/6326863176.html</dc:source>
+<dc:title><![CDATA[EARLY PHILADELPHIA PRINTED FRENCH LANGUAGE BOOK (Milton, De.) &#x0024;90]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00J0J_lPFxQZN9EyJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:04:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/road-test-magazine-vintage-7/6342994013.html">
+<title><![CDATA[Road Test Magazine Vintage 7-'68 Special Toyota 2000 GT etc. (morton) &#x0024;10]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/road-test-magazine-vintage-7/6342994013.html</link>
+<description><![CDATA[This is Road Test Magazine the Special all Toyota Issues 7-'68 Vol. 4 no.7 includes the 2000 GT James Bond "You Only Live Twice Car" etc. Top info on these vintage collectable Toyotas etc. What others do you need I have over 350 auto magazines I need ...]]></description>
+<dc:date>2017-10-18T09:51:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/road-test-magazine-vintage-7/6342994013.html</dc:source>
+<dc:title><![CDATA[Road Test Magazine Vintage 7-'68 Special Toyota 2000 GT etc. (morton) &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00W0W_125dEYtot3Y_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:51:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/car-exchange-magazine-3/6348115808.html">
+<title><![CDATA[Car Exchange Magazine 3 issues 9-'81, 6-'82, 3-'84 Feature MoPars (morton) &#x0024;18]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/car-exchange-magazine-3/6348115808.html</link>
+<description><![CDATA[This is 3 issues of Car Exchange Magazine 9-'81, 6-'82, 3-'84 etc. I tried taking pictures through the plastic I keep them in so I had to take them out for clearer pictures etc. these have really great info and on the MoPars featured etc. What others ...]]></description>
+<dc:date>2017-10-18T09:51:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/car-exchange-magazine-3/6348115808.html</dc:source>
+<dc:title><![CDATA[Car Exchange Magazine 3 issues 9-'81, 6-'82, 3-'84 Feature MoPars (morton) &#x0024;18]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00A0A_610hIogpO0S_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:51:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/automobile-quarterly/6348113607.html">
+<title><![CDATA[Automobile Quarterly Quatrefoil Magazine 6+ issues '91/'92 etc. (morton) &#x0024;3]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/automobile-quarterly/6348113607.html</link>
+<description><![CDATA[This is Automobile Quarterly's Quatrefoil Magazine 1,2,4,6,7-'91, 1-'92 etc. These are interesting and forgotten magazines That do nice little articles with pictures like the Mako Shark etc. What others do you need I have over 350 magazines I need th ...]]></description>
+<dc:date>2017-10-18T09:51:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/automobile-quarterly/6348113607.html</dc:source>
+<dc:title><![CDATA[Automobile Quarterly Quatrefoil Magazine 6+ issues '91/'92 etc. (morton) &#x0024;3]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00505_4A6B2w8Ze1S_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:51:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/cars-and-parts-muscle-cars-of/6348109475.html">
+<title><![CDATA[Cars and Parts Muscle Cars of the 60's/70's Jan./Feb-'91 Issue (morton) &#x0024;4]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/cars-and-parts-muscle-cars-of/6348109475.html</link>
+<description><![CDATA[This is Cars and Parts Muscle Cars of the 60's/70's January/February -'91 issue etc. It is loaded with info and pictures etc. What others do you need I have over 350 auto magazines I need the room etc.]]></description>
+<dc:date>2017-10-18T09:42:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/cars-and-parts-muscle-cars-of/6348109475.html</dc:source>
+<dc:title><![CDATA[Cars and Parts Muscle Cars of the 60's/70's Jan./Feb-'91 Issue (morton) &#x0024;4]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00o0o_j5n3azjWXkn_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:42:42-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/corvette-fever-magazine-9-91/6348108022.html">
+<title><![CDATA[Corvette Fever Magazine 9-'91 picture taken in its plastic cover etc. (morton) &#x0024;5]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/corvette-fever-magazine-9-91/6348108022.html</link>
+<description><![CDATA[This is a mint copy of Corvette Fever 9-'91 I Took pictures through the plastic etc. What others do you need I have over 350 auto magazines I need the room etc.]]></description>
+<dc:date>2017-10-18T09:41:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/corvette-fever-magazine-9-91/6348108022.html</dc:source>
+<dc:title><![CDATA[Corvette Fever Magazine 9-'91 picture taken in its plastic cover etc. (morton) &#x0024;5]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01010_9xt1HQuFxkU_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:41:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/motor-trend-classic-may-june/6348106885.html">
+<title><![CDATA[Motor Trend Classic May/June '06 Has GM Concept Cars etc. (morton) &#x0024;6]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/motor-trend-classic-may-june/6348106885.html</link>
+<description><![CDATA[This is the Motor Trend Classics Magazine May/June -06 issue with the 50's GM Concept Cars etc. Really nice pictures and info etc. What others do you need I have over 350 auto magazines I need the room etc.]]></description>
+<dc:date>2017-10-18T09:40:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/motor-trend-classic-may-june/6348106885.html</dc:source>
+<dc:title><![CDATA[Motor Trend Classic May/June '06 Has GM Concept Cars etc. (morton) &#x0024;6]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00D0D_7dXUHGyl0q8_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:40:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/mopar-action-magazineissue/6348105821.html">
+<title><![CDATA[Mopar Action Magazine 10-2000 issue features the Dodge Diamante (morton) &#x0024;10]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/mopar-action-magazineissue/6348105821.html</link>
+<description><![CDATA[This is Mopar Action Magazine 10-2000 it features the Dodge Diamanté Concept Car etc. Nice info and Pictures etc. What others do you need I have over 350 auto magazines I need the room etc.]]></description>
+<dc:date>2017-10-18T09:39:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/mopar-action-magazineissue/6348105821.html</dc:source>
+<dc:title><![CDATA[Mopar Action Magazine 10-2000 issue features the Dodge Diamante (morton) &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01313_3DEhW5Pz8kU_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:39:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/street-scene-magazine-8-04/6348105047.html">
+<title><![CDATA[Street Scene Magazine 8-'04 issue Street Roddings Only News Monthly (morton) &#x0024;3]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/street-scene-magazine-8-04/6348105047.html</link>
+<description><![CDATA[This is Street Scene Magazine 8-'04 etc. nice picture etc. what others do you need I have over 350 auto magazines I need the room etc.]]></description>
+<dc:date>2017-10-18T09:39:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/street-scene-magazine-8-04/6348105047.html</dc:source>
+<dc:title><![CDATA[Street Scene Magazine 8-'04 issue Street Roddings Only News Monthly (morton) &#x0024;3]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00101_gBKXvTBnsOL_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:39:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/winterthur-in-bloom-history/6336416317.html">
+<title><![CDATA[Winterthur In Bloom  A History of the Gardens '67/'68 H. F. Du Pont (morton) &#x0024;8]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/winterthur-in-bloom-history/6336416317.html</link>
+<description><![CDATA[This is a book on Winterthur In Bloom A History of the Gardens '67/'68 with Foreword by Francis DuPont. This is a very informative Beautiful book in nice condition with full color pictures and lots of interesting information etc.]]></description>
+<dc:date>2017-10-18T09:38:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/winterthur-in-bloom-history/6336416317.html</dc:source>
+<dc:title><![CDATA[Winterthur In Bloom  A History of the Gardens '67/'68 H. F. Du Pont (morton) &#x0024;8]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01515_cVlad4MHOa6_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:38:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/100-great-garden-plants-trees/6336414872.html">
+<title><![CDATA[100 Great Garden Plant's Trees Shrubs Ground Covers '75 First Edition (morton) &#x0024;5]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/100-great-garden-plants-trees/6336414872.html</link>
+<description><![CDATA[This is the Book 100 Great Garden Plants etc. '75 First edition. This still is very informative and has great pictures etc. The dust jacket is a little scruffy in a few typical areas but the book is in perfect shape and still gives its info and pictu ...]]></description>
+<dc:date>2017-10-18T09:37:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/100-great-garden-plants-trees/6336414872.html</dc:source>
+<dc:title><![CDATA[100 Great Garden Plant's Trees Shrubs Ground Covers '75 First Edition (morton) &#x0024;5]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00s0s_eyufOCdjCyH_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:37:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/sports-car-illustrated-1/6348089699.html">
+<title><![CDATA[Sports Car Illustrated 1/Sports Car International 3 Ferrari Poster etc (morton) &#x0024;20]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/sports-car-illustrated-1/6348089699.html</link>
+<description><![CDATA[These are the sophisticated European auto magazines I took pictures through plastic covers so that is why they are not sharp but that is why these are like new! Sports Car Illustrated 1-'89 which still has the Ferrari Poster! Unused! 3 issues of Spor ...]]></description>
+<dc:date>2017-10-18T09:35:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/sports-car-illustrated-1/6348089699.html</dc:source>
+<dc:title><![CDATA[Sports Car Illustrated 1/Sports Car International 3 Ferrari Poster etc (morton) &#x0024;20]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00i0i_5vVjstS3rue_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:35:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/rolling-stone-magazines/6336356772.html">
+<title><![CDATA[Rolling Stone Magazines including the Specials, Billboard Mag. etc. (morton) &#x0024;20]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/rolling-stone-magazines/6336356772.html</link>
+<description><![CDATA[This is Rolling Stone Magazine all issues from #1143 November-10-2011 to #1167 October-11-2012 plus Billboard 2012 Special Edition Also the Rolling Stone Big Summer Special Subscriber Special Issue etc. This includes Special issue #1145 100 Greatest  ...]]></description>
+<dc:date>2017-10-18T09:34:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/rolling-stone-magazines/6336356772.html</dc:source>
+<dc:title><![CDATA[Rolling Stone Magazines including the Specials, Billboard Mag. etc. (morton) &#x0024;20]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00H0H_7Qqn9OejYkQ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:34:42-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bks/d/automobile-quarterlys/6348094662.html">
+<title><![CDATA[Automobile Quarterly's Quatrefoil Magazine 3/4-'90 (morton) &#x0024;1]]></title>
+<link>https://philadelphia.craigslist.org/bks/d/automobile-quarterlys/6348094662.html</link>
+<description><![CDATA[This is Automobile Quarterly's Quatrefoil Magazine 3/4-'90 etc. What others do you need I have over 350 auto magazines I need the room etc.]]></description>
+<dc:date>2017-10-18T09:33:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bks/d/automobile-quarterlys/6348094662.html</dc:source>
+<dc:title><![CDATA[Automobile Quarterly's Quatrefoil Magazine 3/4-'90 (morton) &#x0024;1]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00y0y_1pvuH7FO7rq_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:33:19-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

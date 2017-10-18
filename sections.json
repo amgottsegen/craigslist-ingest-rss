@@ -1,4 +1,21 @@
 {
 "apartments":"apa",
-"real estate - by broker":"reb"
+"real estate - by broker":"reb",
+"real estate - by owner":"reb",
+"rooms & shares":"roo",
+"sublets & temporary":"sub",
+"offices":"off",
+"free stuff":"zip",
+"appliances":"ppa",
+"antiques":"ata",
+"auto parts":"pta",
+"auto wheels & tires": "wta",
+"baby & kid stuff": "baa",
+"beauty & health": "haa",
+"bike parts": "bip",
+"bikes":"bia",
+"books & magazines":"bka",
+"business (for sale)":"bfa",
+"cars & trucks":"cta",
+"cell phones":"moa"
 }

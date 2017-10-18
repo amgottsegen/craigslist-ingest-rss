@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/roo?format=rss">
+<title>craigslist philadelphia | rooms &#x26; shares search </title>
+<link>https://philadelphia.craigslist.org/search/roo</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/roo?format=rss</dc:source>
+<dc:title>craigslist philadelphia | rooms &#x26; shares search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:29-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/male-roommates-great-house-2/6325639147.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/room-avail-for-swf-move-in/6350948742.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/380-all-utilities-included/6348147580.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/3-bdrm-350-utilities-incl/6333136689.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/the-beautiful-bedroom-is/6350978450.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/room-house-share/6345024971.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/empower-yourself-and-get/6311003556.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/rooms-for-rent/6350956642.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/large-furnish-room/6350970822.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/large-room-washer-dryer-free/6348213011.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/january-1st-beautiful-bedroom/6320151191.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/room-private-bath-east/6348212186.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/room-avail-for-swf/6332387352.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/empower-yourself-and-get/6331138826.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/get-sober-with-detox-and-rehab/6329652760.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/rrecovery-from-substance/6345091111.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/master-bedroom-in-townhome/6326721568.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/380-all-utilities-included/6350934111.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/furnished-room-with-private/6350933462.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/utilities-included-3-minute/6350932089.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/looking-for-roommate-great/6330546574.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/furnished-large-sunny-room-in/6330546552.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/fully-furnished-master/6330546619.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/12x15-large-rooms-for-rent/6350908241.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/roo/d/wanted-3rd-girl-to-share/6343666332.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/male-roommates-great-house-2/6325639147.html">
+<title><![CDATA[Male Roommates - Great House - 2 Blocks From Main St Manayunk (Manayunk) &#x0024;600]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/male-roommates-great-house-2/6325639147.html</link>
+<description><![CDATA[Available October 28th. 
+Young professional male roommates looking for another male roommate. 
+------------------------------------------------------------------------------------------------------------------------- 
+HOUSE INFORMATION: 
+Located in t ...]]></description>
+<dc:date>2017-10-18T11:18:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/male-roommates-great-house-2/6325639147.html</dc:source>
+<dc:title><![CDATA[Male Roommates - Great House - 2 Blocks From Main St Manayunk (Manayunk) &#x0024;600]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00N0N_lcrd9qLFNrN_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:18:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/room-avail-for-swf-move-in/6350948742.html">
+<title><![CDATA[Room avail for swf. Move in today! (Media) &#x0024;350]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/room-avail-for-swf-move-in/6350948742.html</link>
+<description><![CDATA[Clean,quiet home in a great area. New full bed,carpet an dressrer. Single female only. 350.]]></description>
+<dc:date>2017-10-18T10:56:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/room-avail-for-swf-move-in/6350948742.html</dc:source>
+<dc:title><![CDATA[Room avail for swf. Move in today! (Media) &#x0024;350]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00N0N_hk7BjR0NgFs_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:56:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/380-all-utilities-included/6348147580.html">
+<title><![CDATA[$380 all Utilities included, Discount $380 at Diamond and N 19th St  A (Temple) &#x0024;380]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/380-all-utilities-included/6348147580.html</link>
+<description><![CDATA[$380 all Utilities included, Discount $380 at Diamond and N 19th St 
+All utilities included, New Open, Discount $380 for a Rooms for rent at Diamond and N 19th. A single house with three storey, each storey has 3 bedrooms and 1 bathroom. 3 bedrooms h ...]]></description>
+<dc:date>2017-10-18T10:53:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/380-all-utilities-included/6348147580.html</dc:source>
+<dc:title><![CDATA[$380 all Utilities included, Discount $380 at Diamond and N 19th St  A (Temple) &#x0024;380]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00K0K_6u9sqLiLFQd_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:53:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/3-bdrm-350-utilities-incl/6333136689.html">
+<title><![CDATA[3 bdrm, $350 Utilities incl, discount at 17th St and Susquenhanna St (Temple) &#x0024;350]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/3-bdrm-350-utilities-incl/6333136689.html</link>
+<description><![CDATA[3 bdrm, $350 Utilities incl, discount at 17th St and Susquenhanna St 
+New Open, rent at $400 for a Rooms for rent at 17th St and Susquenhanna St. A single house with two storey, 3 bedrooms on 2nd floor and 1 bathroom. New hardwood floor, Welcome Temp ...]]></description>
+<dc:date>2017-10-18T10:53:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/3-bdrm-350-utilities-incl/6333136689.html</dc:source>
+<dc:title><![CDATA[3 bdrm, $350 Utilities incl, discount at 17th St and Susquenhanna St (Temple) &#x0024;350]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00B0B_dWxiZVQLmQw_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:53:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/the-beautiful-bedroom-is/6350978450.html">
+<title><![CDATA[THE BEAUTIFUL BEDROOM IS AVAILABLE IN TEMPLE AREA (1510 N 17TH) &#x0024;600]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/the-beautiful-bedroom-is/6350978450.html</link>
+<description><![CDATA[SINGLE ROOM AVAILABLE $600/MONTH/ROOM 
+ALL BRAND NEW APPLAINCES 
+GOOD CREDIT ( COSIGNER IF NEEDED) 
+3 MONTH TO MOVE IN (FIRST, LAST MONTH AND DEPOSIT) 
+MORE INFO CONTACT AT *** ]]></description>
+<dc:date>2017-10-18T10:50:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/the-beautiful-bedroom-is/6350978450.html</dc:source>
+<dc:title><![CDATA[THE BEAUTIFUL BEDROOM IS AVAILABLE IN TEMPLE AREA (1510 N 17TH) &#x0024;600]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Q0Q_gNAxMCoAyvV_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:50:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/room-house-share/6345024971.html">
+<title><![CDATA[Room / House share (Sellersville) &#x0024;650]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/room-house-share/6345024971.html</link>
+<description><![CDATA[Room / House share in Sellersville Condo $ 650 , includes Everything ! if interested call *** Joey]]></description>
+<dc:date>2017-10-18T10:49:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/room-house-share/6345024971.html</dc:source>
+<dc:title><![CDATA[Room / House share (Sellersville) &#x0024;650]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00P0P_4sGmm8Wg9q2_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:49:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/empower-yourself-and-get/6311003556.html">
+<title><![CDATA[Empower yourself and get sober today (All Cities*) &#x0024;100 1200ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/empower-yourself-and-get/6311003556.html</link>
+<description><![CDATA[How did your addiction begin? No matter what the source of your substance abuse, the friendly experts at our substance abuse treatment facility can help you reach recovery. Come take advantage of the quality amenities and spacious accommodations we p ...]]></description>
+<dc:date>2017-10-18T10:48:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/empower-yourself-and-get/6311003556.html</dc:source>
+<dc:title><![CDATA[Empower yourself and get sober today (All Cities*) &#x0024;100 1200ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:48:22-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/rooms-for-rent/6350956642.html">
+<title><![CDATA[Rooms for rent (North Philly) &#x0024;400]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/rooms-for-rent/6350956642.html</link>
+<description><![CDATA[Large clean rooms on the 3rd floor of nice quiet house close to downtown and the park. $400/month single occupancy $500/month double]]></description>
+<dc:date>2017-10-18T10:46:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/rooms-for-rent/6350956642.html</dc:source>
+<dc:title><![CDATA[Rooms for rent (North Philly) &#x0024;400]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00f0f_jpVPdqUSgBg_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:46:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/large-furnish-room/6350970822.html">
+<title><![CDATA[A large furnish room (15th Indiana) &#x0024;500]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/large-furnish-room/6350970822.html</link>
+<description><![CDATA[A large furnish room. Shared Kitchen and Bathroom. Close to transportation and Shopping. 
+Call Mr. Harley at ***.]]></description>
+<dc:date>2017-10-18T10:44:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/large-furnish-room/6350970822.html</dc:source>
+<dc:title><![CDATA[A large furnish room (15th Indiana) &#x0024;500]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:44:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/large-room-washer-dryer-free/6348213011.html">
+<title><![CDATA[Large room Washer/dryer/ free Wifi/ Yeadon (Yeadon) &#x0024;135]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/large-room-washer-dryer-free/6348213011.html</link>
+<description><![CDATA[Very clean and quite. 
+Nice block. Great public transportation. Free WIFI included. All utilities included plus free washer dryer onsite. Price is weekly (NOT MONTHLY)Security deposit and proof of income required. Monthly income must be at least $100 ...]]></description>
+<dc:date>2017-10-18T10:44:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/large-room-washer-dryer-free/6348213011.html</dc:source>
+<dc:title><![CDATA[Large room Washer/dryer/ free Wifi/ Yeadon (Yeadon) &#x0024;135]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01414_2PWcfBQClea_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:44:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/january-1st-beautiful-bedroom/6320151191.html">
+<title><![CDATA[January 1st. Beautiful bedroom all furnished, all utilities (University city(UPenn, Drexe, USc)) &#x0024;800]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/january-1st-beautiful-bedroom/6320151191.html</link>
+<description><![CDATA[Available Jan 1st. Beautiful large bedroom with a bay window, fully furnished with a queen size bed, chest of drawers, a table and closet. Three story house in a row home. You would have use of the adjacent bathroom that is shared with another studen ...]]></description>
+<dc:date>2017-10-18T10:39:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/january-1st-beautiful-bedroom/6320151191.html</dc:source>
+<dc:title><![CDATA[January 1st. Beautiful bedroom all furnished, all utilities (University city(UPenn, Drexe, USc)) &#x0024;800]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00r0r_5lXo0uQPDsP_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:39:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/room-private-bath-east/6348212186.html">
+<title><![CDATA[Room private bath East Germantown  free cable Wifi &#x0024;149]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/room-private-bath-east/6348212186.html</link>
+<description><![CDATA[Private rooms. Private Bath. Newly renovated. Free Wifi . All utilities included. friendly block. Close to Lasalle College great public transportation and plenty of on street parking. Very clean and quite. All utilities included. Price is weekly ( NO ...]]></description>
+<dc:date>2017-10-18T10:34:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/room-private-bath-east/6348212186.html</dc:source>
+<dc:title><![CDATA[Room private bath East Germantown  free cable Wifi &#x0024;149]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00808_78Z2lRQbr0X_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:34:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/room-avail-for-swf/6332387352.html">
+<title><![CDATA[Room avail for swf (Delco) &#x0024;400]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/room-avail-for-swf/6332387352.html</link>
+<description><![CDATA[Great room in a very nice little home. Great area. Looking for single white female to rent room. 400 month incls all. Very clean,quiet home. Easygoing guy,420 freindly. Smoking outside. One person only! Avail now.]]></description>
+<dc:date>2017-10-18T10:33:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/room-avail-for-swf/6332387352.html</dc:source>
+<dc:title><![CDATA[Room avail for swf (Delco) &#x0024;400]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:33:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/empower-yourself-and-get/6331138826.html">
+<title><![CDATA[Empower yourself and get sober today (Glen Alen*) &#x0024;450 1200ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/empower-yourself-and-get/6331138826.html</link>
+<description><![CDATA[How did your addiction begin? No matter what the source of your substance abuse, the friendly experts at our substance abuse treatment facility can help you reach recovery. Come take advantage of the quality amenities and spacious accommodations we p ...]]></description>
+<dc:date>2017-10-18T10:27:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/empower-yourself-and-get/6331138826.html</dc:source>
+<dc:title><![CDATA[Empower yourself and get sober today (Glen Alen*) &#x0024;450 1200ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:27:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/get-sober-with-detox-and-rehab/6329652760.html">
+<title><![CDATA[Get Sober with Detox and Rehab (Glen Alen*) &#x0024;450 1200ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/get-sober-with-detox-and-rehab/6329652760.html</link>
+<description><![CDATA[You don't have to suffer any longer. We have tailored addiction recovery programs that will help you overcome your addiction. Don't wait any longer. Our drug rehab center will provide you with everything you need so you can focus on getting sober. Yo ...]]></description>
+<dc:date>2017-10-18T10:27:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/get-sober-with-detox-and-rehab/6329652760.html</dc:source>
+<dc:title><![CDATA[Get Sober with Detox and Rehab (Glen Alen*) &#x0024;450 1200ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:27:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/rrecovery-from-substance/6345091111.html">
+<title><![CDATA[Rrecovery from substance starts with this room (Glen Allen*) &#x0024;450 1200ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/rrecovery-from-substance/6345091111.html</link>
+<description><![CDATA[At our substance abuse treatment center, we provide every client with an effective and efficient plan for addiction recovery. Let the friendly professional staff at our drug rehab center provide you with the support you need. We accept PPO and privat ...]]></description>
+<dc:date>2017-10-18T10:22:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/rrecovery-from-substance/6345091111.html</dc:source>
+<dc:title><![CDATA[Rrecovery from substance starts with this room (Glen Allen*) &#x0024;450 1200ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:22:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/master-bedroom-in-townhome/6326721568.html">
+<title><![CDATA[Master bedroom in townhome $600 month Oct 1st (West Chester) &#x0024;600]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/master-bedroom-in-townhome/6326721568.html</link>
+<description><![CDATA[Master Bedroom in nice townhome near West Chester. 
+Everything included,also Verizon fios and wifi.free laundry and off street parking! 
+Available Oct.1st.]]></description>
+<dc:date>2017-10-18T10:20:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/master-bedroom-in-townhome/6326721568.html</dc:source>
+<dc:title><![CDATA[Master bedroom in townhome $600 month Oct 1st (West Chester) &#x0024;600]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:20:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/380-all-utilities-included/6350934111.html">
+<title><![CDATA[$380 all Utilities included, Discount $380 at Diamond and N 19th St  A (Temple)]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/380-all-utilities-included/6350934111.html</link>
+<description><![CDATA[$380 all Utilities included, Discount $380 at Diamond and N 19th St 
+All utilities included, New Open, Discount $380 for a Rooms for rent at Diamond and N 19th. A single house with three storey, each storey has 3 bedrooms and 1 bathroom. 3 bedrooms h ...]]></description>
+<dc:date>2017-10-18T10:18:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/380-all-utilities-included/6350934111.html</dc:source>
+<dc:title><![CDATA[$380 all Utilities included, Discount $380 at Diamond and N 19th St  A (Temple)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00K0K_6u9sqLiLFQd_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:18:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/furnished-room-with-private/6350933462.html">
+<title><![CDATA[Furnished Room with Private Bath in a Town Home (Newark)]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/furnished-room-with-private/6350933462.html</link>
+<description><![CDATA[Suitable for a Professional. 
+Close to Christiana Hospital, J P M C, Barclays, Bank of America and University of Delaware. 
+Route 95 is near by. 
+Across Farmers Market on Kirkwood Hwy.]]></description>
+<dc:date>2017-10-18T10:18:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/furnished-room-with-private/6350933462.html</dc:source>
+<dc:title><![CDATA[Furnished Room with Private Bath in a Town Home (Newark)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:18:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/utilities-included-3-minute/6350932089.html">
+<title><![CDATA[* Utilities included, 3 minute walk to Temple Medical School &#x0024;540 96ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/utilities-included-3-minute/6350932089.html</link>
+<description><![CDATA[Female only. You will share this 3 bedroom/2 full bath townhouse with other two female medical student, visiting researchers. Friendly, safe and convenient living place near Temple Medical School. The room will be available in now. 
+The location is 3 ...]]></description>
+<dc:date>2017-10-18T10:17:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/utilities-included-3-minute/6350932089.html</dc:source>
+<dc:title><![CDATA[* Utilities included, 3 minute walk to Temple Medical School &#x0024;540 96ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Y0Y_3exepUeBlWI_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:17:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/looking-for-roommate-great/6330546574.html">
+<title><![CDATA[LOOKING FOR ROOMMATE  GREAT BEDROOM+BATHROOM ApT. (philadelphia) &#x0024;450]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/looking-for-roommate-great/6330546574.html</link>
+<description><![CDATA[I'M A YOUNG PROFESSIONAL LOOKING FOR A FRIENDLY LIKE MINDED ROOMMATE. IT WOULD BE NICE TO FIND SOMEONE TO SHARE AN OCCASIONAL MEAL/DRINK AND CHILL WITH. DEFINITELY NOT A PARTY HOME BUT WOULD LIKE TO BE ABLE TO HAVE FRIENDS OVER. IT IS ALSO IMPORTANT  ...]]></description>
+<dc:date>2017-10-18T10:14:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/looking-for-roommate-great/6330546574.html</dc:source>
+<dc:title><![CDATA[LOOKING FOR ROOMMATE  GREAT BEDROOM+BATHROOM ApT. (philadelphia) &#x0024;450]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:14:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/furnished-large-sunny-room-in/6330546552.html">
+<title><![CDATA[FURNISHED, LARGE SUNNY ROOM IN CAT-FRIENDLY PENNSPORT (SOUTH PHILLY) &#x0024;445]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/furnished-large-sunny-room-in/6330546552.html</link>
+<description><![CDATA[LARGE FURNISHED BEDROOM IN 2 BEDROOM HOME. QUEEN BED, BEDDING, TOWELS, SMALL DRESSER/DESK, REACH IN CLOSET AND SHELVING PROVIDED. THERE IS SPACE FOR MORE SMALL FURNITURE IF YOU HAVE ITEMS TO MOVE IN WITH YOU. SHARED BATHROOM. ALL UTILITIES INCLUDED.  ...]]></description>
+<dc:date>2017-10-18T10:14:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/furnished-large-sunny-room-in/6330546552.html</dc:source>
+<dc:title><![CDATA[FURNISHED, LARGE SUNNY ROOM IN CAT-FRIENDLY PENNSPORT (SOUTH PHILLY) &#x0024;445]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:14:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/fully-furnished-master/6330546619.html">
+<title><![CDATA[FULLY FURNISHED MASTER BEDROOM WITH PRIVATE BATH  FOR RENT (1328 N. HOWARD ST.) &#x0024;460]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/fully-furnished-master/6330546619.html</link>
+<description><![CDATA[FULLY FURNISHED MASTER BEDROOM WITH PRIVATE BALCONY, WALK-IN CLOSET AND DOUBLE VANITY FULL PRIVATE BATH IN A NEWLY CONSTRUCTED LUXURY TOWNHOUSE IN THE NORTHERN LIBERTY/FISHTOWN AREA. THE ROOM HAS LARGE WINDOWS WITH PLENTY OF LIGHT, 10 FT CEILING AND  ...]]></description>
+<dc:date>2017-10-18T10:14:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/fully-furnished-master/6330546619.html</dc:source>
+<dc:title><![CDATA[FULLY FURNISHED MASTER BEDROOM WITH PRIVATE BATH  FOR RENT (1328 N. HOWARD ST.) &#x0024;460]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:14:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/12x15-large-rooms-for-rent/6350908241.html">
+<title><![CDATA[12x15 large rooms for rent (55 pine) &#x0024;500]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/12x15-large-rooms-for-rent/6350908241.html</link>
+<description><![CDATA[Large rooms for rent near 55th pine..cable an internet ready clean spacious cat friendly an ready to rent ..call Charlie *** an tex or call anytime 125.00 a week utilities included call ***..]]></description>
+<dc:date>2017-10-18T10:11:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/12x15-large-rooms-for-rent/6350908241.html</dc:source>
+<dc:title><![CDATA[12x15 large rooms for rent (55 pine) &#x0024;500]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:11:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/roo/d/wanted-3rd-girl-to-share/6343666332.html">
+<title><![CDATA[Wanted 3rd girl to Share spacious, light-filled, fully furnished house (University City) &#x0024;675 1550ft<sup>2</sup>]]></title>
+<link>https://philadelphia.craigslist.org/roo/d/wanted-3rd-girl-to-share/6343666332.html</link>
+<description><![CDATA[We are looking for a third person to share a very nice, fully furnished house on a very nice residential block in University City with two very nice [yes, it triples] postgrad fellows at Penn. We'd like an all female house [while we still love all of ...]]></description>
+<dc:date>2017-10-18T10:10:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/roo/d/wanted-3rd-girl-to-share/6343666332.html</dc:source>
+<dc:title><![CDATA[Wanted 3rd girl to Share spacious, light-filled, fully furnished house (University City) &#x0024;675 1550ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01111_d9EXoO9KEi8_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:10:58-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

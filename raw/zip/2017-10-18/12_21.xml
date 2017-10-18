@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/zip?format=rss">
+<title>craigslist philadelphia | free stuff search </title>
+<link>https://philadelphia.craigslist.org/search/zip</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/zip?format=rss</dc:source>
+<dc:title>craigslist philadelphia | free stuff search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:16:28-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/vinyl-plastic-floor-mat/6344681414.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/60s-70s-table/6351013709.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/free-furniture/6351003296.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/luggage-set/6350991268.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/opaque-glass-2-pieces-115x72/6350987707.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/free-to-anyone/6350936917.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/decoupage-supplies-and-adult/6350965429.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/ikea-armoir-with-mirror/6350961628.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/wooden-armoir/6350961289.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/free-bricks-and-cinder-blocks/6350948715.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/free-bricks-and-cinder-blocks/6350942090.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/curb-alert/6350895222.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/vintage-large-dish-drainer/6339963952.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/samsung-txgcolor-tv-for-parts/6314256952.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/washer-and-dryer-for-scrap/6350882293.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/tree-house-updated/6319260310.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/gray-pvc-old-light-fixture/6350863093.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/free-adult-movies/6350862960.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/free-landscaping-stones/6350852762.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/5-large-trash-bags-of-wood/6350847174.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/cabinet-for-garage-nice-work/6350835107.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/sliding-boards/6350814290.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/free-scrap-metal-south/6350802953.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/wood-fence-sections-for-fire/6347447085.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/zip/d/skid-steer-tracks/6350790818.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/vinyl-plastic-floor-mat/6344681414.html">
+<title><![CDATA[Vinyl (plastic) Floor Mat (Carpet Protector) (21st & Walnut)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/vinyl-plastic-floor-mat/6344681414.html</link>
+<description><![CDATA[Vinyl/Plastic Floor Mat/Carpet Protector for desk chairs. 
+Heavy duty plastic. 
+Slightly yellowed, and with two small dents at the under-desk edge, but otherwise in great condition (no spot stains, rips, tears, or holes). 
+Great for home offices, or  ...]]></description>
+<dc:date>2017-10-18T11:15:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/vinyl-plastic-floor-mat/6344681414.html</dc:source>
+<dc:title><![CDATA[Vinyl (plastic) Floor Mat (Carpet Protector) (21st & Walnut)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01010_2iBd6T7VIKJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:15:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/60s-70s-table/6351013709.html">
+<title><![CDATA[60s-70s Table]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/60s-70s-table/6351013709.html</link>
+<description><![CDATA[Composite table (cracked) but functional with separate legs.]]></description>
+<dc:date>2017-10-18T11:14:16-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/60s-70s-table/6351013709.html</dc:source>
+<dc:title><![CDATA[60s-70s Table]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00L0L_8XdJ8S2P7MD_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:14:16-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/free-furniture/6351003296.html">
+<title><![CDATA[Free furniture (Collingdale)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/free-furniture/6351003296.html</link>
+<description><![CDATA[To be picked up tonight with help]]></description>
+<dc:date>2017-10-18T11:07:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/free-furniture/6351003296.html</dc:source>
+<dc:title><![CDATA[Free furniture (Collingdale)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00P0P_hjjaWF3HqwN_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:07:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/luggage-set/6350991268.html">
+<title><![CDATA[Luggage set (Narberth)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/luggage-set/6350991268.html</link>
+<description><![CDATA[American Tourister 24" and 26" matching rolling bags. Used but no problems. Zippers good.]]></description>
+<dc:date>2017-10-18T10:59:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/luggage-set/6350991268.html</dc:source>
+<dc:title><![CDATA[Luggage set (Narberth)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01717_cqacXFMdQdo_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:59:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/opaque-glass-2-pieces-115x72/6350987707.html">
+<title><![CDATA[Opaque Glass 2-Pieces 11.5"x72" - FREE (Rockledge)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/opaque-glass-2-pieces-115x72/6350987707.html</link>
+<description><![CDATA[Opaque Glass 2-Pieces 11.5"x72" from sidelights of our old front door - FREE 
+NO DAMAGE! 
+805 South Cedar Road 
+Rockledge, PA 19046 
+Fox Chase Road and Cedar Roads - JUST outside of Fox Chase in Philly - NEAR the Hollywood Tavern on Huntingdon Pike 
+ ...]]></description>
+<dc:date>2017-10-18T10:56:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/opaque-glass-2-pieces-115x72/6350987707.html</dc:source>
+<dc:title><![CDATA[Opaque Glass 2-Pieces 11.5"x72" - FREE (Rockledge)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00E0E_dCIr8sQ9oNh_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:56:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/free-to-anyone/6350936917.html">
+<title><![CDATA[FREE to ANYONE! (Philadelphia)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/free-to-anyone/6350936917.html</link>
+<description><![CDATA[There is help if you need it and it is totally free. You don't have to be too proud to ask for Christmas assistance. There are more kind spirits than you can believe in the our times. Those that need Christmas help and those that want to help please  ...]]></description>
+<dc:date>2017-10-18T10:44:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/free-to-anyone/6350936917.html</dc:source>
+<dc:title><![CDATA[FREE to ANYONE! (Philadelphia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:44:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/decoupage-supplies-and-adult/6350965429.html">
+<title><![CDATA[Decoupage supplies and adult coloring book (Chestnut Hill)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/decoupage-supplies-and-adult/6350965429.html</link>
+<description><![CDATA[A bunch of Mod Podge including plain matte, several sheer colors and glow in the dark, magazines to cut up, and a totally unused coloring book of geometric designs. Crafty folks come and get it!]]></description>
+<dc:date>2017-10-18T10:41:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/decoupage-supplies-and-adult/6350965429.html</dc:source>
+<dc:title><![CDATA[Decoupage supplies and adult coloring book (Chestnut Hill)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00k0k_2cDUKRlsIWP_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:41:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/ikea-armoir-with-mirror/6350961628.html">
+<title><![CDATA[Ikea armoir with mirror (Roxborough)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/ikea-armoir-with-mirror/6350961628.html</link>
+<description><![CDATA[Large 3 door Ikea armoir with center mirror. Has both a bar for hangers as well as shelves. In good shape, fully assembled. Will need a truck or van. 51"w x 75"h x 21"d]]></description>
+<dc:date>2017-10-18T10:38:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/ikea-armoir-with-mirror/6350961628.html</dc:source>
+<dc:title><![CDATA[Ikea armoir with mirror (Roxborough)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01313_cII7rgDAaLu_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:38:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/wooden-armoir/6350961289.html">
+<title><![CDATA[wooden armoir (Roxborough)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/wooden-armoir/6350961289.html</link>
+<description><![CDATA[Old wooden armoir, very solid with nice panel details. Hinges designed so that doors open and fold completely out of the way to the sides of the piece. 
+43"w x 81"h x 26"d]]></description>
+<dc:date>2017-10-18T10:38:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/wooden-armoir/6350961289.html</dc:source>
+<dc:title><![CDATA[wooden armoir (Roxborough)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01111_aLAGfatPLCR_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:38:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/free-bricks-and-cinder-blocks/6350948715.html">
+<title><![CDATA[free  ---  bricks and cinder blocks (pottstown, pa)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/free-bricks-and-cinder-blocks/6350948715.html</link>
+<description><![CDATA[free brick and cinder blocks. located on rt 100 in north Coventry, pa. jay ***]]></description>
+<dc:date>2017-10-18T10:29:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/free-bricks-and-cinder-blocks/6350948715.html</dc:source>
+<dc:title><![CDATA[free  ---  bricks and cinder blocks (pottstown, pa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:29:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/free-bricks-and-cinder-blocks/6350942090.html">
+<title><![CDATA[FREE - BRICKS AND CINDER BLOCKS (pottstown, pa)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/free-bricks-and-cinder-blocks/6350942090.html</link>
+<description><![CDATA[free -- we are demolishing our old building in 2 weeks. located on rt 100 in north Coventry. ***]]></description>
+<dc:date>2017-10-18T10:24:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/free-bricks-and-cinder-blocks/6350942090.html</dc:source>
+<dc:title><![CDATA[FREE - BRICKS AND CINDER BLOCKS (pottstown, pa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:24:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/curb-alert/6350895222.html">
+<title><![CDATA[Curb Alert!! (1327 Adams rd)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/curb-alert/6350895222.html</link>
+<description><![CDATA[Bookcase chair filing cabinet table 
+Come get it!]]></description>
+<dc:date>2017-10-18T09:49:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/curb-alert/6350895222.html</dc:source>
+<dc:title><![CDATA[Curb Alert!! (1327 Adams rd)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00000_bkxERqziyyg_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:49:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/vintage-large-dish-drainer/6339963952.html">
+<title><![CDATA[Vintage Large Dish Drainer w/defect (Exton Mall)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/vintage-large-dish-drainer/6339963952.html</link>
+<description><![CDATA[there is no drain board for underneath 
+pictured dish drainer w/silverware cup 17.5 x 13.75 x 5.5"; 
+defect: coating is coming off so there is some rust but it works fine 
+can meet inside parking lot entrance to food court at 5guys]]></description>
+<dc:date>2017-10-18T09:42:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/vintage-large-dish-drainer/6339963952.html</dc:source>
+<dc:title><![CDATA[Vintage Large Dish Drainer w/defect (Exton Mall)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00k0k_9R7TPEEkrkq_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:42:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/samsung-txgcolor-tv-for-parts/6314256952.html">
+<title><![CDATA[Samsung TXG2547 25" Color TV For Parts Not Working Salvage (Exton Mall)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/samsung-txgcolor-tv-for-parts/6314256952.html</link>
+<description><![CDATA[1997 Samsung TV for parts - salvage 
+Problem is a "Vertical Collapse": 
+turns on but only a horizontal line lights up in the center of the screen. 
+This is caused by a bad Vertical IC Chip or failed solder connections to this chip 
+TV is quite heavy. ...]]></description>
+<dc:date>2017-10-18T09:41:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/samsung-txgcolor-tv-for-parts/6314256952.html</dc:source>
+<dc:title><![CDATA[Samsung TXG2547 25" Color TV For Parts Not Working Salvage (Exton Mall)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00f0f_ckkwzx07aaF_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:41:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/washer-and-dryer-for-scrap/6350882293.html">
+<title><![CDATA[Washer and dryer for scrap metal]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/washer-and-dryer-for-scrap/6350882293.html</link>
+<description><![CDATA[I have a free washer and dryer. They might work, but it's safer to assume that they are just good for scrap metal. Must remove from the basement. There is a catch. You must remove an armchair that I don't need as well.]]></description>
+<dc:date>2017-10-18T09:38:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/washer-and-dryer-for-scrap/6350882293.html</dc:source>
+<dc:title><![CDATA[Washer and dryer for scrap metal]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00L0L_j38k2D8Lprg_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:38:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/tree-house-updated/6319260310.html">
+<title><![CDATA[Tree House ***Updated*** (Glen Mills)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/tree-house-updated/6319260310.html</link>
+<description><![CDATA[In exchange for same day removal we are offering free Tree House. The house is already disassembled, however roof is not salvageable. 
+We are asking that the supports be cut at the ground level and removed along with the platform upon which the tree  ...]]></description>
+<dc:date>2017-10-18T09:26:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/tree-house-updated/6319260310.html</dc:source>
+<dc:title><![CDATA[Tree House ***Updated*** (Glen Mills)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00S0S_fiJMSCVXDO5_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:26:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/gray-pvc-old-light-fixture/6350863093.html">
+<title><![CDATA[gray pvc /old light fixture globes paint  more (croydon pa)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/gray-pvc-old-light-fixture/6350863093.html</link>
+<description><![CDATA[pc of gray pvc diffrent sizes / old light fixture globes/ t12 light bulbs they work good paint and more 913 rosa ave out at cerb please be neat]]></description>
+<dc:date>2017-10-18T09:22:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/gray-pvc-old-light-fixture/6350863093.html</dc:source>
+<dc:title><![CDATA[gray pvc /old light fixture globes paint  more (croydon pa)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00N0N_bp5a9I4kLd0_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:22:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/free-adult-movies/6350862960.html">
+<title><![CDATA[Free adult movies (South philadelphia)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/free-adult-movies/6350862960.html</link>
+<description><![CDATA[I'm cleaning out my house and my brother had a collection of maybe a couple hundred adult dvds and vhs mostly dvd. He had a bad habit of hoarding them and I need them gone today no questions asked. If you have a way to pick them up feel free to conta ...]]></description>
+<dc:date>2017-10-18T09:22:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/free-adult-movies/6350862960.html</dc:source>
+<dc:title><![CDATA[Free adult movies (South philadelphia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T09:22:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/free-landscaping-stones/6350852762.html">
+<title><![CDATA[Free landscaping stones (Croydon)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/free-landscaping-stones/6350852762.html</link>
+<description><![CDATA[Free landscaping stones!! Several different types and colors you must pick up and remove take all or as much as you want]]></description>
+<dc:date>2017-10-18T09:13:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/free-landscaping-stones/6350852762.html</dc:source>
+<dc:title><![CDATA[Free landscaping stones (Croydon)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00808_2Ht5VOLGrss_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:13:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/5-large-trash-bags-of-wood/6350847174.html">
+<title><![CDATA[5 large trash bags of wood chips&10 5 gal. Buckets of Black mulch (Bala Cynwyd  Pa)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/5-large-trash-bags-of-wood/6350847174.html</link>
+<description><![CDATA[Free 5 large trash bags of wood chips 
+10 --5 galllon buckets of black mulch 
+Text me and come get it !!! 
+Looking for a quick pick up !!! 
+Thanks , 
+Glenn]]></description>
+<dc:date>2017-10-18T09:08:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/5-large-trash-bags-of-wood/6350847174.html</dc:source>
+<dc:title><![CDATA[5 large trash bags of wood chips&10 5 gal. Buckets of Black mulch (Bala Cynwyd  Pa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T09:08:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/cabinet-for-garage-nice-work/6350835107.html">
+<title><![CDATA[CABINET FOR GARAGE -NICE WORK TOP (warrington)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/cabinet-for-garage-nice-work/6350835107.html</link>
+<description><![CDATA[CABINET FOR GARAGE USE , NICE FORMICA COUNTERTOP FOR WORK BENCH -FAIRLY HEAVY. MEASURES AROUND 48 W- 25 D - 36 H]]></description>
+<dc:date>2017-10-18T08:55:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/cabinet-for-garage-nice-work/6350835107.html</dc:source>
+<dc:title><![CDATA[CABINET FOR GARAGE -NICE WORK TOP (warrington)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00606_kUw2yBMx3xf_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:55:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/sliding-boards/6350814290.html">
+<title><![CDATA[Sliding boards (Chalfont)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/sliding-boards/6350814290.html</link>
+<description><![CDATA[Let me know if you want them, otherwise they're in the trash tomorrow.]]></description>
+<dc:date>2017-10-18T08:30:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/sliding-boards/6350814290.html</dc:source>
+<dc:title><![CDATA[Sliding boards (Chalfont)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00I0I_kY6GdslYfSm_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:30:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/free-scrap-metal-south/6350802953.html">
+<title><![CDATA[free scrap metal (south Philadelphia)/oil tank (Grays ferry)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/free-scrap-metal-south/6350802953.html</link>
+<description><![CDATA[free scrap metal: Oil tank 
+Please leave your phone number. 
+Thanks]]></description>
+<dc:date>2017-10-18T08:14:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/free-scrap-metal-south/6350802953.html</dc:source>
+<dc:title><![CDATA[free scrap metal (south Philadelphia)/oil tank (Grays ferry)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T08:14:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/wood-fence-sections-for-fire/6347447085.html">
+<title><![CDATA[Wood fence sections for fire pit (Abington, Pa)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/wood-fence-sections-for-fire/6347447085.html</link>
+<description><![CDATA[Pine fence sections 
+Cut into approximately 5 foot by 3 foot sections 
+Take as many as you want 
+Not suitable to use as fencing]]></description>
+<dc:date>2017-10-18T07:57:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/wood-fence-sections-for-fire/6347447085.html</dc:source>
+<dc:title><![CDATA[Wood fence sections for fire pit (Abington, Pa)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00M0M_9NfAmzDVlff_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:57:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/zip/d/skid-steer-tracks/6350790818.html">
+<title><![CDATA[Skid Steer Tracks (1965 Byberry Rd)]]></title>
+<link>https://philadelphia.craigslist.org/zip/d/skid-steer-tracks/6350790818.html</link>
+<description><![CDATA[Construction business is giving away approximately 5 sets of used skid steer tracks, free for the taking.]]></description>
+<dc:date>2017-10-18T07:56:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/zip/d/skid-steer-tracks/6350790818.html</dc:source>
+<dc:title><![CDATA[Skid Steer Tracks (1965 Byberry Rd)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00g0g_1XQtzinAam3_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:56:13-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/wta?format=rss">
+<title>craigslist philadelphia | auto wheels &#x26; tires search </title>
+<link>https://philadelphia.craigslist.org/search/wta</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/wta?format=rss</dc:source>
+<dc:title>craigslist philadelphia | auto wheels &#x26; tires search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:36-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/selling-4-original-rims-from/6344918570.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/for-sale-4-gorgeous-rims-for/6351012095.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/snow-tiresmichelin-pilot/6342125456.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/sprinter-2-winter-snow-cooper/6340511580.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/atv-tires/6317014747.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/e30-rial-classic-5-spoke/6336646403.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/spare-tire-on-rim/6315678021.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wtd/d/15-20-inch-new-tire-sale-free/6350930398.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wtd/d/49-down-brand-new-tires-any/6350927433.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/new-tires-on-rimsr16-95h-ms/6350915188.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/dodge-magnum-wagon-wheels/6350888095.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/toyota-mr2-wheels/6350886758.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/hankook-winter-tiresr15/6343547219.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/rims-chrome-20/6316460761.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/15-gm-steel-rims-and-tiresr15/6347788973.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/buick-regal-wheel-cover/6350875279.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/15-snap-on-plastic-hubcaps/6350874124.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/35-tireswith-wheels-for-f150/6350848954.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/ohtsu-tires-excellent/6350848613.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/falken-wildpeak-t-8-ply-tires/6350848035.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/jeep-wheels-and-tires/6350845983.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/jeep-wheels-and-tires/6350845595.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/17x95-5x475-corvette-style-c4/6312735011.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/vw-wheels-tires/6345857565.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/wto/d/mickey-thompson-sportsman-r/6318408507.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/selling-4-original-rims-from/6344918570.html">
+<title><![CDATA[Selling (4) Original RIMS from 2015 Dodge Durango AWD 4dr Limited SUV (Fairless Hills, PA) &#x0024;500]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/selling-4-original-rims-from/6344918570.html</link>
+<description><![CDATA[Selling (4) ORIGINAL Rims from our 2015 Dodge Durango AWD 4dr Limited vehicle. 
+They were removed from vehicle ONE month after purchasing it and they have been stored in our shed ever since. 
+I am trying to make room so I am selling LOW..... 
+Price i ...]]></description>
+<dc:date>2017-10-18T11:16:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/selling-4-original-rims-from/6344918570.html</dc:source>
+<dc:title><![CDATA[Selling (4) Original RIMS from 2015 Dodge Durango AWD 4dr Limited SUV (Fairless Hills, PA) &#x0024;500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00U0U_lSNWic3hOhM_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:16:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/for-sale-4-gorgeous-rims-for/6351012095.html">
+<title><![CDATA[FOR SALE (4) GORGEOUS RIMS for 2015 Dodge Durango AWD 4dr Limited SUV (Fairless Hills, PA) &#x0024;500]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/for-sale-4-gorgeous-rims-for/6351012095.html</link>
+<description><![CDATA[Selling (4) ORIGINAL Rims from our 2015 Dodge Durango AWD 4dr Limited vehicle. 
+They were removed from vehicle ONE month after purchasing it and they have been stored in our shed ever since. 
+I am trying to make room so I am selling LOW..... 
+Price i ...]]></description>
+<dc:date>2017-10-18T11:13:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/for-sale-4-gorgeous-rims-for/6351012095.html</dc:source>
+<dc:title><![CDATA[FOR SALE (4) GORGEOUS RIMS for 2015 Dodge Durango AWD 4dr Limited SUV (Fairless Hills, PA) &#x0024;500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00q0q_3LE3wAraRHB_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:13:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/snow-tiresmichelin-pilot/6342125456.html">
+<title><![CDATA[Snow tires 225/50/17 Michelin Pilot Alpine Good tread Best Offer &#x0024;125]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/snow-tiresmichelin-pilot/6342125456.html</link>
+<description><![CDATA[Michelin Pilot Alpine tires with good tread 
+I have 3 of them but one has a cut in the side wall, it was still running fine and holding air when i noticed it but I'm really just selling the 2 good ones and you can have that third one for free. 
+225/5 ...]]></description>
+<dc:date>2017-10-18T11:12:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/snow-tiresmichelin-pilot/6342125456.html</dc:source>
+<dc:title><![CDATA[Snow tires 225/50/17 Michelin Pilot Alpine Good tread Best Offer &#x0024;125]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00J0J_99BZExKZoE7_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:12:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/sprinter-2-winter-snow-cooper/6340511580.html">
+<title><![CDATA[sprinter 2 WINTER SNOW COOPER STUDDED Tires (NE Philadelphia) &#x0024;150]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/sprinter-2-winter-snow-cooper/6340511580.html</link>
+<description><![CDATA[2 studded M+S tires. Set of 2. 7-8/32. 
+DODGE, FREIGHTLINER, MB. 
+LT 225/75/R16]]></description>
+<dc:date>2017-10-18T10:36:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/sprinter-2-winter-snow-cooper/6340511580.html</dc:source>
+<dc:title><![CDATA[sprinter 2 WINTER SNOW COOPER STUDDED Tires (NE Philadelphia) &#x0024;150]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00F0F_4tM0o81oAFV_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:36:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/atv-tires/6317014747.html">
+<title><![CDATA[Atv tires (Feasterville) &#x0024;40]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/atv-tires/6317014747.html</link>
+<description><![CDATA[Factory Yamaha warrior tires Dunlop 22x7x10 still have descent tread on them no plugs or holes if interested please call or text me at *** name's gene. CASH N CARRY. NO SCAMMERS!!!!]]></description>
+<dc:date>2017-10-18T10:29:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/atv-tires/6317014747.html</dc:source>
+<dc:title><![CDATA[Atv tires (Feasterville) &#x0024;40]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00W0W_hbvgHiG16I3_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:29:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/e30-rial-classic-5-spoke/6336646403.html">
+<title><![CDATA[E30 Rial Classic 5 Spoke Wheels 15x7  - Period Correct (Wilmington DE) &#x0024;300]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/e30-rial-classic-5-spoke/6336646403.html</link>
+<description><![CDATA[This is a rare set of German Rial wheels with the correct 4X100 bolt pattern and offset for the BMW E30. The wheel specifications are 15X7 ET 18. The wheels are in very good overall condition - with one center cap having a chip on one side. These are ...]]></description>
+<dc:date>2017-10-18T10:21:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/e30-rial-classic-5-spoke/6336646403.html</dc:source>
+<dc:title><![CDATA[E30 Rial Classic 5 Spoke Wheels 15x7  - Period Correct (Wilmington DE) &#x0024;300]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01616_hiqBbhQb8YS_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:21:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/spare-tire-on-rim/6315678021.html">
+<title><![CDATA[Spare tire on rim (Bensalem) &#x0024;40]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/spare-tire-on-rim/6315678021.html</link>
+<description><![CDATA[This tire is like new it's for a ford pick up . Size of tire is P-205/75R15 My name is Harry phone is *** It's ready to go on your truck]]></description>
+<dc:date>2017-10-18T10:17:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/spare-tire-on-rim/6315678021.html</dc:source>
+<dc:title><![CDATA[Spare tire on rim (Bensalem) &#x0024;40]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00z0z_lKILgWGwSsY_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:17:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wtd/d/15-20-inch-new-tire-sale-free/6350930398.html">
+<title><![CDATA[15 - 20 Inch New Tire Sale * FREE INSTALL* NO CREDIT FINANCE $49 DOWN (Ne Phila - Tire Giants)]]></title>
+<link>https://philadelphia.craigslist.org/wtd/d/15-20-inch-new-tire-sale-free/6350930398.html</link>
+<description><![CDATA[Tire Giants 
+New and Used Tire Super Warehouse 
+8301 Torresdale Avenue, Unit 11 
+Philadelphia, Pa 19136 
+(Located in rear of Holmesburg Business Park) 
+*** 
+*More than 5000 Used Tires in stock 
+*Guarantee to pass any state or lease return inspection  ...]]></description>
+<dc:date>2017-10-18T10:15:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wtd/d/15-20-inch-new-tire-sale-free/6350930398.html</dc:source>
+<dc:title><![CDATA[15 - 20 Inch New Tire Sale * FREE INSTALL* NO CREDIT FINANCE $49 DOWN (Ne Phila - Tire Giants)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00t0t_erRSMFaOSDa_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:15:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wtd/d/49-down-brand-new-tires-any/6350927433.html">
+<title><![CDATA[$49 Down * Brand New Tires ** ANY SIZE********* (Ne Phila - Tire Giants) &#x0024;49]]></title>
+<link>https://philadelphia.craigslist.org/wtd/d/49-down-brand-new-tires-any/6350927433.html</link>
+<description><![CDATA[TIRE GIANTS 
+NEW and USED TIRE SUPER WAREHOUSE 
+8301 TORRESDALE AVENUE #11 
+PHILA PA 19136 
+*** 
+WWW.TIREGIANTS.COM 
+WE WILL SHIP TO YOUR DOORSTEP!! 
+*** FREE INSTALL FOR LOCAL CUSTOMERS THAT COME IN FOR PICK-UP ******** 
+100% NO CREDIT CHECK FINANCE ...]]></description>
+<dc:date>2017-10-18T10:13:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wtd/d/49-down-brand-new-tires-any/6350927433.html</dc:source>
+<dc:title><![CDATA[$49 Down * Brand New Tires ** ANY SIZE********* (Ne Phila - Tire Giants) &#x0024;49]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01111_ahSGBPR5uc2_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:13:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/new-tires-on-rimsr16-95h-ms/6350915188.html">
+<title><![CDATA[New Tires on Rims - 215/60R16 95H M&S (Lansdale) &#x0024;300]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/new-tires-on-rimsr16-95h-ms/6350915188.html</link>
+<description><![CDATA[Set of Like NEW Sumic GT60A = 215/60R16 95H M&amp;S tires. These tires are off a 2004 Mercury Sable. Rims are in very good condition. If interested please call *** or email. This number does not receive texts.]]></description>
+<dc:date>2017-10-18T10:04:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/new-tires-on-rimsr16-95h-ms/6350915188.html</dc:source>
+<dc:title><![CDATA[New Tires on Rims - 215/60R16 95H M&S (Lansdale) &#x0024;300]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00X0X_56F7qhVxnc0_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:04:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/dodge-magnum-wagon-wheels/6350888095.html">
+<title><![CDATA[Dodge Magnum wagon wheels &#x0024;200]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/dodge-magnum-wagon-wheels/6350888095.html</link>
+<description><![CDATA[4 Dodge Magnum wagon wheels for sale]]></description>
+<dc:date>2017-10-18T09:43:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/dodge-magnum-wagon-wheels/6350888095.html</dc:source>
+<dc:title><![CDATA[Dodge Magnum wagon wheels &#x0024;200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00M0M_e7XPIAVRqZX_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:43:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/toyota-mr2-wheels/6350886758.html">
+<title><![CDATA[Toyota MR2 Wheels &#x0024;200]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/toyota-mr2-wheels/6350886758.html</link>
+<description><![CDATA[2001 Toyota MR2 four wheels]]></description>
+<dc:date>2017-10-18T09:42:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/toyota-mr2-wheels/6350886758.html</dc:source>
+<dc:title><![CDATA[Toyota MR2 Wheels &#x0024;200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00T0T_fQahPCkGrfl_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:42:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/hankook-winter-tiresr15/6343547219.html">
+<title><![CDATA[Hankook winter tires 195/65 r15 &#x0024;150]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/hankook-winter-tiresr15/6343547219.html</link>
+<description><![CDATA[Four hankook winter tires, used for 2 season and plenty of tread life left. Got a different car and won't be able to use this year. $150 obo]]></description>
+<dc:date>2017-10-18T09:39:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/hankook-winter-tiresr15/6343547219.html</dc:source>
+<dc:title><![CDATA[Hankook winter tires 195/65 r15 &#x0024;150]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00D0D_hm5y9IRpT6C_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:39:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/rims-chrome-20/6316460761.html">
+<title><![CDATA[rims chrome 20" (levittown) &#x0024;400]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/rims-chrome-20/6316460761.html</link>
+<description><![CDATA[Good condition..used..very little flaking. N pitting..20" chrome rims.wheels.5 lugs universal..with very nice tires w.good tread...nantang...275/55/20...asking$$$400.mustgo asap...oe trade for something of same value..thx..]]></description>
+<dc:date>2017-10-18T09:38:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/rims-chrome-20/6316460761.html</dc:source>
+<dc:title><![CDATA[rims chrome 20" (levittown) &#x0024;400]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00101_klpHi35LoMB_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:38:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/15-gm-steel-rims-and-tiresr15/6347788973.html">
+<title><![CDATA[15" GM Steel Rims and Tires 215/70R15 (Drexel Hill)]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/15-gm-steel-rims-and-tiresr15/6347788973.html</link>
+<description><![CDATA[Three 15" General Motors Steel Rims and Tires 215/70/R15 
+One 15" General Motors Steel Rim 
+These are from a 99 Buick Regal and the Rim will fit many other GM vehicles (see list) 
+The Rim has a 5 x 115 bolt pattern and has 20 holes 
+The Tires are Fir ...]]></description>
+<dc:date>2017-10-18T09:35:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/15-gm-steel-rims-and-tiresr15/6347788973.html</dc:source>
+<dc:title><![CDATA[15" GM Steel Rims and Tires 215/70R15 (Drexel Hill)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00c0c_69CjfYuwDAy_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:35:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/buick-regal-wheel-cover/6350875279.html">
+<title><![CDATA[15"  1998-2004 BUICK REGAL WHEEL COVER HUBCAP 7-SLOT TYPE (Drexel Hill) &#x0024;40]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/buick-regal-wheel-cover/6350875279.html</link>
+<description><![CDATA[Here are 4 original (used)bolt on hubcaps for the 1998-2004 Buick Regal. This is the 15 inch, 7 spoke bolt on hubcap. 
+All the lug caps are Included!! 
+All lug nuts for wheel also included! 
+Color is silver but some areas where paint has peeled off.  ...]]></description>
+<dc:date>2017-10-18T09:33:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/buick-regal-wheel-cover/6350875279.html</dc:source>
+<dc:title><![CDATA[15"  1998-2004 BUICK REGAL WHEEL COVER HUBCAP 7-SLOT TYPE (Drexel Hill) &#x0024;40]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00v0v_a262E5BeIsi_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:33:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/15-snap-on-plastic-hubcaps/6350874124.html">
+<title><![CDATA[15" Snap on plastic Hubcaps (Drexel Hill) &#x0024;10]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/15-snap-on-plastic-hubcaps/6350874124.html</link>
+<description><![CDATA[Two 15" Snap-on plastic Hubcaps 
+Good condition 
+$10 cash on pick-up for both ]]></description>
+<dc:date>2017-10-18T09:32:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/15-snap-on-plastic-hubcaps/6350874124.html</dc:source>
+<dc:title><![CDATA[15" Snap on plastic Hubcaps (Drexel Hill) &#x0024;10]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00r0r_ygPqIktGXb_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:32:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/35-tireswith-wheels-for-f150/6350848954.html">
+<title><![CDATA[35" Tires (325/70/17) with Wheels for F150 6 Lug (Huntingdon Valley) &#x0024;1200]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/35-tireswith-wheels-for-f150/6350848954.html</link>
+<description><![CDATA[I have a set of 4 tires with wheels, for a Ford truck with 6 lugs, Expedition or Navigator, 2003 and newer, F150's, 2004 and newer. These are in LIKE NEW CONDITION. I removed these from my truck after getting a set of 2015 20" wheels. The tires have  ...]]></description>
+<dc:date>2017-10-18T09:09:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/35-tireswith-wheels-for-f150/6350848954.html</dc:source>
+<dc:title><![CDATA[35" Tires (325/70/17) with Wheels for F150 6 Lug (Huntingdon Valley) &#x0024;1200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01616_jRj4UKlDDmW_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:09:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/ohtsu-tires-excellent/6350848613.html">
+<title><![CDATA[285 70 17 Ohtsu Tires Excellent Condition (Huntingdon Valley) &#x0024;450]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/ohtsu-tires-excellent/6350848613.html</link>
+<description><![CDATA[I have a set of (4) 285/70/17 tires, all in excellent condition, for $450.00, wheels not included. I put larger tires on my truck shortly after putting these on. Please call if interested]]></description>
+<dc:date>2017-10-18T09:09:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/ohtsu-tires-excellent/6350848613.html</dc:source>
+<dc:title><![CDATA[285 70 17 Ohtsu Tires Excellent Condition (Huntingdon Valley) &#x0024;450]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00l0l_eflTZj9753v_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:09:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/falken-wildpeak-t-8-ply-tires/6350848035.html">
+<title><![CDATA[325 70 17 (35") Falken WILDPEAK A/T 8-ply Tires NEW (Huntingdon Valley) &#x0024;750]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/falken-wildpeak-t-8-ply-tires/6350848035.html</link>
+<description><![CDATA[This is a BRAND NEW SET of (4) 325/70/17 Falken Wildpeak A/T 8-Ply tires. These are the same as 35/12.50/17 Yes, they are brand new. The price is firm at $750 total for the set of 4.]]></description>
+<dc:date>2017-10-18T09:08:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/falken-wildpeak-t-8-ply-tires/6350848035.html</dc:source>
+<dc:title><![CDATA[325 70 17 (35") Falken WILDPEAK A/T 8-ply Tires NEW (Huntingdon Valley) &#x0024;750]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01414_7WjyEMsv3b3_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:08:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/jeep-wheels-and-tires/6350845983.html">
+<title><![CDATA[Jeep wheels and tires (Medford) &#x0024;300]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/jeep-wheels-and-tires/6350845983.html</link>
+<description><![CDATA[Five 2012 Jeep JK wheels and tires]]></description>
+<dc:date>2017-10-18T09:06:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/jeep-wheels-and-tires/6350845983.html</dc:source>
+<dc:title><![CDATA[Jeep wheels and tires (Medford) &#x0024;300]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00z0z_d85s9QnXjmb_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:06:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/jeep-wheels-and-tires/6350845595.html">
+<title><![CDATA[Jeep wheels and tires &#x0024;300]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/jeep-wheels-and-tires/6350845595.html</link>
+<description><![CDATA[1994 Jeep Wrangler YJ six wheels for tire]]></description>
+<dc:date>2017-10-18T09:06:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/jeep-wheels-and-tires/6350845595.html</dc:source>
+<dc:title><![CDATA[Jeep wheels and tires &#x0024;300]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01212_cYGbJjomaFL_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:06:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/17x95-5x475-corvette-style-c4/6312735011.html">
+<title><![CDATA[17x9.5  5x4.75 Corvette style C4 5 spoke chrome rims (Sanatoga) &#x0024;300]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/17x95-5x475-corvette-style-c4/6312735011.html</link>
+<description><![CDATA[17x9.5 
+5x4.75 
++54mm offset 
+Corvette style C4 5 spoke chrome rims 
+These are not original corvette rims to my knowledge but they might be. They have manufacture date of 1999, made in USA. 
+No lug nuts included 
+No curb rash 
+But the chrome is peeli ...]]></description>
+<dc:date>2017-10-18T09:01:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/17x95-5x475-corvette-style-c4/6312735011.html</dc:source>
+<dc:title><![CDATA[17x9.5  5x4.75 Corvette style C4 5 spoke chrome rims (Sanatoga) &#x0024;300]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00v0v_lw1tp2rOOxX_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:01:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/vw-wheels-tires/6345857565.html">
+<title><![CDATA[VW wheels + tires (Philadelphia) &#x0024;240]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/vw-wheels-tires/6345857565.html</link>
+<description><![CDATA[Stock alloy wheels from A4 vw 
+5x100 mm bolt pattern]]></description>
+<dc:date>2017-10-18T08:58:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/vw-wheels-tires/6345857565.html</dc:source>
+<dc:title><![CDATA[VW wheels + tires (Philadelphia) &#x0024;240]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00E0E_3KP1WLpxkRu_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:58:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/wto/d/mickey-thompson-sportsman-r/6318408507.html">
+<title><![CDATA[Mickey Thompson Sportsman S/R Tires 90000000229 LT 24x5R15 Radial NEW (HATBORO) &#x0024;100]]></title>
+<link>https://philadelphia.craigslist.org/wto/d/mickey-thompson-sportsman-r/6318408507.html</link>
+<description><![CDATA[Mickey Thompson Sportsman S/R Tires 90000000229 
+LT 24x5R15, Radial NEW 
+Retails for $175 we are selling for $100]]></description>
+<dc:date>2017-10-18T08:55:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/wto/d/mickey-thompson-sportsman-r/6318408507.html</dc:source>
+<dc:title><![CDATA[Mickey Thompson Sportsman S/R Tires 90000000229 LT 24x5R15 Radial NEW (HATBORO) &#x0024;100]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00B0B_lmlRQysK3JK_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:55:52-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

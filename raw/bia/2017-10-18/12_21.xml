@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/bia?format=rss">
+<title>craigslist philadelphia | bicycles search </title>
+<link>https://philadelphia.craigslist.org/search/bia</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/bia?format=rss</dc:source>
+<dc:title>craigslist philadelphia | bicycles search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:31-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/allen-mt-2-compact-folding-2/6351017669.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/for-sale-gray-marin-larkspur/6344682523.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/big-fatty-electric-cruiser/6333754605.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/specialized-54inch-bike/6327867355.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/haro-bmx-bike/6350981494.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/trek-mountain-bikes-2-of-them/6350972523.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/pacific-20-6-speed-jubilee/6350971288.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/western-flyermiss-buzz/6350955104.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/18-speed-free-spirit/6350953324.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/trek-remedy-trail-bike/6317027890.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/redline-covet-bmx/6317033527.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/real-chopper-bike-on/6348092620.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/all-city-nature-boy-56cm/6350916535.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/masi-1988-gran-criterium-54cm/6326494515.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/vintage-schwinn-exercise-bike/6350895489.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/schwinn-chicago-10-speed-12000/6331529325.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/26-inch-cruiser-12500/6331405966.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/womens-cruiser-bike-size/6343539127.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/ridley-fire-carbon-cyclocross/6337521899.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/trek-hybrid/6339491016.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/schwinn-varsity-womens-vintage/6337470205.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/folding-bike-barely-used/6350855782.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/several-boys-and-girls-bikes/6350855131.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/fuji-newest-50cm-road-bike/6329372274.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/bik/d/bridgestone-100-road-bike/6341627069.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/allen-mt-2-compact-folding-2/6351017669.html">
+<title><![CDATA[Allen MT-2 Compact Folding 2-Bike Rack for Cars or SUVs - Fits Most! (Swedesboro, NJ) &#x0024;40]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/allen-mt-2-compact-folding-2/6351017669.html</link>
+<description><![CDATA[I have two (2) Allen Sports MT-2 Ultra Compact Folding 2-Bike Trunk or SUV bike racks NEW IN BOX. Asking $40/each. 
+I'm about 40 mins from the actual city of philly, but willing to travel to meet you to sell a rack. (I'm just across the border in NJ. ...]]></description>
+<dc:date>2017-10-18T11:16:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/allen-mt-2-compact-folding-2/6351017669.html</dc:source>
+<dc:title><![CDATA[Allen MT-2 Compact Folding 2-Bike Rack for Cars or SUVs - Fits Most! (Swedesboro, NJ) &#x0024;40]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00i0i_fabwI6HNKZj_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:16:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/for-sale-gray-marin-larkspur/6344682523.html">
+<title><![CDATA[For Sale: Gray Marin Larkspur 24-speed Bicycle (21st and Walnut) &#x0024;125]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/for-sale-gray-marin-larkspur/6344682523.html</link>
+<description><![CDATA[For Sale: Gray color Marin Larkspur Bicycle 
+**Now for under appraised value!** 
+Used bike, but still in good condition. I've still been riding it regularly, but it's just time for an upgrade for myself. 
+It will need a tune-up, but should still last ...]]></description>
+<dc:date>2017-10-18T11:16:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/for-sale-gray-marin-larkspur/6344682523.html</dc:source>
+<dc:title><![CDATA[For Sale: Gray Marin Larkspur 24-speed Bicycle (21st and Walnut) &#x0024;125]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00v0v_2NGVoFsDaCM_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:16:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/big-fatty-electric-cruiser/6333754605.html">
+<title><![CDATA[Big Fatty Electric Cruiser (Philadelphia)]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/big-fatty-electric-cruiser/6333754605.html</link>
+<description><![CDATA[CLOSE OUT ALL 2017 MSRP $3999 BIKE MODELS.... NOW $2599. ONLY A FEW LEFT IN STOCK. Need room for 2018's. While supplies last get a FREE RACK and FLAT ATTACK tire sealant. 
+http://equalizerelectricbicycles.com 
+These E-bikes come with more High Qualit ...]]></description>
+<dc:date>2017-10-18T11:16:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/big-fatty-electric-cruiser/6333754605.html</dc:source>
+<dc:title><![CDATA[Big Fatty Electric Cruiser (Philadelphia)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00909_kVU694TdRqD_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:16:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/specialized-54inch-bike/6327867355.html">
+<title><![CDATA[Specialized 54inch bike (Phila/nj) &#x0024;900]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/specialized-54inch-bike/6327867355.html</link>
+<description><![CDATA[Fantastic bike for sale. Brand new. No more than 200 miles, tires are still fresh. It's a specialized 54inch frame with thin low profile tires. It's an amazing ride. Shoot me a text if ur interested *** I'll also throw in the bike rack for ya car for ...]]></description>
+<dc:date>2017-10-18T11:13:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/specialized-54inch-bike/6327867355.html</dc:source>
+<dc:title><![CDATA[Specialized 54inch bike (Phila/nj) &#x0024;900]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00909_kq83HtDdQba_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:13:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/haro-bmx-bike/6350981494.html">
+<title><![CDATA[Haro bmx bike (northeast philly) &#x0024;125]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/haro-bmx-bike/6350981494.html</link>
+<description><![CDATA[selling a haro bmx bike 
+good condition, brakes work well and tires are in good shape 
+comes with front and back pegs 
+if interested text ***]]></description>
+<dc:date>2017-10-18T10:52:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/haro-bmx-bike/6350981494.html</dc:source>
+<dc:title><![CDATA[Haro bmx bike (northeast philly) &#x0024;125]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00y0y_lEuToPxpZrt_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:52:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/trek-mountain-bikes-2-of-them/6350972523.html">
+<title><![CDATA[Trek Mountain Bikes (2 of them!) (Springfield) &#x0024;295]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/trek-mountain-bikes-2-of-them/6350972523.html</link>
+<description><![CDATA[I am selling 2 Treck 3500 Series mountain bikes for $295 a piece. They are the same series bicycle but one the gray is a larger frame size than the blue. 
+Looking to sell as soon as possible! 
+Gray - 19.5" fram size (comes with small mounted bike pum ...]]></description>
+<dc:date>2017-10-18T10:46:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/trek-mountain-bikes-2-of-them/6350972523.html</dc:source>
+<dc:title><![CDATA[Trek Mountain Bikes (2 of them!) (Springfield) &#x0024;295]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00W0W_1sb8iDsY5Cp_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:46:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/pacific-20-6-speed-jubilee/6350971288.html">
+<title><![CDATA[Pacific 20" - 6 speed Jubilee Bike (Bensalem) &#x0024;35]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/pacific-20-6-speed-jubilee/6350971288.html</link>
+<description><![CDATA[Horn not included.]]></description>
+<dc:date>2017-10-18T10:45:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/pacific-20-6-speed-jubilee/6350971288.html</dc:source>
+<dc:title><![CDATA[Pacific 20" - 6 speed Jubilee Bike (Bensalem) &#x0024;35]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00n0n_9zmVNkcQKdF_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:45:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/western-flyermiss-buzz/6350955104.html">
+<title><![CDATA[Western Flyer"Miss Buzz Bicycle"Single speed Bike (Coatesville) &#x0024;75]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/western-flyermiss-buzz/6350955104.html</link>
+<description><![CDATA[Serviced and Detailed 
+Ready to Ride 
+***/Joel]]></description>
+<dc:date>2017-10-18T10:33:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/western-flyermiss-buzz/6350955104.html</dc:source>
+<dc:title><![CDATA[Western Flyer"Miss Buzz Bicycle"Single speed Bike (Coatesville) &#x0024;75]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01313_eJcz6MzlhYW_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:33:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/18-speed-free-spirit/6350953324.html">
+<title><![CDATA[18 Speed Free Spirit (ROXBOROUGH) &#x0024;50]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/18-speed-free-spirit/6350953324.html</link>
+<description><![CDATA[All it needs is air in the tires]]></description>
+<dc:date>2017-10-18T10:32:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/18-speed-free-spirit/6350953324.html</dc:source>
+<dc:title><![CDATA[18 Speed Free Spirit (ROXBOROUGH) &#x0024;50]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00O0O_lVzlhN2U91B_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:32:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/trek-remedy-trail-bike/6317027890.html">
+<title><![CDATA[Trek Remedy Trail Bike (Delco) &#x0024;1500]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/trek-remedy-trail-bike/6317027890.html</link>
+<description><![CDATA[Trek Remedy 18.5 
+27.5 wheels tubeless setup 
+Dropper post 
+Hydraulic disk brakes 
+1x10 drivetrain 
+Race face pedals 
+1500 firm 
+I don't care what bicycle blue book says!! 
+Call or text ***]]></description>
+<dc:date>2017-10-18T10:29:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/trek-remedy-trail-bike/6317027890.html</dc:source>
+<dc:title><![CDATA[Trek Remedy Trail Bike (Delco) &#x0024;1500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00707_2nvLL4h6RYM_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:29:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/redline-covet-bmx/6317033527.html">
+<title><![CDATA[Redline Covet Bmx (Delco) &#x0024;275]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/redline-covet-bmx/6317033527.html</link>
+<description><![CDATA[Redline covet full chromoly frame. 
+New wheels 
+3 PC crank 
+4 PC bars 
+Odyssey pedals and pegs 
+$275 
+Call or text ***]]></description>
+<dc:date>2017-10-18T10:29:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/redline-covet-bmx/6317033527.html</dc:source>
+<dc:title><![CDATA[Redline Covet Bmx (Delco) &#x0024;275]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01414_15GnK7brDcO_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:29:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/real-chopper-bike-on/6348092620.html">
+<title><![CDATA[A real chopper! Bike on Motorcycle frame! &#x0024;995]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/real-chopper-bike-on/6348092620.html</link>
+<description><![CDATA[A real chopper! Bike on Motorcycle frame! 
+I have rode this bike and can't make it 20 feet with out someone trying to stop me to take a picture !! 
+Custom built! 
+Yes look at the pics and YES that is a car tire on the rear! 
+Email me if you have inte ...]]></description>
+<dc:date>2017-10-18T10:23:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/real-chopper-bike-on/6348092620.html</dc:source>
+<dc:title><![CDATA[A real chopper! Bike on Motorcycle frame! &#x0024;995]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00N0N_mCJTO5gaAm_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:23:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/all-city-nature-boy-56cm/6350916535.html">
+<title><![CDATA[All-City Nature Boy 56CM (4626 Spruce St) &#x0024;750]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/all-city-nature-boy-56cm/6350916535.html</link>
+<description><![CDATA[Selling my lightly used All-City Nature Boy 56CM Single Speed Cyclocross Frame... minor ding in frame from handlebars (photographed above)... very good condition 
+Parts: 
+Salsa stem 
+Salsa bars - great condition 
+Salsa Seatpost - great condition 
+Whi ...]]></description>
+<dc:date>2017-10-18T10:05:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/all-city-nature-boy-56cm/6350916535.html</dc:source>
+<dc:title><![CDATA[All-City Nature Boy 56CM (4626 Spruce St) &#x0024;750]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00J0J_jFAwwwmdbk3_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:05:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/masi-1988-gran-criterium-54cm/6326494515.html">
+<title><![CDATA[Masi 1988 Gran Criterium 54cm (Manayunk) &#x0024;1700]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/masi-1988-gran-criterium-54cm/6326494515.html</link>
+<description><![CDATA[Beautiful Vintage Masi Gran Criterium 54cm bike. Very rare. Dura-Ace componentry. Pedals are not included with the bike. Minor Rust! Serial #8019 
+Includes the bike computer (needs new batteries) 
+1700 or best offer]]></description>
+<dc:date>2017-10-18T09:52:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/masi-1988-gran-criterium-54cm/6326494515.html</dc:source>
+<dc:title><![CDATA[Masi 1988 Gran Criterium 54cm (Manayunk) &#x0024;1700]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01313_gnF8sf7mvH9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:52:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/vintage-schwinn-exercise-bike/6350895489.html">
+<title><![CDATA[Vintage Schwinn Exercise Bike in Cappuccino Brown (South Philly) &#x0024;30]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/vintage-schwinn-exercise-bike/6350895489.html</link>
+<description><![CDATA[We are selling this beautiful antique/vintage Schwinn exercise bike. It has a speedometer, tension knob, and a timer, all built into the console area. The bike is in great shape and is colored a gorgeous cappuccino brown. 
+This is a perfect, highly s ...]]></description>
+<dc:date>2017-10-18T09:49:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/vintage-schwinn-exercise-bike/6350895489.html</dc:source>
+<dc:title><![CDATA[Vintage Schwinn Exercise Bike in Cappuccino Brown (South Philly) &#x0024;30]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00000_3K3TQd5AUj8_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:49:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/schwinn-chicago-10-speed-12000/6331529325.html">
+<title><![CDATA[Schwinn Chicago 10 speed $120.00 (Pottstown) &#x0024;120]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/schwinn-chicago-10-speed-12000/6331529325.html</link>
+<description><![CDATA[Schwinn Chicago 10 speed bicycle $120.00. Continental Model, new tires, new shift and brake cables, excellent condition. A trouble free, ready to ride bike. Call Glen, ***.]]></description>
+<dc:date>2017-10-18T09:42:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/schwinn-chicago-10-speed-12000/6331529325.html</dc:source>
+<dc:title><![CDATA[Schwinn Chicago 10 speed $120.00 (Pottstown) &#x0024;120]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00o0o_aVvZZkpvrJb_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:42:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/26-inch-cruiser-12500/6331405966.html">
+<title><![CDATA[26 inch Cruiser $125.00 (Pottstown) &#x0024;125]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/26-inch-cruiser-12500/6331405966.html</link>
+<description><![CDATA[26 inch Cruiser $125.00. like new condition, coaster brakes with headlight. Call call or text Glen ***]]></description>
+<dc:date>2017-10-18T09:42:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/26-inch-cruiser-12500/6331405966.html</dc:source>
+<dc:title><![CDATA[26 inch Cruiser $125.00 (Pottstown) &#x0024;125]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00N0N_9p37ZqmQUzC_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:42:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/womens-cruiser-bike-size/6343539127.html">
+<title><![CDATA[Women's cruiser bike size medium (Quakertown) &#x0024;125]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/womens-cruiser-bike-size/6343539127.html</link>
+<description><![CDATA[Nice in good used condition used cruiser bike with grip shifts. Womens size 17 frame (good for 5'3 to 5'11)]]></description>
+<dc:date>2017-10-18T09:39:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/womens-cruiser-bike-size/6343539127.html</dc:source>
+<dc:title><![CDATA[Women's cruiser bike size medium (Quakertown) &#x0024;125]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00202_jfB4uel1EM9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:39:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/ridley-fire-carbon-cyclocross/6337521899.html">
+<title><![CDATA[Ridley x-fire carbon cyclocross with low miles SRAM Rival (Upper Dublin) &#x0024;950]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/ridley-fire-carbon-cyclocross/6337521899.html</link>
+<description><![CDATA[Only rode this a few times a year so it is in great condition. 2011 Ridley x-fire carbon cyclocross bike. Size 48cm but fits like a bigger bike. I'm 5'8" and I'm comfortable. I wouldn't suggest anyone taller. 
+CX bikes are good for different styles o ...]]></description>
+<dc:date>2017-10-18T09:36:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/ridley-fire-carbon-cyclocross/6337521899.html</dc:source>
+<dc:title><![CDATA[Ridley x-fire carbon cyclocross with low miles SRAM Rival (Upper Dublin) &#x0024;950]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00e0e_imvWNXmiUxV_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:36:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/trek-hybrid/6339491016.html">
+<title><![CDATA[Trek Hybrid (delaware county Pa) &#x0024;225]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/trek-hybrid/6339491016.html</link>
+<description><![CDATA[Trek Verve 1 
+20 inch frame 
+33 inch standover 
+21 inch top tube 
+21 speeds 
+700c wheels 
+Pick up In Brookhaven Pa 19015]]></description>
+<dc:date>2017-10-18T09:30:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/trek-hybrid/6339491016.html</dc:source>
+<dc:title><![CDATA[Trek Hybrid (delaware county Pa) &#x0024;225]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00707_6IatV4BPyOR_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:30:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/schwinn-varsity-womens-vintage/6337470205.html">
+<title><![CDATA[SCHWINN VARSITY Womens Vintage (Gilbertsville 19525) &#x0024;175]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/schwinn-varsity-womens-vintage/6337470205.html</link>
+<description><![CDATA[Vintage Ladies 1974 Schwinn Varsity Touring Bicycle made in Chicago . Serial # EK643901 21" frame / 27" wheels with original gumwall tires . Bright " Sunset Orange " color . Schwinn optional factory fenders / Schwinn factory optional Headlamp with Ge ...]]></description>
+<dc:date>2017-10-18T09:22:41-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/schwinn-varsity-womens-vintage/6337470205.html</dc:source>
+<dc:title><![CDATA[SCHWINN VARSITY Womens Vintage (Gilbertsville 19525) &#x0024;175]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00D0D_6ChC3GKHHcy_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:22:41-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/folding-bike-barely-used/6350855782.html">
+<title><![CDATA[Folding bike - Barely used (Fairmount) &#x0024;149]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/folding-bike-barely-used/6350855782.html</link>
+<description><![CDATA[Fbike folding bike got sale. Barely used and still looks amazing. Will include pump and lock at full price]]></description>
+<dc:date>2017-10-18T09:16:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/folding-bike-barely-used/6350855782.html</dc:source>
+<dc:title><![CDATA[Folding bike - Barely used (Fairmount) &#x0024;149]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00j0j_9d3mNOA3v1s_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:16:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/several-boys-and-girls-bikes/6350855131.html">
+<title><![CDATA[Several boys and girls Bikes some  24 in with tool box (Ambler,Pa) &#x0024;80]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/several-boys-and-girls-bikes/6350855131.html</link>
+<description><![CDATA[I have several girls and boys bikes 
+Most in need of repair 
+Free Spirit rear flat 24 in tires Headwind 18 Speed $25 
+Next Tiana 24 in tires Shimano Brakes Rear flat 21 speed some rust $25 
+some bikes need rear tires willing to negotiate 
+All bikes p ...]]></description>
+<dc:date>2017-10-18T09:15:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/several-boys-and-girls-bikes/6350855131.html</dc:source>
+<dc:title><![CDATA[Several boys and girls Bikes some  24 in with tool box (Ambler,Pa) &#x0024;80]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00w0w_2gKZvaAmxLk_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:15:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/fuji-newest-50cm-road-bike/6329372274.html">
+<title><![CDATA[Fuji Newest 50cm S Road Bike (Hockessin De.) &#x0024;375]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/fuji-newest-50cm-road-bike/6329372274.html</link>
+<description><![CDATA[Excellent condition 2005 model year butted aluminum frame with carbon fork road bike. 27 speed (3x9) Shimano Tiagra/105 STI drivetrain. Bike just had major overhaul: 
+Tune-up, Drivetrain clean' and detail 
+New Brake Calipers and pads 
+New 9-speed cha ...]]></description>
+<dc:date>2017-10-18T09:01:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/fuji-newest-50cm-road-bike/6329372274.html</dc:source>
+<dc:title><![CDATA[Fuji Newest 50cm S Road Bike (Hockessin De.) &#x0024;375]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01111_iFAfG3pjDIf_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:01:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/bik/d/bridgestone-100-road-bike/6341627069.html">
+<title><![CDATA[Bridgestone 100 Road Bike    54cm. M (Hockessin De.) &#x0024;175]]></title>
+<link>https://philadelphia.craigslist.org/bik/d/bridgestone-100-road-bike/6341627069.html</link>
+<description><![CDATA[Excellent condition 1985 model year steel frame Bridgestone 100 road bike. Suntour 10-speed stem mount friction shift drivetrain. Just had pro shop tune-up and detail. New Tires and tubes, Kickstand and Handlebar tape, rear brakes all new! Rides and  ...]]></description>
+<dc:date>2017-10-18T09:01:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/bik/d/bridgestone-100-road-bike/6341627069.html</dc:source>
+<dc:title><![CDATA[Bridgestone 100 Road Bike    54cm. M (Hockessin De.) &#x0024;175]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01313_fo0yzbDwWXg_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:01:40-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

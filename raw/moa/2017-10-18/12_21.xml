@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/moa?format=rss">
+<title>craigslist philadelphia | cell phones search </title>
+<link>https://philadelphia.craigslist.org/search/moa</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/moa?format=rss</dc:source>
+<dc:title>craigslist philadelphia | cell phones search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:33-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/motorola-pure/6331807261.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/video-out-from-phone-to-tv/6351019211.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/haier-5000-btu-air-conditioner/6332431192.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/2-iphone-8-pluss/6330646867.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mod/d/top-1-wholesale-buyer-of/6350974384.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/iphone-ipad-samsung-galaxy/6350919775.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/brand-new-in-box-iphone8-plus/6350915693.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/galaxy-note-4-for-verizon/6350942166.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/iphonegig-unlocked/6350916007.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/samsung-s4-mini/6350920680.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/iphone-3gs-att-16-gb/6350908928.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/verizon-lg-v20/6334951624.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/iphone-4-att-8gb-perfect/6343711650.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/wall-mounted-cell-phone/6328925424.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/iphone-7-armor-cases-lot-of/6347118119.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/samsung-galaxy-s4-sprint-j7/6336294235.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/mobile-samsung-galaxy-prime/6328660483.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/iphone-5s-unlocked/6314537349.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/apple-iphone-6s-16gb-rose/6322245573.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/apple-iphone-5s-16gb-space/6320771973.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/apple-iphone-6s-32-gb-silver/6341746442.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/iphone-7-32gb-matte-black-att/6345951411.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/iphone-6-64gb-space-gray-att/6350783548.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/iphone-7-plus-jet-black-128-gb/6336554584.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/mob/d/cell-phones-cases-tech-armor/6314942412.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/motorola-pure/6331807261.html">
+<title><![CDATA[motorola pure x (west chester) &#x0024;220]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/motorola-pure/6331807261.html</link>
+<description><![CDATA[9 months old..no catches or dents. its like brand new. comes with box and all accessories. 
+Carrier freedom: Moto X Pure Edition is unlocked and works on all major networks. 
+5.7" Quad HD display + stereo sound: Immerse yourself in entertainment with ...]]></description>
+<dc:date>2017-10-18T11:19:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/motorola-pure/6331807261.html</dc:source>
+<dc:title><![CDATA[motorola pure x (west chester) &#x0024;220]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Y0Y_bpIqEIq3DGY_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:19:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/video-out-from-phone-to-tv/6351019211.html">
+<title><![CDATA[video OUT from phone to TV / Monitor (Philadelphia) &#x0024;8]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/video-out-from-phone-to-tv/6351019211.html</link>
+<description><![CDATA[. 
+I be Wednesday around Suburban Train Station btwn 5-7 pm; 
+text me *** before 1 pm]]></description>
+<dc:date>2017-10-18T11:17:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/video-out-from-phone-to-tv/6351019211.html</dc:source>
+<dc:title><![CDATA[video OUT from phone to TV / Monitor (Philadelphia) &#x0024;8]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00W0W_ckyjxDLiepQ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/haier-5000-btu-air-conditioner/6332431192.html">
+<title><![CDATA[Haier 5,000 BTU W air conditioner (Philadelphia) &#x0024;40]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/haier-5000-btu-air-conditioner/6332431192.html</link>
+<description><![CDATA[Text or call 
+*** 
+Sam 
+5,000 BTU 
+Cools rooms up to 150 sq ft 
+3 Cool/3 Fan Speeds plus Auto Cool]]></description>
+<dc:date>2017-10-18T11:17:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/haier-5000-btu-air-conditioner/6332431192.html</dc:source>
+<dc:title><![CDATA[Haier 5,000 BTU W air conditioner (Philadelphia) &#x0024;40]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00303_8rhv0ZQpZb6_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/2-iphone-8-pluss/6330646867.html">
+<title><![CDATA[2 IPHONE 8 PLUS'S (DELCO)]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/2-iphone-8-pluss/6330646867.html</link>
+<description><![CDATA[2 IPHONE 8 PLUS'S 64GB ROSE GOLD/CHAMPANGE COLOR/ SPACE GRAY 
+VERIZON VERIZON VERIZON 
+BRAND NEW!! BRAND NEW! 
+EMAIL OFFERS. NO LOW BALLERS! 
+DONT WASTE MY TIME 
+PICK UP ONLY 
+CASH ONLY 
+THANK YOU FOR YOUR TIME ;)]]></description>
+<dc:date>2017-10-18T11:15:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/2-iphone-8-pluss/6330646867.html</dc:source>
+<dc:title><![CDATA[2 IPHONE 8 PLUS'S (DELCO)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00G0G_nQSgKPhT1J_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:15:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mod/d/top-1-wholesale-buyer-of/6350974384.html">
+<title><![CDATA[TOP #1 WHOLESALE BUYER OF APPLE AND SAMSUNG PRODUCTS (Philadelphia) &#x0024;950]]></title>
+<link>https://philadelphia.craigslist.org/mod/d/top-1-wholesale-buyer-of/6350974384.html</link>
+<description><![CDATA[PLEASE TEXT US AT @6--0--9--5--9--4--2--2--1--7. WE WILL BE PAYING MORE THAN ANY STORE OR BUYER ON THE NEW IPHONE 8'S AND GALAXY NOTE 8'S, GUARANTEED. WE BUY NEW IN BOX, USED APPLE PRODUCTS AND MORE. TOP WHOLESALE BUYER OF APPLE AND SAMSUNG PRODUCTS. ...]]></description>
+<dc:date>2017-10-18T10:47:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mod/d/top-1-wholesale-buyer-of/6350974384.html</dc:source>
+<dc:title><![CDATA[TOP #1 WHOLESALE BUYER OF APPLE AND SAMSUNG PRODUCTS (Philadelphia) &#x0024;950]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00505_4a4LhtfZC18_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:47:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/iphone-ipad-samsung-galaxy/6350919775.html">
+<title><![CDATA[iphone ipad samsung galaxy screen replacement (upper darby) &#x0024;60]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/iphone-ipad-samsung-galaxy/6350919775.html</link>
+<description><![CDATA[AQ Wireless 
+7042 Terminal sq 
+Upper Darby PA 19082 
+Tel *** 
+We repair iphone ipad samsung lg fast while you wait lowest price in town 
+please call for more info 
+Dealers welcome]]></description>
+<dc:date>2017-10-18T10:37:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/iphone-ipad-samsung-galaxy/6350919775.html</dc:source>
+<dc:title><![CDATA[iphone ipad samsung galaxy screen replacement (upper darby) &#x0024;60]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00D0D_lslVjAL3nJ7_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:37:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/brand-new-in-box-iphone8-plus/6350915693.html">
+<title><![CDATA[Brand New in box Iphone8 plus 64 gig (Philadelphia) &#x0024;549]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/brand-new-in-box-iphone8-plus/6350915693.html</link>
+<description><![CDATA[Brand new in box IPhone 8 plus 64 gig Gold]]></description>
+<dc:date>2017-10-18T10:28:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/brand-new-in-box-iphone8-plus/6350915693.html</dc:source>
+<dc:title><![CDATA[Brand New in box Iphone8 plus 64 gig (Philadelphia) &#x0024;549]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00p0p_1jsjd81SPXk_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:28:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/galaxy-note-4-for-verizon/6350942166.html">
+<title><![CDATA[Galaxy Note 4 for Verizon unlocked A++ $180 obo (Conshohocken) &#x0024;180]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/galaxy-note-4-for-verizon/6350942166.html</link>
+<description><![CDATA[I am selling a Galaxy Note 4 for Verizon that is unlocked. The phone is in perfect condition and has a case and a screen protector with it. I am asking 180obo for it. Please call or text for offers. Thanks! ***]]></description>
+<dc:date>2017-10-18T10:24:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/galaxy-note-4-for-verizon/6350942166.html</dc:source>
+<dc:title><![CDATA[Galaxy Note 4 for Verizon unlocked A++ $180 obo (Conshohocken) &#x0024;180]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00w0w_77XP4oZXVJk_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:24:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/iphonegig-unlocked/6350916007.html">
+<title><![CDATA[Iphone 7 128 gig unlocked (Philadelphia) &#x0024;400]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/iphonegig-unlocked/6350916007.html</link>
+<description><![CDATA[Icloud unlocked, carrier unocked, passcode locked all in 100 percent shape]]></description>
+<dc:date>2017-10-18T10:17:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/iphonegig-unlocked/6350916007.html</dc:source>
+<dc:title><![CDATA[Iphone 7 128 gig unlocked (Philadelphia) &#x0024;400]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00j0j_ad2v3V7uRe7_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:17:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/samsung-s4-mini/6350920680.html">
+<title><![CDATA[Samsung s4 mini. (Fox chase) &#x0024;35]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/samsung-s4-mini/6350920680.html</link>
+<description><![CDATA[Good condition. 8 Gb. Samsung s4 mini. 
+Att carrier]]></description>
+<dc:date>2017-10-18T10:08:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/samsung-s4-mini/6350920680.html</dc:source>
+<dc:title><![CDATA[Samsung s4 mini. (Fox chase) &#x0024;35]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00h0h_cdgj63oSybh_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:08:42-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/iphone-3gs-att-16-gb/6350908928.html">
+<title><![CDATA[iphone 3gs att 16 gb (fox chase) &#x0024;35]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/iphone-3gs-att-16-gb/6350908928.html</link>
+<description><![CDATA[Iphone 3gs in pristine condition. Perfect teenager phone preteen starter phone. Immaculate condition with case. 
+Asking 35.00 obo. Be reasonable. 
+Pick up in fox chase at Tompkins vist bank or Sunoco on corner of rhawn and verree. Takes standard size ...]]></description>
+<dc:date>2017-10-18T09:59:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/iphone-3gs-att-16-gb/6350908928.html</dc:source>
+<dc:title><![CDATA[iphone 3gs att 16 gb (fox chase) &#x0024;35]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T09:59:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/verizon-lg-v20/6334951624.html">
+<title><![CDATA[Verizon LG V20 (NE Philly) &#x0024;275]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/verizon-lg-v20/6334951624.html</link>
+<description><![CDATA[Just upgraded to the Note 8 and looking to get rid of this LG V20. 64gb memory. Screen is free of scratches or cracks. Body has 2 or 3 marks. Phone works 100%. Fully paid off, that's how I was able to upgrade. Will trade for ps4 slim or Xbox one s bu ...]]></description>
+<dc:date>2017-10-18T09:17:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/verizon-lg-v20/6334951624.html</dc:source>
+<dc:title><![CDATA[Verizon LG V20 (NE Philly) &#x0024;275]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00x0x_bSjKtv6pcF2_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T09:17:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/iphone-4-att-8gb-perfect/6343711650.html">
+<title><![CDATA[iPhone 4 - AT&T, 8gb, perfect screen, perfect case, looks like new (Glen Mills) &#x0024;30]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/iphone-4-att-8gb-perfect/6343711650.html</link>
+<description><![CDATA[For sale is a white iPhone 4, AT&amp;T, 8gb, with original box, charger, booklet and Otter Box case. No sim card. Phone looks like new with perfect screen and case. The only issue is the on/off button does not work and the phone is always on. Not a b ...]]></description>
+<dc:date>2017-10-18T08:58:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/iphone-4-att-8gb-perfect/6343711650.html</dc:source>
+<dc:title><![CDATA[iPhone 4 - AT&T, 8gb, perfect screen, perfect case, looks like new (Glen Mills) &#x0024;30]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00S0S_e6nkINtgPux_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:58:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/wall-mounted-cell-phone/6328925424.html">
+<title><![CDATA[Wall mounted cell phone charging station (Montgomeryville) &#x0024;25]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/wall-mounted-cell-phone/6328925424.html</link>
+<description><![CDATA[Black metal multiple cell phone &amp; tablet charging station. Excellent condition. Comes with mounting screws]]></description>
+<dc:date>2017-10-18T08:58:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/wall-mounted-cell-phone/6328925424.html</dc:source>
+<dc:title><![CDATA[Wall mounted cell phone charging station (Montgomeryville) &#x0024;25]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Z0Z_kGlWpugz3Xa_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:58:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/iphone-7-armor-cases-lot-of/6347118119.html">
+<title><![CDATA[IPhone 7 armor cases/lot of 95 pieces (Aston) &#x0024;320]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/iphone-7-armor-cases-lot-of/6347118119.html</link>
+<description><![CDATA[Lot of 95 iPhone 7 armor cases 
+Brand new in package 
+360 degree rotating holster, built in folding kickstand 
+$320 obo]]></description>
+<dc:date>2017-10-18T08:53:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/iphone-7-armor-cases-lot-of/6347118119.html</dc:source>
+<dc:title><![CDATA[IPhone 7 armor cases/lot of 95 pieces (Aston) &#x0024;320]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00b0b_CLDY0Ms5YE_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:53:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/samsung-galaxy-s4-sprint-j7/6336294235.html">
+<title><![CDATA[Samsung Galaxy S4 (Sprint), J7 GSM Unlocked, LG TributeHD, K20+ Unlock (NE Philadelphia) &#x0024;50]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/samsung-galaxy-s4-sprint-j7/6336294235.html</link>
+<description><![CDATA[LG Tribute HD 4G LTE - 16GB White - Boost Mobile = $50 
+Can be activated/ regestered on Sprint Network like Boost Mobile, Virgin Mobile, Ting, freedompop, Tello, Twigby, CellNUVO. 
+Samsung Galaxy S4 (Model:L720BKR) for on all Sprint network provider  ...]]></description>
+<dc:date>2017-10-18T08:43:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/samsung-galaxy-s4-sprint-j7/6336294235.html</dc:source>
+<dc:title><![CDATA[Samsung Galaxy S4 (Sprint), J7 GSM Unlocked, LG TributeHD, K20+ Unlock (NE Philadelphia) &#x0024;50]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01212_Yz3B6r2DXl_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:43:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/mobile-samsung-galaxy-prime/6328660483.html">
+<title><![CDATA[T-Mobile Samsung Galaxy Prime J3 Smartphone (Havertown) &#x0024;120]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/mobile-samsung-galaxy-prime/6328660483.html</link>
+<description><![CDATA[T-Mobile Samsung Galaxy Prime J3 Smartphone 
+Pristine Condition 10/10 
+1 Year Warranty Included 
+Full paid off 
+Call Or Text ***]]></description>
+<dc:date>2017-10-18T08:40:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/mobile-samsung-galaxy-prime/6328660483.html</dc:source>
+<dc:title><![CDATA[T-Mobile Samsung Galaxy Prime J3 Smartphone (Havertown) &#x0024;120]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00b0b_l1o1Ic7Sise_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:40:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/iphone-5s-unlocked/6314537349.html">
+<title><![CDATA[IPhone 5s unlocked (West Chester) &#x0024;150]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/iphone-5s-unlocked/6314537349.html</link>
+<description><![CDATA[Hi, I have a space gray, apple iPhone 5s that is 16gb and unlocked, call or text if interested asking $150 obo.]]></description>
+<dc:date>2017-10-18T08:30:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/iphone-5s-unlocked/6314537349.html</dc:source>
+<dc:title><![CDATA[IPhone 5s unlocked (West Chester) &#x0024;150]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00R0R_friq9RA6iSf_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T08:30:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/apple-iphone-6s-16gb-rose/6322245573.html">
+<title><![CDATA[Apple iphone 6s 16gb rose gold  Verizon Excellent condition (Port Richmond) &#x0024;260]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/apple-iphone-6s-16gb-rose/6322245573.html</link>
+<description><![CDATA[Apple iphone 6s 16 gb rose gold color. Phone is in excellent condition and is ready to be activated on Verizon.260 or best offer. Phone comes with a box and brand new accessories. Must be able to meet in Port Richmond. Call Ken @ ***]]></description>
+<dc:date>2017-10-18T07:59:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/apple-iphone-6s-16gb-rose/6322245573.html</dc:source>
+<dc:title><![CDATA[Apple iphone 6s 16gb rose gold  Verizon Excellent condition (Port Richmond) &#x0024;260]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01111_8yVFWEksgqM_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:59:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/apple-iphone-5s-16gb-space/6320771973.html">
+<title><![CDATA[Apple iphone 5s 16gb space gray smartphone Sprint (Port Richmond) &#x0024;80]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/apple-iphone-5s-16gb-space/6320771973.html</link>
+<description><![CDATA[Apple iphone 5s 16 gb space gray smartphone. Phone is in great condition except it has a crack on the screen that does not affect the functionality of the phone. The phone comes with a black otterbox case. The phone is ready to be activated on the Sp ...]]></description>
+<dc:date>2017-10-18T07:59:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/apple-iphone-5s-16gb-space/6320771973.html</dc:source>
+<dc:title><![CDATA[Apple iphone 5s 16gb space gray smartphone Sprint (Port Richmond) &#x0024;80]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00L0L_1kSr2L78zOJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:59:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/apple-iphone-6s-32-gb-silver/6341746442.html">
+<title><![CDATA[Apple Iphone 6s 32 gb silver great condition AT&T (Port Richmond) &#x0024;280]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/apple-iphone-6s-32-gb-silver/6341746442.html</link>
+<description><![CDATA[Apple iphone 6s 32 gb silver smartphone in great condition. Phone comes with box and brand new accessories. Phone will work with AT&T and Cricket wireless. 280 or best offer. Call Ken @ ***]]></description>
+<dc:date>2017-10-18T07:59:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/apple-iphone-6s-32-gb-silver/6341746442.html</dc:source>
+<dc:title><![CDATA[Apple Iphone 6s 32 gb silver great condition AT&T (Port Richmond) &#x0024;280]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00q0q_29mI5Cedk6U_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:59:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/iphone-7-32gb-matte-black-att/6345951411.html">
+<title><![CDATA[iPhone 7 32GB Matte Black - At&t (Ardmore) &#x0024;375]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/iphone-7-32gb-matte-black-att/6345951411.html</link>
+<description><![CDATA[Selling a used iPhone 7 in matte black. 32GB model, minor signs of use. Fully functional, locked to At&amp;t. Comes with charger, cable, headphones and original box.]]></description>
+<dc:date>2017-10-18T07:47:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/iphone-7-32gb-matte-black-att/6345951411.html</dc:source>
+<dc:title><![CDATA[iPhone 7 32GB Matte Black - At&t (Ardmore) &#x0024;375]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00E0E_jG8n0DAnLi_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:47:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/iphone-6-64gb-space-gray-att/6350783548.html">
+<title><![CDATA[IPHONE 6 64gb SPACE GRAY-AT&T (Lower Moreland) &#x0024;220]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/iphone-6-64gb-space-gray-att/6350783548.html</link>
+<description><![CDATA[IPHONE 6 64gb, not a single scratch, lived in LifeProof whole time.]]></description>
+<dc:date>2017-10-18T07:43:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/iphone-6-64gb-space-gray-att/6350783548.html</dc:source>
+<dc:title><![CDATA[IPHONE 6 64gb SPACE GRAY-AT&T (Lower Moreland) &#x0024;220]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00v0v_f2IsdfJTNWT_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:43:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/iphone-7-plus-jet-black-128-gb/6336554584.html">
+<title><![CDATA[iPhone 7 plus - Jet Black - 128 GB (NE Phila) &#x0024;625]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/iphone-7-plus-jet-black-128-gb/6336554584.html</link>
+<description><![CDATA[I got iPhone 7 plus as replacement from Apple Store. 
+Brand New, T-mobile, 128 GB. 
+Since it's a replacement I don't have box or charger, just a phone. 
+Has AppleCare warranty 
+NO TRADES!!! *** NO SHIPPING!!! *** CASH ONLY!!!]]></description>
+<dc:date>2017-10-18T07:41:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/iphone-7-plus-jet-black-128-gb/6336554584.html</dc:source>
+<dc:title><![CDATA[iPhone 7 plus - Jet Black - 128 GB (NE Phila) &#x0024;625]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00M0M_9CdodmjlBF8_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:41:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/mob/d/cell-phones-cases-tech-armor/6314942412.html">
+<title><![CDATA[cell phones cases & TECH ARMOR screen protection (South philadelphia) &#x0024;5]]></title>
+<link>https://philadelphia.craigslist.org/mob/d/cell-phones-cases-tech-armor/6314942412.html</link>
+<description><![CDATA[I have multiple iPhone 4, and iPhone 5 and 5s cases for sale. All brand new, most still in the case. 
+They are by, Speck, denim, teris and just mobile, and Otter Box $5 and up 
+TECH ARMOR SCREEN PROTECTION for i phone 6/6s NEVER OPENED $5 
+Even with  ...]]></description>
+<dc:date>2017-10-18T07:32:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/mob/d/cell-phones-cases-tech-armor/6314942412.html</dc:source>
+<dc:title><![CDATA[cell phones cases & TECH ARMOR screen protection (South philadelphia) &#x0024;5]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00V0V_ciqpRB6ewyJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T07:32:57-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

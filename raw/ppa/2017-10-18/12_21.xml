@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://philadelphia.craigslist.org/search/ppa?format=rss">
+<title>craigslist philadelphia | appliances search </title>
+<link>https://philadelphia.craigslist.org/search/ppa</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://philadelphia.craigslist.org/search/ppa?format=rss</dc:source>
+<dc:title>craigslist philadelphia | appliances search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-10-18T12:19:36-04:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/air-conditioner-for-sale/6320872721.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/12000-btu-frigidaire-air/6320873430.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/8000-btu-air-conditioner-with/6320876906.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/10000btu-air-conditioner-with/6320876044.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/whirlpool-washer-duet/6351019028.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/haier-5000-btu-air-conditioner/6332439574.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/ppd/d/30-viking-gas-range/6351006634.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/washer-dryer-combo/6351002234.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/lg-refrigerator-excellent-and/6345154535.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/samsung-glass-front-gas-dryer/6345000818.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/samsung-glass-top-white/6345012910.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/nestle-ice-cream-freezer/6331361746.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/whirlpool-side-by-side/6317711708.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/lg-four-door-refrigerator/6325973487.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/ge-island-gas-stove-excellent/6323698767.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/kitchen-aide-refrigerator/6332977255.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/lg-four-door-stainless-steel/6333033096.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/whirlpool-glass-top-washer/6344819887.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/hamilton-beach-electric-can/6332720913.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/36-faber-scirocco-down-draft/6312590115.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/sharp-microwave/6350960964.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/small-vintage-1950s-vornado/6341975448.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/large-vintage-1950s-vornado/6341975199.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/lg-52-cu-ft-mega-capacity-top/6334955506.html" />
+  <rdf:li rdf:resource="https://philadelphia.craigslist.org/app/d/kenmore-compact-refrigerator/6340301784.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/air-conditioner-for-sale/6320872721.html">
+<title><![CDATA[Air conditioner for sale (Delco) &#x0024;75]]></title>
+<link>https://philadelphia.craigslist.org/app/d/air-conditioner-for-sale/6320872721.html</link>
+<description><![CDATA[Air conditioner for sale for small room, 5000 btu would be good for a smaller bedroom or office.]]></description>
+<dc:date>2017-10-18T11:19:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/air-conditioner-for-sale/6320872721.html</dc:source>
+<dc:title><![CDATA[Air conditioner for sale (Delco) &#x0024;75]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00a0a_cSKTU1LJAnL_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:19:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/12000-btu-frigidaire-air/6320873430.html">
+<title><![CDATA[12000 btu frigidaire air conditioner with remote (Delco) &#x0024;150]]></title>
+<link>https://philadelphia.craigslist.org/app/d/12000-btu-frigidaire-air/6320873430.html</link>
+<description><![CDATA[12,000 btu window ac unit available, digital controls with a remote. Runs good, if you have questions or want to check out let me know.]]></description>
+<dc:date>2017-10-18T11:19:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/12000-btu-frigidaire-air/6320873430.html</dc:source>
+<dc:title><![CDATA[12000 btu frigidaire air conditioner with remote (Delco) &#x0024;150]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00P0P_qkWGllQvKQ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:19:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/8000-btu-air-conditioner-with/6320876906.html">
+<title><![CDATA[8000 BTU AIR CONDITIONER WITH DIGITAL TEMP CONTROLS (Delco) &#x0024;100]]></title>
+<link>https://philadelphia.craigslist.org/app/d/8000-btu-air-conditioner-with/6320876906.html</link>
+<description><![CDATA[Haier 8,000 btu window AC unit for sale, has digital temp controls. Will cool a large bedroom or smaller living room. 
+Search terms: 
+a/c air conditioner window ac unit]]></description>
+<dc:date>2017-10-18T11:18:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/8000-btu-air-conditioner-with/6320876906.html</dc:source>
+<dc:title><![CDATA[8000 BTU AIR CONDITIONER WITH DIGITAL TEMP CONTROLS (Delco) &#x0024;100]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Q0Q_6hkipuYsAtT_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:18:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/10000btu-air-conditioner-with/6320876044.html">
+<title><![CDATA[10,000BTU Air Conditioner with remote (Delco) &#x0024;150]]></title>
+<link>https://philadelphia.craigslist.org/app/d/10000btu-air-conditioner-with/6320876044.html</link>
+<description><![CDATA[10000 btu window ac unit available, digital controls with a remote. Runs good, if you have questions or want to check out let me know.]]></description>
+<dc:date>2017-10-18T11:18:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/10000btu-air-conditioner-with/6320876044.html</dc:source>
+<dc:title><![CDATA[10,000BTU Air Conditioner with remote (Delco) &#x0024;150]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00m0m_dyIoaBjG5RC_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:18:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/whirlpool-washer-duet/6351019028.html">
+<title><![CDATA[Whirlpool Washer Duet &#x0024;200]]></title>
+<link>https://philadelphia.craigslist.org/app/d/whirlpool-washer-duet/6351019028.html</link>
+<description><![CDATA[Just moved, have an extra washing machine. Clean, works great.]]></description>
+<dc:date>2017-10-18T11:17:41-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/whirlpool-washer-duet/6351019028.html</dc:source>
+<dc:title><![CDATA[Whirlpool Washer Duet &#x0024;200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00P0P_ijVYjBhJVMZ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:41-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/haier-5000-btu-air-conditioner/6332439574.html">
+<title><![CDATA[Haier 5,000 BTU W air conditioner (Philadelphia) &#x0024;50]]></title>
+<link>https://philadelphia.craigslist.org/app/d/haier-5000-btu-air-conditioner/6332439574.html</link>
+<description><![CDATA[Text or call 
+*** 
+Sam 
+5,000 BTU 
+Cools rooms up to 150 sq ft 
+3 Cool/3 Fan Speeds plus Auto Coo]]></description>
+<dc:date>2017-10-18T11:17:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/haier-5000-btu-air-conditioner/6332439574.html</dc:source>
+<dc:title><![CDATA[Haier 5,000 BTU W air conditioner (Philadelphia) &#x0024;50]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00303_8rhv0ZQpZb6_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:17:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/ppd/d/30-viking-gas-range/6351006634.html">
+<title><![CDATA[30" Viking Gas Range VGCC5304BSS (used) (95 West Main str, New Britain CT) &#x0024;3199]]></title>
+<link>https://philadelphia.craigslist.org/ppd/d/30-viking-gas-range/6351006634.html</link>
+<description><![CDATA[( WWW.HIGHENDAPPLIANCESLLC.COM ) 
+---------------------------------------------------------- 
+30" Viking Gas Range VGCC5304BSS (used) : 
+30" Viking VGCC5304BSS Professional Custom Series, 30 Inch Pro-Style Gas Range with 4 VSH Pro Sealed Burners with ...]]></description>
+<dc:date>2017-10-18T11:09:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/ppd/d/30-viking-gas-range/6351006634.html</dc:source>
+<dc:title><![CDATA[30" Viking Gas Range VGCC5304BSS (used) (95 West Main str, New Britain CT) &#x0024;3199]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00B0B_zcxXIYkHZ4_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:09:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/washer-dryer-combo/6351002234.html">
+<title><![CDATA[Washer/Dryer Combo (Center City / Rittenhouse) &#x0024;300]]></title>
+<link>https://philadelphia.craigslist.org/app/d/washer-dryer-combo/6351002234.html</link>
+<description><![CDATA[Selling a used washer/dryer combination unit. It is like new. Made by LG.]]></description>
+<dc:date>2017-10-18T11:06:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/washer-dryer-combo/6351002234.html</dc:source>
+<dc:title><![CDATA[Washer/Dryer Combo (Center City / Rittenhouse) &#x0024;300]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01010_80utA7saMDD_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T11:06:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/lg-refrigerator-excellent-and/6345154535.html">
+<title><![CDATA[LG REFRIGERATOR EXCELLENT AND BEAUTIFUL CONDITION (6338 RISING SUN AVE) &#x0024;425]]></title>
+<link>https://philadelphia.craigslist.org/app/d/lg-refrigerator-excellent-and/6345154535.html</link>
+<description><![CDATA[LG REFRIGERATOR IS IN EXCELLENT CONDITION. AN EXCELLENT PRICE. A BIG OPPORTUNITY TO GET IT.]]></description>
+<dc:date>2017-10-18T10:58:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/lg-refrigerator-excellent-and/6345154535.html</dc:source>
+<dc:title><![CDATA[LG REFRIGERATOR EXCELLENT AND BEAUTIFUL CONDITION (6338 RISING SUN AVE) &#x0024;425]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00R0R_hYUke63dr6A_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:58:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/samsung-glass-front-gas-dryer/6345000818.html">
+<title><![CDATA[SAMSUNG GLASS FRONT GAS DRYER EXCELLENT CONDITION (6334 RISING SUN AVE) &#x0024;325]]></title>
+<link>https://philadelphia.craigslist.org/app/d/samsung-glass-front-gas-dryer/6345000818.html</link>
+<description><![CDATA[THIS IS A BEAUTIFUL CHARCOAL GREY GLASS FRONT DRYER... AND THE INSIDE IS AS BEAUTIFUL AS IT IS ON THE OUT SIDE... YOU HAVE TO SEE THIS ONE COME AN OVER TO SEE DON'T PASS UP THIS DEAL.]]></description>
+<dc:date>2017-10-18T10:58:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/samsung-glass-front-gas-dryer/6345000818.html</dc:source>
+<dc:title><![CDATA[SAMSUNG GLASS FRONT GAS DRYER EXCELLENT CONDITION (6334 RISING SUN AVE) &#x0024;325]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01717_3CadAsFLZjI_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:58:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/samsung-glass-top-white/6345012910.html">
+<title><![CDATA[SAMSUNG GLASS TOP WHITE WASHER EXCELLENT CONDITION (RISINGSUN AVE) &#x0024;290]]></title>
+<link>https://philadelphia.craigslist.org/app/d/samsung-glass-top-white/6345012910.html</link>
+<description><![CDATA[WHAT A DEAL THIS SAMSUNG GLASS TOP WHITE WASHER IS JUST THE THING TO GET THE FAMILY TO HELP YOU DO THE LAUNDRY, I CANT EVEN STOP LOOKING INSIDE OF IT.. JUST THINK OF HOW MUCH NICER IT WILL BE WITH EVERY ONE WANTING TO HELP... DON'T MISS OUT ON THIS O ...]]></description>
+<dc:date>2017-10-18T10:58:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/samsung-glass-top-white/6345012910.html</dc:source>
+<dc:title><![CDATA[SAMSUNG GLASS TOP WHITE WASHER EXCELLENT CONDITION (RISINGSUN AVE) &#x0024;290]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00g0g_gOxf4MUa9Yd_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:58:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/nestle-ice-cream-freezer/6331361746.html">
+<title><![CDATA[NESTLE ICE CREAM FREEZER (RISINGSUN AVE) &#x0024;390]]></title>
+<link>https://philadelphia.craigslist.org/app/d/nestle-ice-cream-freezer/6331361746.html</link>
+<description><![CDATA[NESTLE ICE CREAM FREEZER'S GREAT FOR THE LITTLE SHOP OR CORNER STORE.. THIS IS A COLLECTORS ITEM YOU CAN EVEN KEEP ONE IN THE GARAGE FOR THE HOUSE OR GAME ROOM... ALL THE KIDS IN THE NEIGHBORHOOD WILL BE AT THE POPULAR HOUSE.. ( I just lowered the pr ...]]></description>
+<dc:date>2017-10-18T10:57:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/nestle-ice-cream-freezer/6331361746.html</dc:source>
+<dc:title><![CDATA[NESTLE ICE CREAM FREEZER (RISINGSUN AVE) &#x0024;390]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00O0O_53X8cit4Rfn_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:57:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/whirlpool-side-by-side/6317711708.html">
+<title><![CDATA[WHIRLPOOL SIDE BY SIDE EXCELLENT CONDITION (RISINGSUN AVE) &#x0024;725]]></title>
+<link>https://philadelphia.craigslist.org/app/d/whirlpool-side-by-side/6317711708.html</link>
+<description><![CDATA[THIS WHIRLPOOL IS JUST BEAUTIFUL AND HAS SO MUCH ROOM INSIDE ITS PERFECT FOR BIG SHOPPING ORDERS, AND GREAT SO YOU DONT HAVE TO GO TO THE FOOD STORE EVERY OTHER DAY NOW THAT THE COLD DAYS ARE COMING ITS NICE TO BE ABLE TO STOCK UP... AND YOU WILL LOV ...]]></description>
+<dc:date>2017-10-18T10:57:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/whirlpool-side-by-side/6317711708.html</dc:source>
+<dc:title><![CDATA[WHIRLPOOL SIDE BY SIDE EXCELLENT CONDITION (RISINGSUN AVE) &#x0024;725]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Y0Y_iuImeug23LJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:57:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/lg-four-door-refrigerator/6325973487.html">
+<title><![CDATA[lg four door refrigerator excellent condition (stainless steel) (6334 RISING SUN AVE) &#x0024;975]]></title>
+<link>https://philadelphia.craigslist.org/app/d/lg-four-door-refrigerator/6325973487.html</link>
+<description><![CDATA[L.G. REFRIGERATOR STAINLESS STEEL EXCELLENT CONDITION... THIS IS THE BEST CATCH OF THE DAY... 
+WHAT A FIND, A SPECIAL DEAL TO BOOT... I CANT BELIEVE I HAVE ONE FOR SALE, IT'S LIKE UNICORNS YOU'VE ONLY SEEN THEM IN A PICTURE BOOK.. THIS ONE WILL WILL  ...]]></description>
+<dc:date>2017-10-18T10:57:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/lg-four-door-refrigerator/6325973487.html</dc:source>
+<dc:title><![CDATA[lg four door refrigerator excellent condition (stainless steel) (6334 RISING SUN AVE) &#x0024;975]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00r0r_2nsxBHz3INJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:57:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/ge-island-gas-stove-excellent/6323698767.html">
+<title><![CDATA[G.E. ISLAND GAS STOVE EXCELLENT CONDITION (6334 RISINGSUN AVE) &#x0024;450]]></title>
+<link>https://philadelphia.craigslist.org/app/d/ge-island-gas-stove-excellent/6323698767.html</link>
+<description><![CDATA[THIS IS SUCH A BEAUTIFUL STAINLESS STEEL AND BLACK ISLAND G.E.GAS STOVE AND OVEN THAT YOU WILL FALL IN LOVE WITH IT.... YOU HAVE TO COME BY AND SEE IT, A GREAT PIECE FOR YOUR REMODEL.. JUST A GREAT FIND AND A WONDERFUL DEAL...]]></description>
+<dc:date>2017-10-18T10:57:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/ge-island-gas-stove-excellent/6323698767.html</dc:source>
+<dc:title><![CDATA[G.E. ISLAND GAS STOVE EXCELLENT CONDITION (6334 RISINGSUN AVE) &#x0024;450]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00f0f_beuPr6bBbAP_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:57:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/kitchen-aide-refrigerator/6332977255.html">
+<title><![CDATA[KITCHEN-AIDE REFRIGERATOR WITH BLACK GLASS FINISH EXCELLENT CONDITION (6334 RISING SUN AVE) &#x0024;625]]></title>
+<link>https://philadelphia.craigslist.org/app/d/kitchen-aide-refrigerator/6332977255.html</link>
+<description><![CDATA[THIS IS A BEAUTIFUL KITCHEN-AIDE REFRIGERATOR WITH ITS BEAUTIFUL GLASS LOOK IN A BLACK FINISH... THIS WILL MATCH ANY KITCHEN REMODEL, I ALSO HAVE A NICE DISH WASHER TO MATCH SAME BEAUTIFUL FINISH... IF YOU LIKE STOP BY AND SEE THEM I'M SURE I'LL HAVE ...]]></description>
+<dc:date>2017-10-18T10:57:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/kitchen-aide-refrigerator/6332977255.html</dc:source>
+<dc:title><![CDATA[KITCHEN-AIDE REFRIGERATOR WITH BLACK GLASS FINISH EXCELLENT CONDITION (6334 RISING SUN AVE) &#x0024;625]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00w0w_3naJ1AV0KGJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:57:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/lg-four-door-stainless-steel/6333033096.html">
+<title><![CDATA[L.G. FOUR DOOR STAINLESS STEEL EXCELLENT CONDITION (6334 RISING SUN AVE) &#x0024;975]]></title>
+<link>https://philadelphia.craigslist.org/app/d/lg-four-door-stainless-steel/6333033096.html</link>
+<description><![CDATA[L.G. FOUR DOOR STAINLESS STEEL EXCELLENT CONDITION REFRIGERATOR, THIS IS ONE OF THE MORE MODERN DESIGNS. WITH THE FOUR DOOR CONCEPT IT'S SURE TO PLEASE THE EYE... AND GREAT FOR STORAGE ON THE BIG SHOPPING ORDERS... STOP IN AND SEE IT FOR YOUR SELF, I ...]]></description>
+<dc:date>2017-10-18T10:57:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/lg-four-door-stainless-steel/6333033096.html</dc:source>
+<dc:title><![CDATA[L.G. FOUR DOOR STAINLESS STEEL EXCELLENT CONDITION (6334 RISING SUN AVE) &#x0024;975]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00r0r_2nsxBHz3INJ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:57:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/whirlpool-glass-top-washer/6344819887.html">
+<title><![CDATA[WHIRLPOOL GLASS TOP WASHER EXCELLENT CONDITION (6334 RISING SUN AVE) &#x0024;350]]></title>
+<link>https://philadelphia.craigslist.org/app/d/whirlpool-glass-top-washer/6344819887.html</link>
+<description><![CDATA[THIS WHIRLPOOL GLASS TOP WASHER IS JUST BEAUTIFUL, IT HAS A GIANT SIZE CAPACITY.. THE INSIDE IS JUST AS BEAUTIFUL AS IT IS ON THE OUT SIDE.. WITH THIS ONE I CANT STOP MY SELF FROM JUST GOING TO LOOK IN SIDE.. IT IS JUST THAT AMAZING.. YOU WILL FALL I ...]]></description>
+<dc:date>2017-10-18T10:57:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/whirlpool-glass-top-washer/6344819887.html</dc:source>
+<dc:title><![CDATA[WHIRLPOOL GLASS TOP WASHER EXCELLENT CONDITION (6334 RISING SUN AVE) &#x0024;350]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00z0z_aYsUNWYN5D5_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:57:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/hamilton-beach-electric-can/6332720913.html">
+<title><![CDATA[Hamilton Beach Electric Can Opener (Bensalem) &#x0024;8]]></title>
+<link>https://philadelphia.craigslist.org/app/d/hamilton-beach-electric-can/6332720913.html</link>
+<description><![CDATA[Opens cans like new. Model 75288K Hamilton Beach/Proctor Silex]]></description>
+<dc:date>2017-10-18T10:47:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/hamilton-beach-electric-can/6332720913.html</dc:source>
+<dc:title><![CDATA[Hamilton Beach Electric Can Opener (Bensalem) &#x0024;8]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00x0x_fgsG2kQDRgN_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:47:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/36-faber-scirocco-down-draft/6312590115.html">
+<title><![CDATA[36" Faber Scirocco Down Draft Kitchen Range Hood (Wayne, PA) &#x0024;700]]></title>
+<link>https://philadelphia.craigslist.org/app/d/36-faber-scirocco-down-draft/6312590115.html</link>
+<description><![CDATA[36" Scirocco Downdraft Range Hood SCIR3608SSIB 
+Comes with full manual and registry cards unopened. 
+Was installed on a 36" gas cooktop. Was informed this was installed because it's required by code but I never used it. In like-new condition. Recentl ...]]></description>
+<dc:date>2017-10-18T10:44:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/36-faber-scirocco-down-draft/6312590115.html</dc:source>
+<dc:title><![CDATA[36" Faber Scirocco Down Draft Kitchen Range Hood (Wayne, PA) &#x0024;700]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-10-18T10:44:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/sharp-microwave/6350960964.html">
+<title><![CDATA[Sharp Microwave (Ne Phila) &#x0024;25]]></title>
+<link>https://philadelphia.craigslist.org/app/d/sharp-microwave/6350960964.html</link>
+<description><![CDATA[Sharp Microwave]]></description>
+<dc:date>2017-10-18T10:38:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/sharp-microwave/6350960964.html</dc:source>
+<dc:title><![CDATA[Sharp Microwave (Ne Phila) &#x0024;25]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00R0R_gVL2aWbnICb_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:38:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/small-vintage-1950s-vornado/6341975448.html">
+<title><![CDATA[**Small Vintage 1950s Vornado Window Fan** (Old City) &#x0024;75]]></title>
+<link>https://philadelphia.craigslist.org/app/d/small-vintage-1950s-vornado/6341975448.html</link>
+<description><![CDATA[Small vintage 1950s Vornado window fan 
+Measure 12" tall X 22" wide 
+Runs great and quiet on both speeds 
+Missing extenders, but you can easily make them out of wood and paint to match your window frame 
+$75 cash and carry, no trades 
+yes, I still ha ...]]></description>
+<dc:date>2017-10-18T10:37:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/small-vintage-1950s-vornado/6341975448.html</dc:source>
+<dc:title><![CDATA[**Small Vintage 1950s Vornado Window Fan** (Old City) &#x0024;75]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00n0n_sd3uk3TSQo_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:37:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/large-vintage-1950s-vornado/6341975199.html">
+<title><![CDATA[**Large Vintage 1950s Vornado Window Fan** (Old City) &#x0024;150]]></title>
+<link>https://philadelphia.craigslist.org/app/d/large-vintage-1950s-vornado/6341975199.html</link>
+<description><![CDATA[Large Vintage 1950s Vornado Fan. 
+You don't see these every day, fairly rare in the large size as well. 
+Measures 18" high X 26 1/2" wide and has extenders that slide out up to 36". 
+The last pic shows the extenders pulled out. 
+Runs great and quiet  ...]]></description>
+<dc:date>2017-10-18T10:36:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/large-vintage-1950s-vornado/6341975199.html</dc:source>
+<dc:title><![CDATA[**Large Vintage 1950s Vornado Window Fan** (Old City) &#x0024;150]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01717_ahfiZOLmTs9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:36:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/lg-52-cu-ft-mega-capacity-top/6334955506.html">
+<title><![CDATA[LG 5.2 cu. ft. Mega-Capacity Top-Load Washer with Turbowash Technology (NE Philadelphia) &#x0024;800]]></title>
+<link>https://philadelphia.craigslist.org/app/d/lg-52-cu-ft-mega-capacity-top/6334955506.html</link>
+<description><![CDATA[Like NEW , used only a couple of times. Brand new Dryer available to for $800, or take bouth for $1500 
+To make laundry easier, just add size and speed. With 5.2 cu. ft. Mega-Capacity, LG gives you the largest Top-Load washer in its class-but it does ...]]></description>
+<dc:date>2017-10-18T10:36:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/lg-52-cu-ft-mega-capacity-top/6334955506.html</dc:source>
+<dc:title><![CDATA[LG 5.2 cu. ft. Mega-Capacity Top-Load Washer with Turbowash Technology (NE Philadelphia) &#x0024;800]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00C0C_hlO46WJDytj_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:36:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="https://philadelphia.craigslist.org/app/d/kenmore-compact-refrigerator/6340301784.html">
+<title><![CDATA[Kenmore compact refrigerator (3.6 cu. ft) (Wallingford, Delaware County) &#x0024;75]]></title>
+<link>https://philadelphia.craigslist.org/app/d/kenmore-compact-refrigerator/6340301784.html</link>
+<description><![CDATA[I am selling this Kenmore compact refrigerator/min fridge for $75. 
+3.6 cu. ft. (102 liters). Manual defrost. 
+Has all the shelves. 
+Model: *** 
+Measurements: 
+33.5" high 
+18" deep 
+18.5" wide 
+Good working condition]]></description>
+<dc:date>2017-10-18T10:21:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://philadelphia.craigslist.org/app/d/kenmore-compact-refrigerator/6340301784.html</dc:source>
+<dc:title><![CDATA[Kenmore compact refrigerator (3.6 cu. ft) (Wallingford, Delaware County) &#x0024;75]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00S0S_52GpL8ewaR2_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-10-18T10:21:43-04:00</dcterms:issued>
+</item>
+</rdf:RDF>
